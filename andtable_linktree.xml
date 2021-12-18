@@ -2,7 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeul.andtable</id>
     <title>노들섬 앤테이블 ─ 링크트리</title>
-    <updated>2021-12-18T09:08:49.822Z</updated>
+    <updated>2021-12-18T09:14:55.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<능히 해낼 2022 소원초 만들기> 응모하기]]></title>
+        <id>https://forms.gle/o7ZeiSh9rNJZ3Q2P9</id>
+        <link href="https://forms.gle/o7ZeiSh9rNJZ3Q2P9"/>
+        <updated>2021-12-18T09:14:40.967Z</updated>
+        <content type="html"><![CDATA[<a href="https://forms.gle/o7ZeiSh9rNJZ3Q2P9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">&lt;능히 해낼 2022 소원초 만들기&gt; 응모하기</p></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2인 창가석 예약] 🍄겨울 보양식 &TABLE]]></title>
+        <id>https://booking.naver.com/booking/6/bizes/486504/items/4205303</id>
+        <link href="https://booking.naver.com/booking/6/bizes/486504/items/4205303"/>
+        <updated>2021-12-18T09:14:40.968Z</updated>
+        <content type="html"><![CDATA[<a href="https://booking.naver.com/booking/6/bizes/486504/items/4205303" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq"> [2인 창가석 예약] 🍄겨울 보양식 &amp;TABLE</p></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4인 창가석 예약] 🍄겨울 보양식 &TABLE]]></title>
+        <id>https://booking.naver.com/booking/6/bizes/486504/items/4206063</id>
+        <link href="https://booking.naver.com/booking/6/bizes/486504/items/4206063"/>
+        <updated>2021-12-18T09:14:40.969Z</updated>
+        <content type="html"><![CDATA[<a href="https://booking.naver.com/booking/6/bizes/486504/items/4206063" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq"> [4인 창가석 예약] 🍄겨울 보양식 &amp;TABLE</p></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤테이블 팝업식당 구독하기(무료 멤버십) 👍]]></title>
+        <id>https://forms.gle/GZxqG7XTxQAUKRbP7</id>
+        <link href="https://forms.gle/GZxqG7XTxQAUKRbP7"/>
+        <updated>2021-12-18T09:14:40.970Z</updated>
+        <content type="html"><![CDATA[<a href="https://forms.gle/GZxqG7XTxQAUKRbP7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">앤테이블 팝업식당 구독하기(무료 멤버십) 👍</p></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팝업식당을 열어보고 싶다면? 👨‍🍳]]></title>
+        <id>https://www.notion.so/40a89ff500d64cdd832af07a0aadcf83</id>
+        <link href="https://www.notion.so/40a89ff500d64cdd832af07a0aadcf83"/>
+        <updated>2021-12-18T09:14:40.972Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.notion.so/40a89ff500d64cdd832af07a0aadcf83" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">팝업식당을 열어보고 싶다면? 👨‍🍳</p></a>]]></content>
+    </entry>
 </feed>
