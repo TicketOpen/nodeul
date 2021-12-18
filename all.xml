@@ -1,140 +1,272 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/nodeul/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-12-18T09:19:34.224Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[능히 해낼 2022 소원초 만들기 워크숍 (노들섬 ─ 링크트리)]]></title>
-        <id>https://forms.gle/1bqURrDmtX9TQGXD9</id>
-        <link href="https://forms.gle/1bqURrDmtX9TQGXD9"/>
-        <updated>2021-12-18T09:08:21.206Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://forms.gle/1bqURrDmtX9TQGXD9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">능히 해낼 2022 소원초 만들기 워크숍</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노들섬 공식 홈페이지 (노들섬 ─ 링크트리)]]></title>
-        <id>http://nodeul.org/</id>
-        <link href="http://nodeul.org/"/>
-        <updated>2021-12-18T09:08:21.208Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">노들섬 공식 홈페이지</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노들섬 페이스북 (노들섬 ─ 링크트리)]]></title>
-        <id>https://www.facebook.com/nodeul.seoul</id>
-        <link href="https://www.facebook.com/nodeul.seoul"/>
-        <updated>2021-12-18T09:08:21.211Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">노들섬 페이스북</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노들섬 유튜브 채널 (노들섬 ─ 링크트리)]]></title>
-        <id>https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig</id>
-        <link href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig"/>
-        <updated>2021-12-18T09:08:21.213Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">노들섬 유튜브 채널</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노들섬 2주년 기획공연         <The Wonder Weeks> 예매하기 (노들섬 음악노들 ─ 링크트리)]]></title>
-        <id>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;</id>
-        <link href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;"/>
-        <updated>2021-12-18T09:08:26.210Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx dEOCVq"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라디오 노들(RADIO NODEUL) YOUTUBE (노들섬 음악노들 ─ 링크트리)]]></title>
-        <id>https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA</id>
-        <link href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA"/>
-        <updated>2021-12-18T09:08:26.210Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx dEOCVq"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<능히 해낼 2022 소원초 만들기> 응모하기 (노들섬 앤테이블 ─ 링크트리)]]></title>
-        <id>https://forms.gle/o7ZeiSh9rNJZ3Q2P9</id>
-        <link href="https://forms.gle/o7ZeiSh9rNJZ3Q2P9"/>
-        <updated>2021-12-18T09:14:40.967Z</updated>
-        <content type="html"><![CDATA[<a href="https://forms.gle/o7ZeiSh9rNJZ3Q2P9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">&lt;능히 해낼 2022 소원초 만들기&gt; 응모하기</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2인 창가석 예약] 🍄겨울 보양식 &TABLE (노들섬 앤테이블 ─ 링크트리)]]></title>
-        <id>https://booking.naver.com/booking/6/bizes/486504/items/4205303</id>
-        <link href="https://booking.naver.com/booking/6/bizes/486504/items/4205303"/>
-        <updated>2021-12-18T09:14:40.968Z</updated>
-        <content type="html"><![CDATA[<a href="https://booking.naver.com/booking/6/bizes/486504/items/4205303" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq"> [2인 창가석 예약] 🍄겨울 보양식 &amp;TABLE</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4인 창가석 예약] 🍄겨울 보양식 &TABLE (노들섬 앤테이블 ─ 링크트리)]]></title>
-        <id>https://booking.naver.com/booking/6/bizes/486504/items/4206063</id>
-        <link href="https://booking.naver.com/booking/6/bizes/486504/items/4206063"/>
-        <updated>2021-12-18T09:14:40.969Z</updated>
-        <content type="html"><![CDATA[<a href="https://booking.naver.com/booking/6/bizes/486504/items/4206063" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq"> [4인 창가석 예약] 🍄겨울 보양식 &amp;TABLE</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤테이블 팝업식당 구독하기(무료 멤버십) 👍 (노들섬 앤테이블 ─ 링크트리)]]></title>
-        <id>https://forms.gle/GZxqG7XTxQAUKRbP7</id>
-        <link href="https://forms.gle/GZxqG7XTxQAUKRbP7"/>
-        <updated>2021-12-18T09:14:40.970Z</updated>
-        <content type="html"><![CDATA[<a href="https://forms.gle/GZxqG7XTxQAUKRbP7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">앤테이블 팝업식당 구독하기(무료 멤버십) 👍</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팝업식당을 열어보고 싶다면? 👨‍🍳 (노들섬 앤테이블 ─ 링크트리)]]></title>
-        <id>https://www.notion.so/40a89ff500d64cdd832af07a0aadcf83</id>
-        <link href="https://www.notion.so/40a89ff500d64cdd832af07a0aadcf83"/>
-        <updated>2021-12-18T09:14:40.972Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.notion.so/40a89ff500d64cdd832af07a0aadcf83" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">팝업식당을 열어보고 싶다면? 👨‍🍳</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📅 "오늘 스페이스 445 문 열었나요?" - 달력 보러 가기 (노들섬 아트스페이스 ─ 링크트리)]]></title>
-        <id>https://calendar.google.com/calendar/embed?src=nodeul.space445%40gmail.com&amp;ctz=Asia%2FSeoul</id>
-        <link href="https://calendar.google.com/calendar/embed?src=nodeul.space445%40gmail.com&amp;ctz=Asia%2FSeoul"/>
-        <updated>2021-12-18T09:06:21.315Z</updated>
-        <content type="html"><![CDATA[<a href="https://calendar.google.com/calendar/embed?src=nodeul.space445%40gmail.com&amp;ctz=Asia%2FSeoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">📅 "오늘 스페이스 445 문 열었나요?" - 달력 보러 가기</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎨 [두굳두굳 워크숍] ‘내가 경험하고 느낀 2021’ 드로잉 워크숍 with 김유정 (Suerte Yu) 작가님 (노들섬 아트스페이스 ─ 링크트리)]]></title>
-        <id>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</id>
-        <link href="https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/"/>
-        <updated>2021-12-18T09:06:21.316Z</updated>
-        <content type="html"><![CDATA[<a href="https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">🎨 [두굳두굳 워크숍] ‘내가 경험하고 느낀 2021’ 드로잉 워크숍 with 김유정 (Suerte Yu) 작가님 </p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.) (노들섬 아트스페이스 ─ 링크트리)]]></title>
-        <id>https://TicketOpen.github.io/nodeul/all.xml</id>
-        <link href="https://TicketOpen.github.io/nodeul/all.xml"/>
-        <updated>2021-12-18T09:19:26.012Z</updated>
-        <content type="html"><![CDATA[<a href="https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 iLRKzL bhdLno igGpjL"><img data-testid="LinkThumbnailImage" src="https://cdn.filestackcontent.com/Tl6ic4pwRkGXZlr1B9dM" alt="@nodeul.space445 👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.) Link Thumbnail | Linktree" crossorigin="" filter="" class="sc-iBPRYJ ixnjJK"></div><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.)</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[응모하기] 소원초 만들기 워크숍(12.30, 12.31) (노들섬 식물도 ─ 링크트리)]]></title>
-        <id>https://forms.gle/WCy3vQkkmHsKEsgSA</id>
-        <link href="https://forms.gle/WCy3vQkkmHsKEsgSA"/>
-        <updated>2021-12-18T09:17:27.971Z</updated>
-        <content type="html"><![CDATA[<a href="https://forms.gle/WCy3vQkkmHsKEsgSA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-sikmuldo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[응모하기] 소원초 만들기 워크숍(12.30, 12.31)</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프로그램] 식물 폰 케이스 만들기 (노들섬 식물도 ─ 링크트리)]]></title>
-        <id>http://nodeul.org/program/%ed%8f%b0%ec%bc%80%ec%9d%b4%ec%8a%a4-%ec%8b%9d%eb%ac%bc-%ea%b7%b8%eb%a6%ac%ea%b8%b0/</id>
-        <link href="http://nodeul.org/program/%ed%8f%b0%ec%bc%80%ec%9d%b4%ec%8a%a4-%ec%8b%9d%eb%ac%bc-%ea%b7%b8%eb%a6%ac%ea%b8%b0/"/>
-        <updated>2021-12-18T09:17:27.972Z</updated>
-        <content type="html"><![CDATA[<a href="http://nodeul.org/program/%ed%8f%b0%ec%bc%80%ec%9d%b4%ec%8a%a4-%ec%8b%9d%eb%ac%bc-%ea%b7%b8%eb%a6%ac%ea%b8%b0/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-sikmuldo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[프로그램] 식물 폰 케이스 만들기</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📅 "오늘 노들서가 문 열었나요?" - 달력 보러 가기 (노들서가 ─ 링크트리)]]></title>
-        <id>https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul</id>
-        <link href="https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul"/>
-        <updated>2021-12-18T09:17:31.207Z</updated>
-        <content type="html"><![CDATA[<a href="https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">📅 "오늘 노들서가 문 열었나요?" - 달력 보러 가기 </p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎨 "<겨울동화> 전시해요"- 전시 보러 가기 (21.12.03.~22.01.16.) (노들서가 ─ 링크트리)]]></title>
-        <id>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</id>
-        <link href="https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/"/>
-        <updated>2021-12-18T09:17:31.208Z</updated>
-        <content type="html"><![CDATA[<a href="https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">🎨 "&lt;겨울동화&gt; 전시해요"- 전시 보러 가기 (21.12.03.~22.01.16.)</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🏝 노들섬 공식 홈페이지 (노들서가 ─ 링크트리)]]></title>
-        <id>http://nodeul.org/</id>
-        <link href="http://nodeul.org/"/>
-        <updated>2021-12-18T09:08:21.208Z</updated>
-        <content type="html"><![CDATA[<a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">🏝 노들섬 공식 홈페이지</p></a>]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 18 Dec 2021 09:25:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소원초 워크숍 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%86%8c%ec%9b%90%ec%b4%88-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
+            <guid>https://nodeul.org/program/%ec%86%8c%ec%9b%90%ec%b4%88-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.30 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/18052221/SNS%EC%9A%A9-%EC%9D%B4%EB%AF%B8%EC%A7%803.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들버스커 12월 버스킹(2/2) (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2-2/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.18 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/16035735/211214_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ‘불구경’ (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</link>
+            <guid>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/15191944/THAP_%EB%B6%88%EA%B5%AC%EA%B2%BD_2021_Poster.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스페이스445]Home sweet Home_지누박 개인전 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.22 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10053541/%EC%A7%80%EB%88%84%EB%B0%95_%EA%B3%B5%ED%99%88%EC%8D%B8%EB%84%A4%EC%9D%BC767x953px.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
+            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</link>
+            <guid>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.25 (토) 18:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10000734/GIFTG-Village_Poster_final.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장（ ）자리에서’ (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%95%88%eb%85%95%ed%95%98%ec%8b%a0%ea%b0%80%ec%98%81-ep-%eb%b0%9c%eb%a7%a4%ea%b8%b0%eb%85%90-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ea%b0%80%ec%9e%a5%ef%bc%88-%ef%bc%89%ec%9e%90/</link>
+            <guid>https://nodeul.org/program/%ec%95%88%eb%85%95%ed%95%98%ec%8b%a0%ea%b0%80%ec%98%81-ep-%eb%b0%9c%eb%a7%a4%ea%b8%b0%eb%85%90-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ea%b0%80%ec%9e%a5%ef%bc%88-%ef%bc%89%ec%9e%90/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 (금) 20:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09023311/20211125-40910-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들버스커 12월 버스킹(1/2) (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/01025023/1130_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘내가 경험하고 느낀 2021’ 드로잉 워크숍 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
+            <guid>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:06:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.04 (토) 13:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/28221220/%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.31 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24191954/ssg_disc_paper_04.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/11451-2/</link>
+            <guid>https://nodeul.org/program/11451-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24190943/%EC%97%89%EC%97%89%EC%BD%982021-poster-print-2_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[고기남자 &TABLE (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ea%b3%a0%ea%b8%b0%eb%82%a8%ec%9e%90-table/</link>
+            <guid>https://nodeul.org/program/%ea%b3%a0%ea%b8%b0%eb%82%a8%ec%9e%90-table/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/20232845/%EA%B3%A0%EA%B8%B0%EB%82%A8%EC%9E%90-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-crop.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제70회 서울시 문화상 수상자 행사 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%a0%9c70%ed%9a%8c-%ec%84%9c%ec%9a%b8%ec%8b%9c-%eb%ac%b8%ed%99%94%ec%83%81-%ec%88%98%ec%83%81%ec%9e%90-%ed%96%89%ec%82%ac/</link>
+            <guid>https://nodeul.org/program/%ec%a0%9c70%ed%9a%8c-%ec%84%9c%ec%9a%b8%ec%8b%9c-%eb%ac%b8%ed%99%94%ec%83%81-%ec%88%98%ec%83%81%ec%9e%90-%ed%96%89%ec%82%ac/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.20 (토) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/18041836/%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%AC%B8%ED%99%94%EC%83%81%EC%88%98%EC%83%81%EC%9E%90%ED%96%89%EC%82%AC_%EC%B5%9C%EC%A2%85%EB%94%94%EC%9E%90%EC%9D%B8%EC%99%84.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[wave to earth 단독공연 [wave field 0.1] (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</link>
+            <guid>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/17200650/wave-field.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</link>
+            <guid>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/16234958/DB_%EA%B3%B1%EB%82%98%EC%87%BC_3_poster_1_%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Token : KARTZ Art Shapes the Future (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</link>
+            <guid>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/13023214/%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[능히 해낼 2022 소원초 만들기 워크숍 (노들섬 ─ 링크트리)]]></title>
+            <link>https://forms.gle/1bqURrDmtX9TQGXD9</link>
+            <guid>https://forms.gle/1bqURrDmtX9TQGXD9</guid>
+            <pubDate>Sat, 18 Dec 2021 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://forms.gle/1bqURrDmtX9TQGXD9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">능히 해낼 2022 소원초 만들기 워크숍</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노들섬 공식 홈페이지 (노들섬 ─ 링크트리)]]></title>
+            <link>http://nodeul.org/</link>
+            <guid>http://nodeul.org/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">노들섬 공식 홈페이지</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노들섬 페이스북 (노들섬 ─ 링크트리)]]></title>
+            <link>https://www.facebook.com/nodeul.seoul</link>
+            <guid>https://www.facebook.com/nodeul.seoul</guid>
+            <pubDate>Sat, 18 Dec 2021 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">노들섬 페이스북</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노들섬 유튜브 채널 (노들섬 ─ 링크트리)]]></title>
+            <link>https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig</link>
+            <guid>https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig</guid>
+            <pubDate>Sat, 18 Dec 2021 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">노들섬 유튜브 채널</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노들섬 2주년 기획공연         <The Wonder Weeks> 예매하기 (노들섬 음악노들 ─ 링크트리)]]></title>
+            <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;</link>
+            <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;</guid>
+            <pubDate>Sat, 18 Dec 2021 09:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx dEOCVq"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[라디오 노들(RADIO NODEUL) YOUTUBE (노들섬 음악노들 ─ 링크트리)]]></title>
+            <link>https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA</link>
+            <guid>https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA</guid>
+            <pubDate>Sat, 18 Dec 2021 09:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx dEOCVq"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<능히 해낼 2022 소원초 만들기> 응모하기 (노들섬 앤테이블 ─ 링크트리)]]></title>
+            <link>https://forms.gle/o7ZeiSh9rNJZ3Q2P9</link>
+            <guid>https://forms.gle/o7ZeiSh9rNJZ3Q2P9</guid>
+            <pubDate>Sat, 18 Dec 2021 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://forms.gle/o7ZeiSh9rNJZ3Q2P9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">&lt;능히 해낼 2022 소원초 만들기&gt; 응모하기</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2인 창가석 예약] 🍄겨울 보양식 &TABLE (노들섬 앤테이블 ─ 링크트리)]]></title>
+            <link>https://booking.naver.com/booking/6/bizes/486504/items/4205303</link>
+            <guid>https://booking.naver.com/booking/6/bizes/486504/items/4205303</guid>
+            <pubDate>Sat, 18 Dec 2021 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://booking.naver.com/booking/6/bizes/486504/items/4205303" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq"> [2인 창가석 예약] 🍄겨울 보양식 &amp;TABLE</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[4인 창가석 예약] 🍄겨울 보양식 &TABLE (노들섬 앤테이블 ─ 링크트리)]]></title>
+            <link>https://booking.naver.com/booking/6/bizes/486504/items/4206063</link>
+            <guid>https://booking.naver.com/booking/6/bizes/486504/items/4206063</guid>
+            <pubDate>Sat, 18 Dec 2021 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://booking.naver.com/booking/6/bizes/486504/items/4206063" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq"> [4인 창가석 예약] 🍄겨울 보양식 &amp;TABLE</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앤테이블 팝업식당 구독하기(무료 멤버십) 👍 (노들섬 앤테이블 ─ 링크트리)]]></title>
+            <link>https://forms.gle/GZxqG7XTxQAUKRbP7</link>
+            <guid>https://forms.gle/GZxqG7XTxQAUKRbP7</guid>
+            <pubDate>Sat, 18 Dec 2021 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://forms.gle/GZxqG7XTxQAUKRbP7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">앤테이블 팝업식당 구독하기(무료 멤버십) 👍</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팝업식당을 열어보고 싶다면? 👨‍🍳 (노들섬 앤테이블 ─ 링크트리)]]></title>
+            <link>https://www.notion.so/40a89ff500d64cdd832af07a0aadcf83</link>
+            <guid>https://www.notion.so/40a89ff500d64cdd832af07a0aadcf83</guid>
+            <pubDate>Sat, 18 Dec 2021 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://www.notion.so/40a89ff500d64cdd832af07a0aadcf83" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">팝업식당을 열어보고 싶다면? 👨‍🍳</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[📅 "오늘 스페이스 445 문 열었나요?" - 달력 보러 가기 (노들섬 아트스페이스 ─ 링크트리)]]></title>
+            <link>https://calendar.google.com/calendar/embed?src=nodeul.space445%40gmail.com&amp;ctz=Asia%2FSeoul</link>
+            <guid>https://calendar.google.com/calendar/embed?src=nodeul.space445%40gmail.com&amp;ctz=Asia%2FSeoul</guid>
+            <pubDate>Sat, 18 Dec 2021 09:06:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://calendar.google.com/calendar/embed?src=nodeul.space445%40gmail.com&amp;ctz=Asia%2FSeoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">📅 "오늘 스페이스 445 문 열었나요?" - 달력 보러 가기</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎨 [두굳두굳 워크숍] ‘내가 경험하고 느낀 2021’ 드로잉 워크숍 with 김유정 (Suerte Yu) 작가님 (노들섬 아트스페이스 ─ 링크트리)]]></title>
+            <link>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
+            <guid>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:06:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">🎨 [두굳두굳 워크숍] ‘내가 경험하고 느낀 2021’ 드로잉 워크숍 with 김유정 (Suerte Yu) 작가님 </p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.) (노들섬 아트스페이스 ─ 링크트리)]]></title>
+            <link>https://TicketOpen.github.io/nodeul/all.xml</link>
+            <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
+            <pubDate>Sat, 18 Dec 2021 09:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 iLRKzL bhdLno igGpjL"><img data-testid="LinkThumbnailImage" src="https://cdn.filestackcontent.com/Tl6ic4pwRkGXZlr1B9dM" alt="@nodeul.space445 👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.) Link Thumbnail | Linktree" crossorigin="" filter="" class="sc-iBPRYJ ixnjJK"></div><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.)</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[응모하기] 소원초 만들기 워크숍(12.30, 12.31) (노들섬 식물도 ─ 링크트리)]]></title>
+            <link>https://forms.gle/WCy3vQkkmHsKEsgSA</link>
+            <guid>https://forms.gle/WCy3vQkkmHsKEsgSA</guid>
+            <pubDate>Sat, 18 Dec 2021 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://forms.gle/WCy3vQkkmHsKEsgSA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-sikmuldo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[응모하기] 소원초 만들기 워크숍(12.30, 12.31)</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[프로그램] 식물 폰 케이스 만들기 (노들섬 식물도 ─ 링크트리)]]></title>
+            <link>http://nodeul.org/program/%ed%8f%b0%ec%bc%80%ec%9d%b4%ec%8a%a4-%ec%8b%9d%eb%ac%bc-%ea%b7%b8%eb%a6%ac%ea%b8%b0/</link>
+            <guid>http://nodeul.org/program/%ed%8f%b0%ec%bc%80%ec%9d%b4%ec%8a%a4-%ec%8b%9d%eb%ac%bc-%ea%b7%b8%eb%a6%ac%ea%b8%b0/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="http://nodeul.org/program/%ed%8f%b0%ec%bc%80%ec%9d%b4%ec%8a%a4-%ec%8b%9d%eb%ac%bc-%ea%b7%b8%eb%a6%ac%ea%b8%b0/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-sikmuldo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[프로그램] 식물 폰 케이스 만들기</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[📅 "오늘 노들서가 문 열었나요?" - 달력 보러 가기 (노들서가 ─ 링크트리)]]></title>
+            <link>https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul</link>
+            <guid>https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul</guid>
+            <pubDate>Sat, 18 Dec 2021 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">📅 "오늘 노들서가 문 열었나요?" - 달력 보러 가기 </p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎨 "<겨울동화> 전시해요"- 전시 보러 가기 (21.12.03.~22.01.16.) (노들서가 ─ 링크트리)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">🎨 "&lt;겨울동화&gt; 전시해요"- 전시 보러 가기 (21.12.03.~22.01.16.)</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🏝 노들섬 공식 홈페이지 (노들서가 ─ 링크트리)]]></title>
+            <link>http://nodeul.org/</link>
+            <guid>http://nodeul.org/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">🏝 노들섬 공식 홈페이지</p></a>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
