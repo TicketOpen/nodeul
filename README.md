@@ -12,11 +12,20 @@ https://ticketopen.github.io/nodeul/nodeul_programs.xml
 - 기타: https://ticketopen.github.io/nodeul/nodeul_etc.xml
 
 ### 현재
+- 전체: https://ticketopen.github.io/nodeul/nodeul_program-present.xml
+- 공연: https://ticketopen.github.io/nodeul/nodeul_program-present_show.xml
+- 페스티벌: https://ticketopen.github.io/nodeul/nodeul_program-present_festival.xml
+- 전시: https://ticketopen.github.io/nodeul/nodeul_program-present_exhibit.xml
+- 워크숍: https://ticketopen.github.io/nodeul/nodeul_program-present_workshop.xml
+- 기타: https://ticketopen.github.io/nodeul/nodeul_program-present_etc.xml
 
 ### 예정
-- 전쳬: https://ticketopen.github.io/nodeul/nodeul_program-planned.xml
+- 전체: https://ticketopen.github.io/nodeul/nodeul_program-planned.xml
 - 공연: https://ticketopen.github.io/nodeul/nodeul_program-planned_show.xml
+- 페스티벌: https://ticketopen.github.io/nodeul/nodeul_program-planned_festival.xml
 - 전시: https://ticketopen.github.io/nodeul/nodeul_program-planned_exhibit.xml
+- 워크숍: https://ticketopen.github.io/nodeul/nodeul_program-planned_workshop.xml
+- 기타: https://ticketopen.github.io/nodeul/nodeul_program-planned_etc.xml
 
 ## 링크트리
 - 노들섬: https://ticketopen.github.io/nodeul/nodeul_linktree.xml
