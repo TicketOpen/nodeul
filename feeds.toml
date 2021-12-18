@@ -18,6 +18,36 @@ contentSelector = "div.entry-meta.ellipsis span.date"
 imageSelector = "div.entry-content-asset.m-program-asset img"
 waitUntil = "networkidle"
 
+[nodeul_show]
+title = "노들섬 ─ 프로그램 ─ 전체 ─ 공연"
+url = "https://nodeul.org/types/show/"
+entrySelector = "div.row-small.col-small div.col-sm-3.col-xs-6"
+titleSelector = "div.entry-title.ellipsis"
+linkSelector = "div.matchbox article a"
+contentSelector = "div.entry-meta.ellipsis span.date"
+imageSelector = "div.entry-content-asset.m-program-asset img"
+waitUntil = "networkidle"
+
+[nodeul_festival]
+title = "노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌"
+url = "https://nodeul.org/types/festival/"
+entrySelector = "div.row-small.col-small div.col-sm-3.col-xs-6"
+titleSelector = "div.entry-title.ellipsis"
+linkSelector = "div.matchbox article a"
+contentSelector = "div.entry-meta.ellipsis span.date"
+imageSelector = "div.entry-content-asset.m-program-asset img"
+waitUntil = "networkidle"
+
+[nodeul_exhibit]
+title = "노들섬 ─ 프로그램 ─ 전체 ─ 전시"
+url = "https://nodeul.org/types/exhibit/"
+entrySelector = "div.row-small.col-small div.col-sm-3.col-xs-6"
+titleSelector = "div.entry-title.ellipsis"
+linkSelector = "div.matchbox article a"
+contentSelector = "div.entry-meta.ellipsis span.date"
+imageSelector = "div.entry-content-asset.m-program-asset img"
+waitUntil = "networkidle"
+
 [nodeul_linktree]
 title = "노들섬 ─ 링크트리"
 url = "https://linktr.ee/nodeul.seoul"
