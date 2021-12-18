@@ -48,6 +48,26 @@ contentSelector = "div.entry-meta.ellipsis span.date"
 imageSelector = "div.entry-content-asset.m-program-asset img"
 waitUntil = "networkidle"
 
+[nodeul_workshop]
+title = "노들섬 ─ 프로그램 ─ 전체 ─ 위크숍"
+url = "https://nodeul.org/types/workshop/"
+entrySelector = "div.row-small.col-small div.col-sm-3.col-xs-6"
+titleSelector = "div.entry-title.ellipsis"
+linkSelector = "div.matchbox article a"
+contentSelector = "div.entry-meta.ellipsis span.date"
+imageSelector = "div.entry-content-asset.m-program-asset img"
+waitUntil = "networkidle"
+
+[nodeul_etc]
+title = "노들섬 ─ 프로그램 ─ 전체 ─ 기타"
+url = "https://nodeul.org/types/etc/"
+entrySelector = "div.row-small.col-small div.col-sm-3.col-xs-6"
+titleSelector = "div.entry-title.ellipsis"
+linkSelector = "div.matchbox article a"
+contentSelector = "div.entry-meta.ellipsis span.date"
+imageSelector = "div.entry-content-asset.m-program-asset img"
+waitUntil = "networkidle"
+
 [nodeul_linktree]
 title = "노들섬 ─ 링크트리"
 url = "https://linktr.ee/nodeul.seoul"
