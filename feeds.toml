@@ -1,3 +1,13 @@
+[nodeul_programs]
+title = "노들섬 ─ 프로그램"
+url = "https://nodeul.org/programs/"
+entrySelector = "div.list_warp.row-small.col-small div.col-sm-3.col-xs-6"
+titleSelector = "div.entry-title.ellipsis"
+linkSelector = "div.matchbox article a"
+contentSelector = "div.entry-meta.ellipsis span.date"
+imageSelector = "div.thumbnail-box"
+waitUntil = "networkidle"
+
 [nodeul_linktree]
 title = "노들섬 ─ 링크트리"
 url = "https://linktr.ee/nodeul.seoul"
