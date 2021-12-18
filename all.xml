@@ -4,9 +4,137 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 09:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 09:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소원초 워크숍 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%86%8c%ec%9b%90%ec%b4%88-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
+            <guid>https://nodeul.org/program/%ec%86%8c%ec%9b%90%ec%b4%88-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.30 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/18052221/SNS%EC%9A%A9-%EC%9D%B4%EB%AF%B8%EC%A7%803.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들버스커 12월 버스킹(2/2) (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2-2/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.18 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/16035735/211214_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ‘불구경’ (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</link>
+            <guid>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/15191944/THAP_%EB%B6%88%EA%B5%AC%EA%B2%BD_2021_Poster.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스페이스445]Home sweet Home_지누박 개인전 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.22 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10053541/%EC%A7%80%EB%88%84%EB%B0%95_%EA%B3%B5%ED%99%88%EC%8D%B8%EB%84%A4%EC%9D%BC767x953px.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
+            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</link>
+            <guid>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.25 (토) 18:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10000734/GIFTG-Village_Poster_final.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장（ ）자리에서’ (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%95%88%eb%85%95%ed%95%98%ec%8b%a0%ea%b0%80%ec%98%81-ep-%eb%b0%9c%eb%a7%a4%ea%b8%b0%eb%85%90-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ea%b0%80%ec%9e%a5%ef%bc%88-%ef%bc%89%ec%9e%90/</link>
+            <guid>https://nodeul.org/program/%ec%95%88%eb%85%95%ed%95%98%ec%8b%a0%ea%b0%80%ec%98%81-ep-%eb%b0%9c%eb%a7%a4%ea%b8%b0%eb%85%90-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ea%b0%80%ec%9e%a5%ef%bc%88-%ef%bc%89%ec%9e%90/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 (금) 20:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09023311/20211125-40910-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들버스커 12월 버스킹(1/2) (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/01025023/1130_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘내가 경험하고 느낀 2021’ 드로잉 워크숍 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
+            <guid>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:06:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.04 (토) 13:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/28221220/%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.31 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24191954/ssg_disc_paper_04.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/11451-2/</link>
+            <guid>https://nodeul.org/program/11451-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24190943/%EC%97%89%EC%97%89%EC%BD%982021-poster-print-2_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[고기남자 &TABLE (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ea%b3%a0%ea%b8%b0%eb%82%a8%ec%9e%90-table/</link>
+            <guid>https://nodeul.org/program/%ea%b3%a0%ea%b8%b0%eb%82%a8%ec%9e%90-table/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/20232845/%EA%B3%A0%EA%B8%B0%EB%82%A8%EC%9E%90-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-crop.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제70회 서울시 문화상 수상자 행사 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%a0%9c70%ed%9a%8c-%ec%84%9c%ec%9a%b8%ec%8b%9c-%eb%ac%b8%ed%99%94%ec%83%81-%ec%88%98%ec%83%81%ec%9e%90-%ed%96%89%ec%82%ac/</link>
+            <guid>https://nodeul.org/program/%ec%a0%9c70%ed%9a%8c-%ec%84%9c%ec%9a%b8%ec%8b%9c-%eb%ac%b8%ed%99%94%ec%83%81-%ec%88%98%ec%83%81%ec%9e%90-%ed%96%89%ec%82%ac/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.20 (토) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/18041836/%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%AC%B8%ED%99%94%EC%83%81%EC%88%98%EC%83%81%EC%9E%90%ED%96%89%EC%82%AC_%EC%B5%9C%EC%A2%85%EB%94%94%EC%9E%90%EC%9D%B8%EC%99%84.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[wave to earth 단독공연 [wave field 0.1] (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</link>
+            <guid>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/17200650/wave-field.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</link>
+            <guid>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/16234958/DB_%EA%B3%B1%EB%82%98%EC%87%BC_3_poster_1_%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Token : KARTZ Art Shapes the Future (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</link>
+            <guid>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/13023214/%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (노들섬 ─ 프로그램 ─ 전체)]]></title>
             <link>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</link>
@@ -104,6 +232,294 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/04213831/%EB%8C%80%EC%A7%80-1-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.31 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24191954/ssg_disc_paper_04-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
+            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</link>
+            <guid>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.25 (토) 18:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10000734/GIFTG-Village_Poster_final-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장（ ）자리에서’ (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%ec%95%88%eb%85%95%ed%95%98%ec%8b%a0%ea%b0%80%ec%98%81-ep-%eb%b0%9c%eb%a7%a4%ea%b8%b0%eb%85%90-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ea%b0%80%ec%9e%a5%ef%bc%88-%ef%bc%89%ec%9e%90/</link>
+            <guid>https://nodeul.org/program/%ec%95%88%eb%85%95%ed%95%98%ec%8b%a0%ea%b0%80%ec%98%81-ep-%eb%b0%9c%eb%a7%a4%ea%b8%b0%eb%85%90-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ea%b0%80%ec%9e%a5%ef%bc%88-%ef%bc%89%ec%9e%90/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 (금) 20:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09023311/20211125-40910-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ‘불구경’ (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</link>
+            <guid>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/15191944/THAP_%EB%B6%88%EA%B5%AC%EA%B2%BD_2021_Poster-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들버스커 12월 버스킹(2/2) (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2-2/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.18 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/16035735/211214_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/11451-2/</link>
+            <guid>https://nodeul.org/program/11451-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24190943/%EC%97%89%EC%97%89%EC%BD%982021-poster-print-2_1-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[유미 단독 콘서트 [Let’s just live today] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%eb%af%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-lets-just-live-today/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%eb%af%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-lets-just-live-today/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.12 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/11035045/%ED%8F%AC%EC%8A%A4%ED%84%B0-1110-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[wave to earth 단독공연 [wave field 0.1] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</link>
+            <guid>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/17200650/wave-field-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</link>
+            <guid>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/16234958/DB_%EA%B3%B1%EB%82%98%EC%87%BC_3_poster_1_%EC%88%98%EC%A0%95-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들버스커 12월 버스킹(1/2) (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/01025023/1130_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-11-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 김수영 단독공연 [EPISODE] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2021-%ea%b9%80%ec%88%98%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-episode/</link>
+            <guid>https://nodeul.org/program/2021-%ea%b9%80%ec%88%98%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-episode/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.27 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/27020504/POSTER-KIMSUYOUNG_EPISODE-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인] 노들섬 2주년 기획공연 [The Wonder Weeks – ＃4th week : 서로에게 물든 우리] (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks-%ef%bc%834th-week-%ec%84%9c%eb%a1%9c%ec%97%90%ea%b2%8c/</link>
+            <guid>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks-%ef%bc%834th-week-%ec%84%9c%eb%a1%9c%ec%97%90%ea%b2%8c/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.12 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/09/07200504/210819_2%EC%A3%BC%EB%85%84_%EC%9B%90%EB%8D%94%EC%9C%85%EC%8A%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%B5%9C%EC%A2%85-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인] 노들섬 2주년 기획공연 [The Wonder Weeks – ＃3rd week : 함께 해야 알 수 있는] (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks-%ef%bc%833rd-week-%ed%95%a8%ea%bb%98-%ed%95%b4/</link>
+            <guid>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks-%ef%bc%833rd-week-%ed%95%a8%ea%bb%98-%ed%95%b4/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/09/07200504/210819_2%EC%A3%BC%EB%85%84_%EC%9B%90%EB%8D%94%EC%9C%85%EC%8A%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%B5%9C%EC%A2%85-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인] 노들섬 2주년 기획공연 [The Wonder Weeks – ＃2nd week : 매일 상상했던 오늘] (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks-%ef%bc%832nd-week-%eb%a7%a4%ec%9d%bc-%ec%83%81/</link>
+            <guid>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks-%ef%bc%832nd-week-%eb%a7%a4%ec%9d%bc-%ec%83%81/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/09/07200504/210819_2%EC%A3%BC%EB%85%84_%EC%9B%90%EB%8D%94%EC%9C%85%EC%8A%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%B5%9C%EC%A2%85-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인] 노들섬 2주년 기획공연 [The Wonder Weeks – ＃1st week : 당신이 찾아오기까지] (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks-%ef%bc%831st-week-%eb%8b%b9%ec%8b%a0%ec%9d%b4/</link>
+            <guid>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks-%ef%bc%831st-week-%eb%8b%b9%ec%8b%a0%ec%9d%b4/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/09/07200504/210819_2%EC%A3%BC%EB%85%84_%EC%9B%90%EB%8D%94%EC%9C%85%EC%8A%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%B5%9C%EC%A2%85-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[온라인] 노들섬 2주년 기획공연 [The Wonder Weeks] (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%98%a8%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks/</link>
+            <guid>https://nodeul.org/program/%ec%98%a8%eb%9d%bc%ec%9d%b8-%eb%85%b8%eb%93%a4%ec%84%ac-2%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ea%b3%b5%ec%97%b0-the-wonder-weeks/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/08024937/210909_%EB%8B%A8%EC%B6%94tv_md%EC%83%B5_%EC%BB%A4%EB%B2%84-05-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인 1부] 2021 LOVESOME – 참 애썼다, 그것으로 되었다 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-2021-lovesome-%ec%b0%b8-%ec%95%a0%ec%8d%bc%eb%8b%a4-%ea%b7%b8%ea%b2%83%ec%9c%bc%eb%a1%9c-%eb%90%98%ec%97%88%eb%8b%a4/</link>
+            <guid>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-2021-lovesome-%ec%b0%b8-%ec%95%a0%ec%8d%bc%eb%8b%a4-%ea%b7%b8%ea%b2%83%ec%9c%bc%eb%a1%9c-%eb%90%98%ec%97%88%eb%8b%a4/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.04.03 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/03/05123149/2021-LOVESOME.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[온라인 전체관람] 2021 LOVESOME – 참 애썼다, 그것으로 되었다 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%98%a8%eb%9d%bc%ec%9d%b8-2021-lovesome-%ec%b0%b8-%ec%95%a0%ec%8d%bc%eb%8b%a4-%ea%b7%b8%ea%b2%83%ec%9c%bc%eb%a1%9c-%eb%90%98%ec%97%88%eb%8b%a4/</link>
+            <guid>https://nodeul.org/program/%ec%98%a8%eb%9d%bc%ec%9d%b8-2021-lovesome-%ec%b0%b8-%ec%95%a0%ec%8d%bc%eb%8b%a4-%ea%b7%b8%ea%b2%83%ec%9c%bc%eb%a1%9c-%eb%90%98%ec%97%88%eb%8b%a4/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.04.03 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/03/05123248/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인 2부] 2021 LOVESOME – 참 애썼다, 그것으로 되었다 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-2%eb%b6%80-2021-lovesome-%ec%b0%b8-%ec%95%a0%ec%8d%bc%eb%8b%a4-%ea%b7%b8%ea%b2%83%ec%9c%bc%eb%a1%9c-%eb%90%98%ec%97%88%eb%8b%a4/</link>
+            <guid>https://nodeul.org/program/%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-2%eb%b6%80-2021-lovesome-%ec%b0%b8-%ec%95%a0%ec%8d%bc%eb%8b%a4-%ea%b7%b8%ea%b2%83%ec%9c%bc%eb%a1%9c-%eb%90%98%ec%97%88%eb%8b%a4/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.04.03 (토) 18:20]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/03/29123030/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[섬데이] 노들섬 10~2월 프로그램 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/test/</link>
+            <guid>https://nodeul.org/program/test/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2020.12.01 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2020/11/14113646/%E1%84%89%E1%85%A5%E1%86%B7%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AF-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7-%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2-11%E1%84%8B%E1%85%AF%E1%86%AF-%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC-12-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노들서가] 섬밤: ‘나’를 위한 1인분 독서 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ec%84%ac%eb%b0%a4-%eb%82%98%eb%a5%bc-%ec%9c%84%ed%95%9c-1%ec%9d%b8%eb%b6%84-%eb%8f%85%ec%84%9c/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ec%84%ac%eb%b0%a4-%eb%82%98%eb%a5%bc-%ec%9c%84%ed%95%9c-1%ec%9d%b8%eb%b6%84-%eb%8f%85%ec%84%9c/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2020.11.29 (일) 18:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2020/11/19153529/%EC%84%AC%EB%B0%A4_1%EC%9D%B8%EB%B6%84%EB%8F%85%EC%84%9C_2-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[노들서가] 북캐인사이드 11.25(수)- 11.29(일) (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%b6%81%ec%ba%90%ec%9d%b8%ec%82%ac%ec%9d%b4%eb%93%9c-11-25%ec%88%98-11-29%ec%9d%bc/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%b6%81%ec%ba%90%ec%9d%b8%ec%82%ac%ec%9d%b4%eb%93%9c-11-25%ec%88%98-11-29%ec%9d%bc/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2020.11.25 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2020/11/19114330/%EB%B6%81%EC%BA%90%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악노들 온에어2（ON AIR 2) : 반려생활, 반려음악 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%9d%8c%ec%95%85%eb%85%b8%eb%93%a4-%ec%98%a8%ec%97%90%ec%96%b42%ef%bc%88on-air-2-%eb%b0%98%eb%a0%a4%ec%83%9d%ed%99%9c-%eb%b0%98%eb%a0%a4%ec%9d%8c%ec%95%85/</link>
+            <guid>https://nodeul.org/program/%ec%9d%8c%ec%95%85%eb%85%b8%eb%93%a4-%ec%98%a8%ec%97%90%ec%96%b42%ef%bc%88on-air-2-%eb%b0%98%eb%a0%a4%ec%83%9d%ed%99%9c-%eb%b0%98%eb%a0%a4%ec%9d%8c%ec%95%85/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2020.10.17 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2020/09/29135640/200924_%EB%B0%98%EB%A0%A4%EC%83%9D%ED%99%9C_%ED%8F%AC%EC%8A%A4%ED%84%B0_4-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스페이스445]Home sweet Home_지누박 개인전 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.22 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10053541/%EC%A7%80%EB%88%84%EB%B0%95_%EA%B3%B5%ED%99%88%EC%8D%B8%EB%84%A4%EC%9D%BC767x953px-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노들서가] 겨울동화_문경 개인전 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/11014336/%EC%84%AC%EB%84%A4%EC%9D%BC-01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Token : KARTZ Art Shapes the Future (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</link>
+            <guid>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/13023214/%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노들서가] 노들도,感_최아영 개인전 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%85%b8%eb%93%a4%eb%8f%84%e6%84%9f_%ec%b5%9c%ec%95%84%ec%98%81-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%85%b8%eb%93%a4%eb%8f%84%e6%84%9f_%ec%b5%9c%ec%95%84%ec%98%81-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/27051533/01_thumbnail_767x953-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들기록 <두번째 전시, 건축의 기억> (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ea%b8%b0%eb%a1%9d-2/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ea%b8%b0%eb%a1%9d-2/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.29 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/17190105/%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%85%B8%EB%93%A4%EA%B8%B0%EB%A1%9D_2%EC%B0%A8%EC%A0%84%EC%8B%9C-%EC%9D%B4%ED%98%84%EC%A4%80-%EC%9E%91%EA%B0%80%EB%82%A0%EC%A7%9C-%EB%B3%80%EA%B2%BD_%EB%8C%80%EC%A7%80-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[『세 발로 하는 산책』 책 그림전 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%e3%80%8e%ec%84%b8-%eb%b0%9c%eb%a1%9c-%ed%95%98%eb%8a%94-%ec%82%b0%ec%b1%85%e3%80%8f-%ec%b1%85-%ea%b7%b8%eb%a6%bc%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%e3%80%8e%ec%84%b8-%eb%b0%9c%eb%a1%9c-%ed%95%98%eb%8a%94-%ec%82%b0%ec%b1%85%e3%80%8f-%ec%b1%85-%ea%b7%b8%eb%a6%bc%ec%a0%84/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/25044357/%E3%80%8E%EC%84%B8-%EB%B0%9C%EB%A1%9C-%ED%95%98%EB%8A%94-%EC%82%B0%EC%B1%85%E3%80%8F-%EC%B1%85-%EA%B7%B8%EB%A6%BC%EC%A0%84-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제13회 한국 고양이의 날 기획전 <고양이는 클수록 좋다> 진소라 성묘입양 사진전 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%ec%a0%9c13%ed%9a%8c-%ed%95%9c%ea%b5%ad-%ea%b3%a0%ec%96%91%ec%9d%b4%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90%ec%a0%84-%ec%a7%84%ec%86%8c%eb%9d%bc-%ec%84%b1%eb%ac%98%ec%9e%85%ec%96%91-%ec%82%ac%ec%a7%84/</link>
+            <guid>https://nodeul.org/program/%ec%a0%9c13%ed%9a%8c-%ed%95%9c%ea%b5%ad-%ea%b3%a0%ec%96%91%ec%9d%b4%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90%ec%a0%84-%ec%a7%84%ec%86%8c%eb%9d%bc-%ec%84%b1%eb%ac%98%ec%9e%85%ec%96%91-%ec%82%ac%ec%a7%84/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.02 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/04044620/%EA%B2%8C%EC%8B%9C%EC%9A%A9-%EB%82%98%EC%9D%98-%ED%81%AC%EA%B3%A0-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EA%B3%A0%EC%96%91%EC%9D%B4_2%EB%B6%80-%EA%B3%A0%EC%96%91%EC%9D%B4%EB%8A%94-%ED%81%B4%EC%88%98%EB%A1%9D-%EC%A2%8B%EB%8B%A4_%EC%A7%84%EC%86%8C%EB%9D%BC-%EC%84%B1%EB%AC%98%EC%9E%85%EC%96%91-%EC%82%AC%EC%A7%84%EC%A0%842-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들기록 <첫번째 전시, 야생노들의 기억> (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ea%b8%b0%eb%a1%9d/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ea%b8%b0%eb%a1%9d/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/09/30011653/%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%85%B8%EB%93%A4%EA%B8%B0%EB%A1%9D_1%EC%B0%A8%EC%A0%84%EC%8B%9C-%EC%A1%B0%EC%84%A0%ED%9D%AC-%EC%9E%91%EA%B0%80_%EB%8C%80%EC%A7%80-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스페이스445] 마음이 닿은 순간_양희성 작가 개인전 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445-%eb%a7%88%ec%9d%8c%ec%9d%b4-%eb%8b%bf%eb%8a%94-%ec%88%9c%ea%b0%84_%ec%96%91%ed%9d%ac%ec%84%b1-%ec%9e%91%ea%b0%80-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445-%eb%a7%88%ec%9d%8c%ec%9d%b4-%eb%8b%bf%eb%8a%94-%ec%88%9c%ea%b0%84_%ec%96%91%ed%9d%ac%ec%84%b1-%ec%9e%91%ea%b0%80-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/08/08214832/%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파밍시티, 지속가능한 도시를 위한 정원 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%ea%b7%b8%eb%a1%9c%ec%84%9c%eb%a6%ac%ea%b0%80%eb%93%a0/</link>
+            <guid>https://nodeul.org/program/%ea%b7%b8%eb%a1%9c%ec%84%9c%eb%a6%ac%ea%b0%80%eb%93%a0/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.11 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/07/11005406/%ED%8C%8C%EB%B0%8D%EC%8B%9C%ED%8B%B0_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제13회 한국 고양이의 날 기획전《밤을 달리는 고양이》최경선 일러스트전 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%ec%a0%9c13%ed%9a%8c-%ed%95%9c%ea%b5%ad-%ea%b3%a0%ec%96%91%ec%9d%b4%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90%ec%a0%84-%ec%b5%9c%ea%b2%bd%ec%84%a0-%ec%9e%91%ea%b0%80-%ec%9d%bc%eb%9f%ac%ec%8a%a4%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/%ec%a0%9c13%ed%9a%8c-%ed%95%9c%ea%b5%ad-%ea%b3%a0%ec%96%91%ec%9d%b4%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90%ec%a0%84-%ec%b5%9c%ea%b2%bd%ec%84%a0-%ec%9e%91%ea%b0%80-%ec%9d%bc%eb%9f%ac%ec%8a%a4%ed%8a%b8/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.11 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/04044145/%EA%B2%8C%EC%8B%9C%EC%9A%A9-%EB%82%98%EC%9D%98-%ED%81%AC%EA%B3%A0-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EA%B3%A0%EC%96%91%EC%9D%B4_1%EB%B6%80-%EB%B0%A4%EC%9D%84-%EB%8B%AC%EB%A6%AC%EB%8A%94-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%B5%9C%EA%B2%BD%EC%84%A0-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EC%A0%84-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제10회 대학생건축과연합회 전시 X 동국대학교] 火災函數 화재함수 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/%ec%a0%9c10%ed%9a%8c-%eb%8c%80%ed%95%99%ec%83%9d%ea%b1%b4%ec%b6%95%ea%b3%bc%ec%97%b0%ed%95%a9%ed%9a%8c-%ec%a0%84%ec%8b%9c-x-%eb%8f%99%ea%b5%ad%eb%8c%80%ed%95%99%ea%b5%90-%e7%81%ab%e7%81%bd%e5%87%bd/</link>
+            <guid>https://nodeul.org/program/%ec%a0%9c10%ed%9a%8c-%eb%8c%80%ed%95%99%ec%83%9d%ea%b1%b4%ec%b6%95%ea%b3%bc%ec%97%b0%ed%95%a9%ed%9a%8c-%ec%a0%84%ec%8b%9c-x-%eb%8f%99%ea%b5%ad%eb%8c%80%ed%95%99%ea%b5%90-%e7%81%ab%e7%81%bd%e5%87%bd/</guid>
+            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.08 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/08/04004834/%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[능히 해낼 2022 소원초 만들기 워크숍 (노들섬 ─ 링크트리)]]></title>
             <link>https://forms.gle/1bqURrDmtX9TQGXD9</link>
             <guid>https://forms.gle/1bqURrDmtX9TQGXD9</guid>
@@ -198,7 +614,7 @@
             <title><![CDATA[👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.) (노들섬 아트스페이스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sat, 18 Dec 2021 09:39:21 GMT</pubDate>
+            <pubDate>Sat, 18 Dec 2021 09:41:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 iLRKzL bhdLno igGpjL"><img data-testid="LinkThumbnailImage" src="https://cdn.filestackcontent.com/Tl6ic4pwRkGXZlr1B9dM" alt="@nodeul.space445 👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.) Link Thumbnail | Linktree" crossorigin="" filter="" class="sc-iBPRYJ ixnjJK"></div><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.)</p></a>]]></content:encoded>
         </item>
         <item>
