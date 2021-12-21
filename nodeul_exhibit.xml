@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 17:51:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 노들섬 겨울기획]]></title>
+            <link>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</link>
+            <guid>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</guid>
+            <pubDate>Tue, 21 Dec 2021 17:49:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/22021637/%EC%A0%95%EB%B0%A9%ED%96%A5-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스페이스445]Home_지누박 개인전]]></title>
             <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.11 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/04044145/%EA%B2%8C%EC%8B%9C%EC%9A%A9-%EB%82%98%EC%9D%98-%ED%81%AC%EA%B3%A0-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EA%B3%A0%EC%96%91%EC%9D%B4_1%EB%B6%80-%EB%B0%A4%EC%9D%84-%EB%8B%AC%EB%A6%AC%EB%8A%94-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%B5%9C%EA%B2%BD%EC%84%A0-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EC%A0%84-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제10회 대학생건축과연합회 전시 X 동국대학교] 火災函數 화재함수]]></title>
-            <link>https://nodeul.org/program/%ec%a0%9c10%ed%9a%8c-%eb%8c%80%ed%95%99%ec%83%9d%ea%b1%b4%ec%b6%95%ea%b3%bc%ec%97%b0%ed%95%a9%ed%9a%8c-%ec%a0%84%ec%8b%9c-x-%eb%8f%99%ea%b5%ad%eb%8c%80%ed%95%99%ea%b5%90-%e7%81%ab%e7%81%bd%e5%87%bd/</link>
-            <guid>https://nodeul.org/program/%ec%a0%9c10%ed%9a%8c-%eb%8c%80%ed%95%99%ec%83%9d%ea%b1%b4%ec%b6%95%ea%b3%bc%ec%97%b0%ed%95%a9%ed%9a%8c-%ec%a0%84%ec%8b%9c-x-%eb%8f%99%ea%b5%ad%eb%8c%80%ed%95%99%ea%b5%90-%e7%81%ab%e7%81%bd%e5%87%bd/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.08 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/08/04004834/%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
