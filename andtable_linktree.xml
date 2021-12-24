@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeul.andtable</id>
     <title>노들섬 앤테이블 ─ 링크트리</title>
-    <updated>2021-12-23T17:50:56.584Z</updated>
+    <updated>2021-12-24T05:43:46.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[<능히 해낼 2022 소원초 만들기> 응모하기]]></title>
-        <id>https://forms.gle/o7ZeiSh9rNJZ3Q2P9</id>
-        <link href="https://forms.gle/o7ZeiSh9rNJZ3Q2P9"/>
-        <updated>2021-12-18T09:14:40.967Z</updated>
-        <content type="html"><![CDATA[<a href="https://forms.gle/o7ZeiSh9rNJZ3Q2P9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">&lt;능히 해낼 2022 소원초 만들기&gt; 응모하기</p></a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[2인 창가석 예약] 🍄겨울 보양식 &TABLE]]></title>
         <id>https://booking.naver.com/booking/6/bizes/486504/items/4205303</id>
