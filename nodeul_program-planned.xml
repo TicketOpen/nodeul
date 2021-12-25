@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 05:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 17:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
-            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
-            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[소원초 워크숍]]></title>
             <link>https://nodeul.org/program/%ec%86%8c%ec%9b%90%ec%b4%88-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
@@ -30,14 +22,6 @@
             <pubDate>Sat, 18 Dec 2021 09:53:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.31 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24191954/ssg_disc_paper_04-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
-            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
-            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉]]></title>

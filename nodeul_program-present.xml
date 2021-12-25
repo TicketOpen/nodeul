@@ -4,16 +4,16 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 05:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 17:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE]]]></title>
-            <link>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</link>
-            <guid>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</guid>
-            <pubDate>Fri, 24 Dec 2021 17:49:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 (토) 18:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10000734/GIFTG-Village_Poster_final-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
+            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
+            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
+            <pubDate>Sat, 25 Dec 2021 17:48:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏜애플 콘서트 ‘불구경’]]></title>
@@ -64,30 +64,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/11014336/%EC%84%AC%EB%84%A4%EC%9D%BC-01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어쩌다가,드닝]]></title>
-            <link>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d/</link>
-            <guid>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/04193034/%EC%96%B4%EC%A9%8C%EB%8B%A4%EA%B0%80%EB%93%9C%EB%8B%9D-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_2-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해보는 가드닝]]></title>
-            <link>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94-%ea%b0%80%eb%93%9c%eb%8b%9d-2/</link>
-            <guid>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94-%ea%b0%80%eb%93%9c%eb%8b%9d-2/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/04193026/%ED%95%B4%EB%B3%B4%EB%8A%94-%EA%B0%80%EB%93%9C%EB%8B%9D-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_3-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앤어플랜트 시그니쳐 워크샵, 식물명상]]></title>
-            <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90-%ec%9b%8c%ed%81%ac%ec%83%b5-%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81/</link>
-            <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90-%ec%9b%8c%ed%81%ac%ec%83%b5-%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/04193030/%EC%8B%9D%EB%AC%BC%EB%AA%85%EC%83%81-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_1-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[파밍시티, 지속가능한 도시를 위한 정원]]></title>
             <link>https://nodeul.org/program/%ea%b7%b8%eb%a1%9c%ec%84%9c%eb%a6%ac%ea%b0%80%eb%93%a0/</link>
             <guid>https://nodeul.org/program/%ea%b7%b8%eb%a1%9c%ec%84%9c%eb%a6%ac%ea%b0%80%eb%93%a0/</guid>
@@ -96,12 +72,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/07/11005406/%ED%8C%8C%EB%B0%8D%EC%8B%9C%ED%8B%B0_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE]]]></title>
-            <link>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</link>
-            <guid>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</guid>
-            <pubDate>Fri, 24 Dec 2021 17:49:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 (토) 18:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10000734/GIFTG-Village_Poster_final-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
+            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
+            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
+            <pubDate>Sat, 25 Dec 2021 17:48:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏜애플 콘서트 ‘불구경’]]></title>
@@ -166,30 +142,6 @@
             <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.04 (토) 13:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/28221220/%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌다가,드닝]]></title>
-            <link>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d/</link>
-            <guid>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/04193034/%EC%96%B4%EC%A9%8C%EB%8B%A4%EA%B0%80%EB%93%9C%EB%8B%9D-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_2-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해보는 가드닝]]></title>
-            <link>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94-%ea%b0%80%eb%93%9c%eb%8b%9d-2/</link>
-            <guid>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94-%ea%b0%80%eb%93%9c%eb%8b%9d-2/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/04193026/%ED%95%B4%EB%B3%B4%EB%8A%94-%EA%B0%80%EB%93%9C%EB%8B%9D-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_3-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앤어플랜트 시그니쳐 워크샵, 식물명상]]></title>
-            <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90-%ec%9b%8c%ed%81%ac%ec%83%b5-%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81/</link>
-            <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90-%ec%9b%8c%ed%81%ac%ec%83%b5-%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/04193030/%EC%8B%9D%EB%AC%BC%EB%AA%85%EC%83%81-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

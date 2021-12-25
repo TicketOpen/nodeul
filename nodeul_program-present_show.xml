@@ -4,16 +4,16 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 05:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 17:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE]]]></title>
-            <link>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</link>
-            <guid>https://nodeul.org/program/%ea%b8%b0%ed%94%84%ed%8a%b8-%ec%97%b0%eb%a7%90%ec%bd%98%ec%84%9c%ed%8a%b8-gift-village/</guid>
-            <pubDate>Fri, 24 Dec 2021 17:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 (토) 18:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10000734/GIFTG-Village_Poster_final-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
+            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
+            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
+            <pubDate>Sat, 25 Dec 2021 17:48:44 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏜애플 콘서트 ‘불구경’]]></title>

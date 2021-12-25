@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 05:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 17:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
-            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
-            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:53:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉]]></title>
             <link>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</link>
