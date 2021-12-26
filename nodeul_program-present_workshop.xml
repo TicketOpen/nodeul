@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 05:43:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 노들섬 겨울기획]]></title>
-            <link>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</link>
-            <guid>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</guid>
-            <pubDate>Thu, 23 Dec 2021 17:50:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/22021637/%EC%A0%95%EB%B0%A9%ED%96%A5-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘내가 경험하고 느낀 2021’ 드로잉 워크숍]]></title>
-            <link>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
-            <guid>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:56:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.04 (토) 13:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/28221220/%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-present/#workshop</id>
+    <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
+    <updated>2021-12-26T17:49:56.697Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>

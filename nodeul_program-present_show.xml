@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 05:43:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
-            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
-            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
-            <pubDate>Sat, 25 Dec 2021 17:48:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 콘서트 ‘불구경’]]></title>
-            <link>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</link>
-            <guid>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</guid>
-            <pubDate>Thu, 23 Dec 2021 17:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/20200708/THAP_%EB%B6%88%EA%B5%AC%EA%B2%BD_2021_Poster-1-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 노들섬 겨울기획]]></title>
-            <link>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</link>
-            <guid>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</guid>
-            <pubDate>Thu, 23 Dec 2021 17:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/22021637/%EC%A0%95%EB%B0%A9%ED%96%A5-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-present/#show</id>
+    <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
+    <updated>2021-12-26T17:49:56.687Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>
