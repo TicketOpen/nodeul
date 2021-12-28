@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 17:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 05:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 27 Dec 2021 05:41:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.22 (수)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10053541/%EC%A7%80%EB%88%84%EB%B0%95_%EA%B3%B5%ED%99%88%EC%8D%B8%EB%84%A4%EC%9D%BC767x953px.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL]]></title>
-            <link>https://nodeul.org/program/2021-super-speed-music-festival/</link>
-            <guid>https://nodeul.org/program/2021-super-speed-music-festival/</guid>
-            <pubDate>Mon, 27 Dec 2021 05:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.26 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09203247/superspeed02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기프트 연말콘서트 [GIFT VILLAGE]]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Mon, 27 Dec 2021 05:41:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/16234958/DB_%EA%B3%B1%EB%82%98%EC%87%BC_3_poster_1_%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Token : KARTZ Art Shapes the Future]]></title>
+            <link>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</link>
+            <guid>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</guid>
+            <pubDate>Tue, 28 Dec 2021 05:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/13023214/%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
