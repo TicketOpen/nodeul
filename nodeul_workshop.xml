@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 위크숍</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 05:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 17:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
+            <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
+            <guid>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
+            <pubDate>Wed, 29 Dec 2021 17:49:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.02 (일) 13:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/30000353/%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8D%B8%EB%84%A4%EC%9D%BC-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 노들섬 겨울기획]]></title>
             <link>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 18 Dec 2021 09:42:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.18 (일) 12:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/06/25200129/%EC%8D%B8%EB%84%A4%EC%9D%BC_767x953_%EC%83%9D%EA%B0%95%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족관계향상을 위한 원예치유프로그램 ‘마음이음정원’]]></title>
-            <link>https://nodeul.org/program/%ea%b0%80%ec%a1%b1%ea%b4%80%ea%b3%84%ed%96%a5%ec%83%81%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%9b%90%ec%98%88%ec%b9%98%ec%9c%a0%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%eb%a7%88%ec%9d%8c%ec%9d%b4-2/</link>
-            <guid>https://nodeul.org/program/%ea%b0%80%ec%a1%b1%ea%b4%80%ea%b3%84%ed%96%a5%ec%83%81%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%9b%90%ec%98%88%ec%b9%98%ec%9c%a0%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%eb%a7%88%ec%9d%8c%ec%9d%b4-2/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.04 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/07/01162853/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-001-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
