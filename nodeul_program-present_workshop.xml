@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nodeul.org/program-present/#workshop</id>
-    <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
-    <updated>2022-01-01T05:43:26.175Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 01 Jan 2022 17:53:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
+            <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
+            <guid>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
+            <pubDate>Sat, 01 Jan 2022 17:53:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.02 (일) 13:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/30000353/%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8D%B8%EB%84%A4%EC%9D%BC-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
