@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 17:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[U FESTIVAL]]></title>
+            <link>https://nodeul.org/program/u-festival/</link>
+            <guid>https://nodeul.org/program/u-festival/</guid>
+            <pubDate>Mon, 03 Jan 2022 05:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.11 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/03231952/U-FESTIVAL.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
             <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 27 Dec 2021 05:41:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/17200650/wave-field.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자]]></title>
-            <link>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</link>
-            <guid>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</guid>
-            <pubDate>Mon, 27 Dec 2021 05:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/16234958/DB_%EA%B3%B1%EB%82%98%EC%87%BC_3_poster_1_%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 17:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[U FESTIVAL]]></title>
+            <link>https://nodeul.org/program/u-festival/</link>
+            <guid>https://nodeul.org/program/u-festival/</guid>
+            <pubDate>Mon, 03 Jan 2022 05:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.11 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/03231952/U-FESTIVAL-227x282.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
             <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 18 Dec 2021 09:38:58 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.12 (일)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/11035045/%ED%8F%AC%EC%8A%A4%ED%84%B0-1110-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[wave to earth 단독공연 [wave field 0.1]]]></title>
-            <link>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</link>
-            <guid>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/17200650/wave-field-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
