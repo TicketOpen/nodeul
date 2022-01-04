@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 17:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 05:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!]]]></title>
+            <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
+            <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
+            <pubDate>Tue, 04 Jan 2022 05:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉]]></title>
             <link>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 18 Dec 2021 09:41:07 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/01025023/1130_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-11-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 김수영 단독공연 [EPISODE]]]></title>
-            <link>https://nodeul.org/program/2021-%ea%b9%80%ec%88%98%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-episode/</link>
-            <guid>https://nodeul.org/program/2021-%ea%b9%80%ec%88%98%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-episode/</guid>
-            <pubDate>Tue, 28 Dec 2021 05:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/27020504/POSTER-KIMSUYOUNG_EPISODE-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

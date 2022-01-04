@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 17:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 05:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
+            <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
+            <pubDate>Tue, 04 Jan 2022 05:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[U FESTIVAL (노들섬 ─ 프로그램)]]></title>
             <link>https://nodeul.org/program/u-festival/</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/18041836/%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%AC%B8%ED%99%94%EC%83%81%EC%88%98%EC%83%81%EC%9E%90%ED%96%89%EC%82%AC_%EC%B5%9C%EC%A2%85%EB%94%94%EC%9E%90%EC%9D%B8%EC%99%84.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[wave to earth 단독공연 [wave field 0.1] (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</link>
-            <guid>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/17200650/wave-field.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
+            <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
+            <pubDate>Tue, 04 Jan 2022 05:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[U FESTIVAL (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -224,12 +232,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24190943/%EC%97%89%EC%97%89%EC%BD%982021-poster-print-2_1-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[유미 단독 콘서트 [Let’s just live today] (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/%ec%9c%a0%eb%af%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-lets-just-live-today/</link>
-            <guid>https://nodeul.org/program/%ec%9c%a0%eb%af%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-lets-just-live-today/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.12 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/11035045/%ED%8F%AC%EC%8A%A4%ED%84%B0-1110-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
+            <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
+            <pubDate>Tue, 04 Jan 2022 05:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Dec 2021 09:40:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/01025023/1130_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-11-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 김수영 단독공연 [EPISODE] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/2021-%ea%b9%80%ec%88%98%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-episode/</link>
-            <guid>https://nodeul.org/program/2021-%ea%b9%80%ec%88%98%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-episode/</guid>
-            <pubDate>Tue, 28 Dec 2021 05:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/27020504/POSTER-KIMSUYOUNG_EPISODE-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오프라인] 노들섬 2주년 기획공연 [The Wonder Weeks – ＃4th week : 서로에게 물든 우리] (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
@@ -704,12 +704,36 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/03231952/U-FESTIVAL-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
+            <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
+            <pubDate>Tue, 04 Jan 2022 05:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
+            <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
+            <pubDate>Tue, 04 Jan 2022 05:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[U FESTIVAL (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/u-festival/</link>
             <guid>https://nodeul.org/program/u-festival/</guid>
             <pubDate>Mon, 03 Jan 2022 05:41:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.11 (화)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/03231952/U-FESTIVAL-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
+            <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
+            <pubDate>Tue, 04 Jan 2022 05:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[U FESTIVAL (노들섬 ─ 프로그램 ─ 예정 ─ 기타)]]></title>
@@ -894,7 +918,7 @@
             <title><![CDATA[👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.) (노들섬 아트스페이스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 17:51:39 GMT</pubDate>
+            <pubDate>Tue, 04 Jan 2022 05:43:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 iLRKzL bhdLno igGpjL"><img data-testid="LinkThumbnailImage" src="https://cdn.filestackcontent.com/Tl6ic4pwRkGXZlr1B9dM" alt="@nodeul.space445 👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.) Link Thumbnail | Linktree" crossorigin="" filter="" class="sc-iBPRYJ ixnjJK"></div><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">👀 [갤러리 전시] Home_지누박 작가 개인전 (21.12.22.~22.01.23.)</p></a>]]></content:encoded>
         </item>
         <item>
@@ -908,14 +932,14 @@
             <title><![CDATA[undefined (노들서가 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 17:51:50 GMT</pubDate>
+            <pubDate>Tue, 04 Jan 2022 05:43:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://forms.gle/ZPGSfHvEPZ74gkvk6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 kcXloF bhdLno cbkldl"><img data-testid="LinkThumbnailImage" src="https://cdn.filestackcontent.com/Jfu4Z0bnTSSTrxGNLftH" alt="@nodeulbook [노들서가x노들버스커] '운율을 당신에게' 이벤트 신청서 Link Thumbnail | Linktree" crossorigin="" filter="" class="sc-iBPRYJ ixnjJK"></div><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">[노들서가x노들버스커] '운율을 당신에게' 이벤트 신청서</p></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들서가 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 17:51:50 GMT</pubDate>
+            <pubDate>Tue, 04 Jan 2022 05:43:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.notion.so/4eee0f42c7334206a12cf5b04459c296" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 kcXloF bhdLno cbkldl"><img data-testid="LinkThumbnailImage" src="https://cdn.filestackcontent.com/oozRaUuSO2mng97Lksqw" alt="@nodeulbook [노들서가x노들버스커] 노들버스커의 음악을 직접 들어보세요 🎧 Link Thumbnail | Linktree" crossorigin="" filter="" class="sc-iBPRYJ ixnjJK"></div><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">[노들서가x노들버스커] 노들버스커의 음악을 직접 들어보세요 🎧</p></a>]]></content:encoded>
         </item>
         <item>

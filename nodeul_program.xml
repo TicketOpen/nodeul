@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 17:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 05:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!]]]></title>
+            <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
+            <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
+            <pubDate>Tue, 04 Jan 2022 05:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[U FESTIVAL]]></title>
             <link>https://nodeul.org/program/u-festival/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 18 Dec 2021 09:38:58 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24190943/%EC%97%89%EC%97%89%EC%BD%982021-poster-print-2_1-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유미 단독 콘서트 [Let’s just live today]]]></title>
-            <link>https://nodeul.org/program/%ec%9c%a0%eb%af%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-lets-just-live-today/</link>
-            <guid>https://nodeul.org/program/%ec%9c%a0%eb%af%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-lets-just-live-today/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.12 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/11035045/%ED%8F%AC%EC%8A%A4%ED%84%B0-1110-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
