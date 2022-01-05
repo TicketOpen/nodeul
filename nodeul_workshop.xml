@@ -4,9 +4,25 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 위크숍</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 17:52:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문경 작가와 함께 하는 오일파스텔 원데이 클래스]]></title>
+            <link>https://nodeul.org/program/%eb%ac%b8%ea%b2%bd-%ec%9e%91%ea%b0%80%ec%99%80-%ed%95%a8%ea%bb%98-%ed%95%98%eb%8a%94-%ec%98%a4%ec%9d%bc%ed%8c%8c%ec%8a%a4%ed%85%94-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
+            <guid>https://nodeul.org/program/%eb%ac%b8%ea%b2%bd-%ec%9e%91%ea%b0%80%ec%99%80-%ed%95%a8%ea%bb%98-%ed%95%98%eb%8a%94-%ec%98%a4%ec%9d%bc%ed%8c%8c%ec%8a%a4%ed%85%94-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
+            <pubDate>Wed, 05 Jan 2022 17:50:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.29 (토) 16:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06052738/%EC%84%AC%EB%84%A4%EC%9D%BC-01-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보태니컬 아트 <겨울 채소반 이야기>]]></title>
+            <link>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</guid>
+            <pubDate>Wed, 05 Jan 2022 17:50:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.08 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06015249/F731799F-C221-4345-A1DD-51B8F131D082-227x282.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
             <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 18 Dec 2021 09:42:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.04 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/08/19072633/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-002-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취소] 오일파스텔 클래스 (나만의 감성을 담은 동물을 그려보자)]]></title>
-            <link>https://nodeul.org/program/%ec%98%a4%ec%9d%bc%ed%8c%8c%ec%8a%a4%ed%85%94-%ed%81%b4%eb%9e%98%ec%8a%a4-%eb%82%98%eb%a7%8c%ec%9d%98-%ea%b0%90%ec%84%b1%ec%9d%84-%eb%8b%b4%ec%9d%80-%eb%8f%99%eb%ac%bc%ec%9d%84-%ea%b7%b8%eb%a0%a4/</link>
-            <guid>https://nodeul.org/program/%ec%98%a4%ec%9d%bc%ed%8c%8c%ec%8a%a4%ed%85%94-%ed%81%b4%eb%9e%98%ec%8a%a4-%eb%82%98%eb%a7%8c%ec%9d%98-%ea%b0%90%ec%84%b1%ec%9d%84-%eb%8b%b4%ec%9d%80-%eb%8f%99%eb%ac%bc%ec%9d%84-%ea%b7%b8%eb%a0%a4/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.24 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/06/29154621/%EC%84%AC%EB%84%A4%EC%9D%BC-01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선데이 낮12시 힐링타임]]></title>
-            <link>https://nodeul.org/program/%ec%84%a0%eb%8d%b0%ec%9d%b4-%eb%82%ae12%ec%8b%9c-%ed%9e%90%eb%a7%81%ed%83%80%ec%9e%84/</link>
-            <guid>https://nodeul.org/program/%ec%84%a0%eb%8d%b0%ec%9d%b4-%eb%82%ae12%ec%8b%9c-%ed%9e%90%eb%a7%81%ed%83%80%ec%9e%84/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.18 (일) 12:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/06/25200129/%EC%8D%B8%EB%84%A4%EC%9D%BC_767x953_%EC%83%9D%EA%B0%95%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90_01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
