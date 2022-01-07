@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:52:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보태니컬 아트 <겨울 채소반 이야기>]]></title>
+            <link>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</guid>
+            <pubDate>Fri, 07 Jan 2022 17:51:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.08 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06015249/F731799F-C221-4345-A1DD-51B8F131D082-227x282.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
             <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
@@ -29,7 +37,7 @@
             <guid>https://nodeul.org/program/%ec%95%a4%ed%85%8c%ec%9d%b4%eb%b8%94-12%ec%9b%94-%ed%8c%9d%ec%97%85%ec%8b%9d%eb%8b%b9/</guid>
             <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/04213831/%EB%8C%80%EC%A7%80-1-100-227x282.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/08041433/%ED%8F%AC%EC%8A%A4%ED%84%B0_POP%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A6%883-01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[노들서가] 겨울동화_문경 개인전]]></title>
@@ -54,6 +62,14 @@
             <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/11014336/%EC%84%AC%EB%84%A4%EC%9D%BC-01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보태니컬 아트 <겨울 채소반 이야기>]]></title>
+            <link>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</guid>
+            <pubDate>Fri, 07 Jan 2022 17:51:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.08 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06015249/F731799F-C221-4345-A1DD-51B8F131D082-227x282.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
