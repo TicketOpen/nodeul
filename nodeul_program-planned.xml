@@ -4,18 +4,10 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 17:52:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[U FESTIVAL]]></title>
-            <link>https://nodeul.org/program/u-festival/</link>
-            <guid>https://nodeul.org/program/u-festival/</guid>
-            <pubDate>Mon, 03 Jan 2022 05:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.11 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/03231952/U-FESTIVAL-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!]]]></title>
             <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
             <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
@@ -46,14 +38,6 @@
             <pubDate>Wed, 05 Jan 2022 17:50:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.29 (토) 16:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06052738/%EC%84%AC%EB%84%A4%EC%9D%BC-01-1-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[U FESTIVAL]]></title>
-            <link>https://nodeul.org/program/u-festival/</link>
-            <guid>https://nodeul.org/program/u-festival/</guid>
-            <pubDate>Mon, 03 Jan 2022 05:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.11 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/03231952/U-FESTIVAL-227x282.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
