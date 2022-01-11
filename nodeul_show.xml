@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 17:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,13 @@
             <pubDate>Tue, 04 Jan 2022 05:41:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <link>https://nodeul.org/program/11847-2/</link>
+            <guid>https://nodeul.org/program/11847-2/</guid>
+            <pubDate>Tue, 11 Jan 2022 05:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.15 (토) 16:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/11202031/K01_4251%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉]]></title>
@@ -94,14 +101,6 @@
             <pubDate>Sat, 18 Dec 2021 09:41:07 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/16234958/DB_%EA%B3%B1%EB%82%98%EC%87%BC_3_poster_1_%EC%88%98%EC%A0%95-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노들버스커 12월 버스킹(1/2)]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4-12%ec%9b%94-%eb%b2%84%ec%8a%a4%ed%82%b91-2/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/01025023/1130_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-11-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
