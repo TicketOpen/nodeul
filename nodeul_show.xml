@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 05:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 17:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,7 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HAPPY KAI-DAY PARTY]]></title>
             <link>https://nodeul.org/program/11847-2/</link>
             <guid>https://nodeul.org/program/11847-2/</guid>
             <pubDate>Tue, 11 Jan 2022 05:42:15 GMT</pubDate>
