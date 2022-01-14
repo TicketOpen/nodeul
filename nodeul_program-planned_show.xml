@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 05:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 17:51:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY KAI-DAY PARTY]]></title>
-            <link>https://nodeul.org/program/11847-2/</link>
-            <guid>https://nodeul.org/program/11847-2/</guid>
-            <pubDate>Tue, 11 Jan 2022 05:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.15 (토) 16:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/11202031/K01_4251%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!]]]></title>
             <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
