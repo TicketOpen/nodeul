@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 17:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY KAI-DAY PARTY]]></title>
-            <link>https://nodeul.org/program/11847-2/</link>
-            <guid>https://nodeul.org/program/11847-2/</guid>
-            <pubDate>Fri, 14 Jan 2022 17:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.15 (토) 16:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/11202031/K01_4251%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[보태니컬 아트 <겨울 채소반 이야기>]]></title>
             <link>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</link>
@@ -54,14 +46,6 @@
             <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/11014336/%EC%84%AC%EB%84%A4%EC%9D%BC-01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY KAI-DAY PARTY]]></title>
-            <link>https://nodeul.org/program/11847-2/</link>
-            <guid>https://nodeul.org/program/11847-2/</guid>
-            <pubDate>Fri, 14 Jan 2022 17:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.15 (토) 16:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/11202031/K01_4251%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스페이스445]Home_지누박 개인전]]></title>

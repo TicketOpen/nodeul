@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:44:01 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY KAI-DAY PARTY]]></title>
-            <link>https://nodeul.org/program/11847-2/</link>
-            <guid>https://nodeul.org/program/11847-2/</guid>
-            <pubDate>Fri, 14 Jan 2022 17:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.15 (토) 16:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/11202031/K01_4251%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-present/#show</id>
+    <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
+    <updated>2022-01-15T17:50:46.057Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>
