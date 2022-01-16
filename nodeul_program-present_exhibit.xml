@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 05:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 17:51:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 21 Dec 2021 17:50:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.22 (수)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10053541/%EC%A7%80%EB%88%84%EB%B0%95_%EA%B3%B5%ED%99%88%EC%8D%B8%EB%84%A4%EC%9D%BC767x953px-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노들서가] 겨울동화_문경 개인전]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/11014336/%EC%84%AC%EB%84%A4%EC%9D%BC-01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
