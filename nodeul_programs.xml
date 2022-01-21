@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 17:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 CAMPING MUSIC FESTIVAL]]></title>
+            <link>https://nodeul.org/program/2022-camping-music-festival/</link>
+            <guid>https://nodeul.org/program/2022-camping-music-festival/</guid>
+            <pubDate>Fri, 21 Jan 2022 17:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/22000406/05-%EC%BA%A0%EB%AE%A4%ED%8E%98_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마음이음정원]]></title>
             <link>https://nodeul.org/program/%eb%a7%88%ec%9d%8c%ec%9d%b4%ec%9d%8c%ec%a0%95%ec%9b%90-4/</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Jan 2022 05:39:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/01025023/1130_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘내가 경험하고 느낀 2021’ 드로잉 워크숍]]></title>
-            <link>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
-            <guid>https://nodeul.org/program/%eb%82%b4%ea%b0%80-%ea%b2%bd%ed%97%98%ed%95%98%ea%b3%a0-%eb%8a%90%eb%82%80-2021-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
-            <pubDate>Wed, 19 Jan 2022 05:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.04 (토) 13:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/28221220/%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 17:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Wed, 19 Jan 2022 17:44:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.05 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/20041735/%EB%8C%80%EC%A7%80-1-100-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 CAMPING MUSIC FESTIVAL]]></title>
+            <link>https://nodeul.org/program/2022-camping-music-festival/</link>
+            <guid>https://nodeul.org/program/2022-camping-music-festival/</guid>
+            <pubDate>Fri, 21 Jan 2022 17:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/22000406/05-%EC%BA%A0%EB%AE%A4%ED%8E%98_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 CAMPING MUSIC FESTIVAL]]></title>
+            <link>https://nodeul.org/program/2022-camping-music-festival/</link>
+            <guid>https://nodeul.org/program/2022-camping-music-festival/</guid>
+            <pubDate>Fri, 21 Jan 2022 17:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/22000406/05-%EC%BA%A0%EB%AE%A4%ED%8E%98_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문경 작가와 함께 하는 오일파스텔 원데이 클래스]]></title>

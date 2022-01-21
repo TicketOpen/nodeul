@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 17:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 CAMPING MUSIC FESTIVAL]]></title>
+            <link>https://nodeul.org/program/2022-camping-music-festival/</link>
+            <guid>https://nodeul.org/program/2022-camping-music-festival/</guid>
+            <pubDate>Fri, 21 Jan 2022 17:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/22000406/05-%EC%BA%A0%EB%AE%A4%ED%8E%98_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!]]]></title>
             <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 18 Dec 2021 09:41:07 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/17200650/wave-field-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자]]></title>
-            <link>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</link>
-            <guid>https://nodeul.org/program/%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-x-%c3%b7-show-%ec%8b%9c%ec%a6%8c-3-3%eb%b0%b0%ec%9d%98-%ec%a6%90%ea%b1%b0%ec%9b%80%ec%9d%84-%ed%95%a8%ea%bb%98-%eb%82%98/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/16234958/DB_%EA%B3%B1%EB%82%98%EC%87%BC_3_poster_1_%EC%88%98%EC%A0%95-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
