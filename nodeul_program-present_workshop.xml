@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 05:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 17:47:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[보태니컬 아트 <겨울 채소반 이야기>]]></title>
-            <link>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</guid>
-            <pubDate>Fri, 07 Jan 2022 17:51:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.08 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06015249/F731799F-C221-4345-A1DD-51B8F131D082-227x282.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
             <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>

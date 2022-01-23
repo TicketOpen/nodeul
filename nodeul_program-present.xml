@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 05:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 17:47:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[보태니컬 아트 <겨울 채소반 이야기>]]></title>
-            <link>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</guid>
-            <pubDate>Fri, 07 Jan 2022 17:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.08 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06015249/F731799F-C221-4345-A1DD-51B8F131D082-227x282.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
             <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
@@ -24,36 +16,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/30000353/%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8D%B8%EB%84%A4%EC%9D%BC-1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스페이스445]Home_지누박 개인전]]></title>
-            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
-            <pubDate>Tue, 21 Dec 2021 17:50:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.22 (수)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10053541/%EC%A7%80%EB%88%84%EB%B0%95_%EA%B3%B5%ED%99%88%EC%8D%B8%EB%84%A4%EC%9D%BC767x953px-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[겨울 보양식]]></title>
             <link>https://nodeul.org/program/%ec%95%a4%ed%85%8c%ec%9d%b4%eb%b8%94-12%ec%9b%94-%ed%8c%9d%ec%97%85%ec%8b%9d%eb%8b%b9/</link>
             <guid>https://nodeul.org/program/%ec%95%a4%ed%85%8c%ec%9d%b4%eb%b8%94-12%ec%9b%94-%ed%8c%9d%ec%97%85%ec%8b%9d%eb%8b%b9/</guid>
             <pubDate>Sat, 18 Dec 2021 09:56:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/08041433/%ED%8F%AC%EC%8A%A4%ED%84%B0_POP%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A6%883-01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스페이스445]Home_지누박 개인전]]></title>
-            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
-            <pubDate>Tue, 21 Dec 2021 17:50:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.22 (수)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10053541/%EC%A7%80%EB%88%84%EB%B0%95_%EA%B3%B5%ED%99%88%EC%8D%B8%EB%84%A4%EC%9D%BC767x953px-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보태니컬 아트 <겨울 채소반 이야기>]]></title>
-            <link>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</guid>
-            <pubDate>Fri, 07 Jan 2022 17:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.08 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06015249/F731799F-C221-4345-A1DD-51B8F131D082-227x282.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
