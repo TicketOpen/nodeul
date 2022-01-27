@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeul.seoul</id>
     <title>노들섬 ─ 링크트리</title>
-    <updated>2022-01-27T05:41:45.715Z</updated>
+    <updated>2022-01-27T17:48:46.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[설섬물 노들력 이벤트 응모하기]]></title>
+        <id>https://nodeulseoul.typeform.com/to/zsCmcKsK</id>
+        <link href="https://nodeulseoul.typeform.com/to/zsCmcKsK"/>
+        <updated>2022-01-27T17:48:20.619Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://nodeulseoul.typeform.com/to/zsCmcKsK" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">설섬물 노들력 이벤트 응모하기</p></a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오일파스텔 원데이 클래스]]></title>
         <id>https://nodeul.org/program/%EB%AC%B8%EA%B2%BD-%EC%9E%91%EA%B0%80%EC%99%80-%ED%95%A8%EA%BB%98-%ED%95%98%EB%8A%94-%EC%98%A4%EC%9D%BC%ED%8C%8C%EC%8A%A4%ED%85%94-%EC%9B%90%EB%8D%B0%EC%9D%B4-%ED%81%B4%EB%9E%98%EC%8A%A4/</id>
