@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 05:42:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[문경 작가와 함께 하는 오일파스텔 원데이 클래스]]></title>
-            <link>https://nodeul.org/program/%eb%ac%b8%ea%b2%bd-%ec%9e%91%ea%b0%80%ec%99%80-%ed%95%a8%ea%bb%98-%ed%95%98%eb%8a%94-%ec%98%a4%ec%9d%bc%ed%8c%8c%ec%8a%a4%ed%85%94-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/%eb%ac%b8%ea%b2%bd-%ec%9e%91%ea%b0%80%ec%99%80-%ed%95%a8%ea%bb%98-%ed%95%98%eb%8a%94-%ec%98%a4%ec%9d%bc%ed%8c%8c%ec%8a%a4%ed%85%94-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
-            <pubDate>Fri, 28 Jan 2022 17:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.29 (토) 16:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06052738/%EC%84%AC%EB%84%A4%EC%9D%BC-01-1-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-present/#workshop</id>
+    <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
+    <updated>2022-01-30T17:43:04.059Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>
