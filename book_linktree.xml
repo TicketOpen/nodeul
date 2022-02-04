@@ -2,36 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeulbook</id>
     <title>노들서가 ─ 링크트리</title>
-    <updated>2022-02-03T17:44:25.013Z</updated>
+    <updated>2022-02-04T05:45:40.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://linktr.ee/nodeulbook</id>
-        <link href="https://linktr.ee/nodeulbook"/>
-        <updated>2022-02-03T17:44:24.276Z</updated>
-        <content type="html"><![CDATA[<a href="https://forms.gle/ZPGSfHvEPZ74gkvk6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 htxCjB bhdLno cbkldl"><img data-testid="LinkThumbnailImage" src="https://cdn.filestackcontent.com/Jfu4Z0bnTSSTrxGNLftH" alt="@nodeulbook [노들서가x노들버스커] '운율을 당신에게' 이벤트 신청서 Link Thumbnail | Linktree" crossorigin="" filter="" class="sc-iBPRYJ StyledThumbnail__StyledImage-sc-1hclpwd-1 eAJsKk gawoJN"></div><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">[노들서가x노들버스커] '운율을 당신에게' 이벤트 신청서</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://linktr.ee/nodeulbook</id>
-        <link href="https://linktr.ee/nodeulbook"/>
-        <updated>2022-02-03T17:44:24.280Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.notion.so/4eee0f42c7334206a12cf5b04459c296" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 htxCjB bhdLno cbkldl"><img data-testid="LinkThumbnailImage" src="https://cdn.filestackcontent.com/oozRaUuSO2mng97Lksqw" alt="@nodeulbook [노들서가x노들버스커] 노들버스커의 음악을 직접 들어보세요 🎧 Link Thumbnail | Linktree" crossorigin="" filter="" class="sc-iBPRYJ StyledThumbnail__StyledImage-sc-1hclpwd-1 eAJsKk gawoJN"></div><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">[노들서가x노들버스커] 노들버스커의 음악을 직접 들어보세요 🎧</p></a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[📅 "오늘 노들서가 문 열었나요?" - 달력 보러 가기]]></title>
         <id>https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul</id>
         <link href="https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul"/>
         <updated>2021-12-18T09:17:31.207Z</updated>
         <content type="html"><![CDATA[<a href="https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">📅 "오늘 노들서가 문 열었나요?" - 달력 보러 가기 </p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎨 "<겨울동화> 전시해요"- 전시 보러 가기 (21.12.03.~22.01.16.)]]></title>
-        <id>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</id>
-        <link href="https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/"/>
-        <updated>2021-12-18T09:17:31.208Z</updated>
-        <content type="html"><![CDATA[<a href="https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">🎨 "&lt;겨울동화&gt; 전시해요"- 전시 보러 가기 (21.12.03.~22.01.16.)</p></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏝 노들섬 공식 홈페이지]]></title>
