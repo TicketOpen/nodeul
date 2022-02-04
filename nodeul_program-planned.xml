@@ -4,18 +4,10 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 17:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[마음이음정원]]></title>
-            <link>https://nodeul.org/program/%eb%a7%88%ec%9d%8c%ec%9d%b4%ec%9d%8c%ec%a0%95%ec%9b%90-4/</link>
-            <guid>https://nodeul.org/program/%eb%a7%88%ec%9d%8c%ec%9d%b4%ec%9d%8c%ec%a0%95%ec%9b%90-4/</guid>
-            <pubDate>Wed, 19 Jan 2022 17:44:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/20041735/%EB%8C%80%EC%A7%80-1-100-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 CAMPING MUSIC FESTIVAL]]></title>
             <link>https://nodeul.org/program/2022-camping-music-festival/</link>
             <guid>https://nodeul.org/program/2022-camping-music-festival/</guid>
@@ -30,14 +22,6 @@
             <pubDate>Fri, 21 Jan 2022 17:43:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/22000406/05-%EC%BA%A0%EB%AE%A4%ED%8E%98_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음이음정원]]></title>
-            <link>https://nodeul.org/program/%eb%a7%88%ec%9d%8c%ec%9d%b4%ec%9d%8c%ec%a0%95%ec%9b%90-4/</link>
-            <guid>https://nodeul.org/program/%eb%a7%88%ec%9d%8c%ec%9d%b4%ec%9d%8c%ec%a0%95%ec%9b%90-4/</guid>
-            <pubDate>Wed, 19 Jan 2022 17:44:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/20041735/%EB%8C%80%EC%A7%80-1-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
