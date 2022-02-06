@@ -2,28 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeul.andtable</id>
     <title>노들섬 앤테이블 ─ 링크트리</title>
-    <updated>2022-02-06T05:41:43.901Z</updated>
+    <updated>2022-02-06T17:42:48.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[🍄<겨울 보양식> 팝업 식당은 오는 2월 6일(일)까지만 운영됩니다 :)]]></title>
-        <id>https://www.instagram.com/nodeul.andtable/</id>
-        <link href="https://www.instagram.com/nodeul.andtable/"/>
-        <updated>2022-01-07T17:52:12.471Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.instagram.com/nodeul.andtable/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">🍄&lt;겨울 보양식&gt; 팝업 식당은 오는 2월 6일(일)까지만 운영됩니다 :)</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2인 창가석 예약] 🍄겨울 보양식 &TABLE]]></title>
-        <id>https://booking.naver.com/booking/6/bizes/486504/items/4205303</id>
-        <link href="https://booking.naver.com/booking/6/bizes/486504/items/4205303"/>
-        <updated>2021-12-18T09:14:40.968Z</updated>
-        <content type="html"><![CDATA[<a href="https://booking.naver.com/booking/6/bizes/486504/items/4205303" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq"> [2인 창가석 예약] 🍄겨울 보양식 &amp;TABLE</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4인 창가석 예약] 🍄겨울 보양식 &TABLE]]></title>
-        <id>https://booking.naver.com/booking/6/bizes/486504/items/4206063</id>
-        <link href="https://booking.naver.com/booking/6/bizes/486504/items/4206063"/>
-        <updated>2021-12-18T09:14:40.969Z</updated>
-        <content type="html"><![CDATA[<a href="https://booking.naver.com/booking/6/bizes/486504/items/4206063" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-andtable " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq"> [4인 창가석 예약] 🍄겨울 보양식 &amp;TABLE</p></a>]]></content>
-    </entry>
 </feed>
