@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:45:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오프라인] Connect with The Whales (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/connect-with-the-whales/</link>
+            <guid>https://nodeul.org/program/connect-with-the-whales/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인] Connect with LUCY (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/connect-with-lucy/</link>
+            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10015555/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앤어플랜트 시그니쳐 워크샵, 식물명상 (노들섬 ─ 프로그램)]]></title>
             <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90-%ec%9b%8c%ed%81%ac%ec%83%b5-%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81-2/</link>
@@ -120,20 +136,20 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/16035735/211214_%EB%85%B8%EB%93%A4%EB%B2%84%EC%8A%A4%EC%BB%A4_12%EC%9B%94_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8C%80%EC%A7%80-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쏜애플 콘서트 ‘불구경’ (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</link>
-            <guid>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/20200708/THAP_%EB%B6%88%EA%B5%AC%EA%B2%BD_2021_Poster-1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[오프라인] Connect with The Whales (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/connect-with-the-whales/</link>
+            <guid>https://nodeul.org/program/connect-with-the-whales/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스페이스445]Home_지누박 개인전 (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445home-sweet-home_%ec%a7%80%eb%88%84%eb%b0%95-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.22 (수)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/10053541/%EC%A7%80%EB%88%84%EB%B0%95_%EA%B3%B5%ED%99%88%EC%8D%B8%EB%84%A4%EC%9D%BC767x953px.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[오프라인] Connect with LUCY (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/connect-with-lucy/</link>
+            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10015555/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 CAMPING MUSIC FESTIVAL (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -216,20 +232,20 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06015249/F731799F-C221-4345-A1DD-51B8F131D082-227x282.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍 (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
-            <guid>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
-            <pubDate>Wed, 29 Dec 2021 17:48:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.02 (일) 13:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/30000353/%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8D%B8%EB%84%A4%EC%9D%BC-1-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[오프라인] Connect with The Whales (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/connect-with-the-whales/</link>
+            <guid>https://nodeul.org/program/connect-with-the-whales/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 너드커넥션 연말 콘서트〈신세기 명화극장〉 (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</link>
-            <guid>https://nodeul.org/program/2021-%eb%84%88%eb%93%9c%ec%bb%a4%eb%84%a5%ec%85%98-%ec%97%b0%eb%a7%90-%ec%bd%98%ec%84%9c%ed%8a%b8%e3%80%88%ec%8b%a0%ec%84%b8%ea%b8%b0-%eb%aa%85%ed%99%94%ea%b7%b9%ec%9e%a5%e3%80%89/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.31 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24191954/ssg_disc_paper_04-227x282.png" length="0" type="image/png"/>
+            <title><![CDATA[[오프라인] Connect with LUCY (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/connect-with-lucy/</link>
+            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10015555/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 CAMPING MUSIC FESTIVAL (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/24190943/%EC%97%89%EC%97%89%EC%BD%982021-poster-print-2_1-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유미 단독 콘서트 [Let’s just live today] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/%ec%9c%a0%eb%af%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-lets-just-live-today/</link>
-            <guid>https://nodeul.org/program/%ec%9c%a0%eb%af%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-lets-just-live-today/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.12 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/11035045/%ED%8F%AC%EC%8A%A4%ED%84%B0-1110-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[wave to earth 단독공연 [wave field 0.1] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</link>
-            <guid>https://nodeul.org/program/wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-wave-field-0-1/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/11/17200650/wave-field-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오프라인] 노들섬 2주년 기획공연 [The Wonder Weeks – ＃4th week : 서로에게 물든 우리] (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
@@ -704,6 +704,22 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/22000406/05-%EC%BA%A0%EB%AE%A4%ED%8E%98_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오프라인] Connect with LUCY (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/connect-with-lucy/</link>
+            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10015555/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인] Connect with The Whales (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/connect-with-the-whales/</link>
+            <guid>https://nodeul.org/program/connect-with-the-whales/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 CAMPING MUSIC FESTIVAL (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/2022-camping-music-festival/</link>
             <guid>https://nodeul.org/program/2022-camping-music-festival/</guid>
@@ -712,12 +728,44 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/22000406/05-%EC%BA%A0%EB%AE%A4%ED%8E%98_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오프라인] Connect with LUCY (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/connect-with-lucy/</link>
+            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10015555/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인] Connect with The Whales (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/connect-with-the-whales/</link>
+            <guid>https://nodeul.org/program/connect-with-the-whales/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 CAMPING MUSIC FESTIVAL (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
             <link>https://nodeul.org/program/2022-camping-music-festival/</link>
             <guid>https://nodeul.org/program/2022-camping-music-festival/</guid>
             <pubDate>Fri, 21 Jan 2022 17:42:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/22000406/05-%EC%BA%A0%EB%AE%A4%ED%8E%98_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인] Connect with LUCY (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/connect-with-lucy/</link>
+            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10015555/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프라인] Connect with The Whales (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/connect-with-the-whales/</link>
+            <guid>https://nodeul.org/program/connect-with-the-whales/</guid>
+            <pubDate>Wed, 09 Feb 2022 17:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어쩌다가,드닝 (노들섬 ─ 프로그램 ─ 현재)]]></title>
