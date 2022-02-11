@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 05:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 17:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담다 : 자연을 시간과 정성으로 담다]]></title>
+            <link>https://nodeul.org/program/%eb%8b%b4%eb%8b%a4-%ec%9e%90%ec%97%b0%ec%9d%84-%ec%8b%9c%ea%b0%84%ea%b3%bc-%ec%a0%95%ec%84%b1%ec%9c%bc%eb%a1%9c-%eb%8b%b4%eb%8b%a4/</link>
+            <guid>https://nodeul.org/program/%eb%8b%b4%eb%8b%a4-%ec%9e%90%ec%97%b0%ec%9d%84-%ec%8b%9c%ea%b0%84%ea%b3%bc-%ec%a0%95%ec%84%b1%ec%9c%bc%eb%a1%9c-%eb%8b%b4%eb%8b%a4/</guid>
+            <pubDate>Fri, 11 Feb 2022 17:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/12003919/%EA%B3%B5%EC%8B%9D%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 노들섬 겨울기획]]></title>
             <link>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.11 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/07/11005406/%ED%8C%8C%EB%B0%8D%EC%8B%9C%ED%8B%B0_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제13회 한국 고양이의 날 기획전《밤을 달리는 고양이》최경선 일러스트전]]></title>
-            <link>https://nodeul.org/program/%ec%a0%9c13%ed%9a%8c-%ed%95%9c%ea%b5%ad-%ea%b3%a0%ec%96%91%ec%9d%b4%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90%ec%a0%84-%ec%b5%9c%ea%b2%bd%ec%84%a0-%ec%9e%91%ea%b0%80-%ec%9d%bc%eb%9f%ac%ec%8a%a4%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%ec%a0%9c13%ed%9a%8c-%ed%95%9c%ea%b5%ad-%ea%b3%a0%ec%96%91%ec%9d%b4%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90%ec%a0%84-%ec%b5%9c%ea%b2%bd%ec%84%a0-%ec%9e%91%ea%b0%80-%ec%9d%bc%eb%9f%ac%ec%8a%a4%ed%8a%b8/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.11 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/10/04044145/%EA%B2%8C%EC%8B%9C%EC%9A%A9-%EB%82%98%EC%9D%98-%ED%81%AC%EA%B3%A0-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EA%B3%A0%EC%96%91%EC%9D%B4_1%EB%B6%80-%EB%B0%A4%EC%9D%84-%EB%8B%AC%EB%A6%AC%EB%8A%94-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%B5%9C%EA%B2%BD%EC%84%A0-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EC%A0%84-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
