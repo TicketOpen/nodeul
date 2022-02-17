@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 17:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스페이스445] <동화정원> 문경 개인전]]></title>
+            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445-%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445-%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <pubDate>Thu, 17 Feb 2022 05:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.04 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/17213952/%EC%84%AC%EB%84%A4%EC%9D%BC-01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 윤지영 단독공연 [나의 정원에서]]]></title>
             <link>https://nodeul.org/program/2022-%ec%9c%a4%ec%a7%80%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%eb%82%98%ec%9d%98-%ec%a0%95%ec%9b%90%ec%97%90%ec%84%9c/</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 27 Jan 2022 17:46:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.11 (화)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/03231952/U-FESTIVAL.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2022는 나의 해’ 드로잉 워크숍]]></title>
-            <link>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</link>
-            <guid>https://nodeul.org/program/2022%eb%8a%94-%eb%82%98%ec%9d%98-%ed%95%b4-%eb%93%9c%eb%a1%9c%ec%9e%89-%ec%9b%8c%ed%81%ac%ec%88%8d/</guid>
-            <pubDate>Thu, 27 Jan 2022 17:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.02 (일) 13:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/30000353/%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8D%B8%EB%84%A4%EC%9D%BC-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
