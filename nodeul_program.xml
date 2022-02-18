@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 05:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 17:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 09 Feb 2022 17:42:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/16015426/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마음이음정원]]></title>
+            <link>https://nodeul.org/program/%eb%a7%88%ec%9d%8c%ec%9d%b4%ec%9d%8c%ec%a0%95%ec%9b%90-5/</link>
+            <guid>https://nodeul.org/program/%eb%a7%88%ec%9d%8c%ec%9d%b4%ec%9d%8c%ec%a0%95%ec%9b%90-5/</guid>
+            <pubDate>Fri, 18 Feb 2022 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/19040552/%EB%A7%88%EC%9D%8C%EC%9D%B4%EC%9D%8C%EC%A0%95%EC%9B%90-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%801-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스페이스445] <동화정원> 문경 개인전]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 04 Feb 2022 17:39:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.03 (목)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/05012402/%EC%8B%9D%EB%AC%BC%EB%AA%85%EC%83%81-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_1-824x1024-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문경 작가와 함께 하는 오일파스텔 원데이 클래스]]></title>
-            <link>https://nodeul.org/program/%eb%ac%b8%ea%b2%bd-%ec%9e%91%ea%b0%80%ec%99%80-%ed%95%a8%ea%bb%98-%ed%95%98%eb%8a%94-%ec%98%a4%ec%9d%bc%ed%8c%8c%ec%8a%a4%ed%85%94-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/%eb%ac%b8%ea%b2%bd-%ec%9e%91%ea%b0%80%ec%99%80-%ed%95%a8%ea%bb%98-%ed%95%98%eb%8a%94-%ec%98%a4%ec%9d%bc%ed%8c%8c%ec%8a%a4%ed%85%94-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
-            <pubDate>Wed, 05 Jan 2022 17:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.29 (토) 16:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06052738/%EC%84%AC%EB%84%A4%EC%9D%BC-01-1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
