@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 17:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/16190907/POSTER-%EC%9C%A4%EC%A7%80%EC%98%81_%EB%82%98%EC%9D%98-%EC%A0%95%EC%9B%90%EC%97%90%EC%84%9C_web-1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 CAMPING MUSIC FESTIVAL]]></title>
             <link>https://nodeul.org/program/2022-camping-music-festival/</link>
             <guid>https://nodeul.org/program/2022-camping-music-festival/</guid>
@@ -102,6 +110,14 @@
             <pubDate>Wed, 16 Feb 2022 05:40:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/16190907/POSTER-%EC%9C%A4%EC%A7%80%EC%98%81_%EB%82%98%EC%9D%98-%EC%A0%95%EC%9B%90%EC%97%90%EC%84%9C_web-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스페이스445] <동화정원> 문경 개인전]]></title>

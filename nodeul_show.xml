@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 17:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 윤지영 단독공연 [나의 정원에서]]]></title>
             <link>https://nodeul.org/program/2022-%ec%9c%a4%ec%a7%80%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%eb%82%98%ec%9d%98-%ec%a0%95%ec%9b%90%ec%97%90%ec%84%9c/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 18 Dec 2021 09:41:07 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/20200708/THAP_%EB%B6%88%EA%B5%AC%EA%B2%BD_2021_Poster-1-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 노들섬 겨울기획]]></title>
-            <link>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</link>
-            <guid>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</guid>
-            <pubDate>Tue, 21 Dec 2021 17:48:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/22021637/%EC%A0%95%EB%B0%A9%ED%96%A5-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

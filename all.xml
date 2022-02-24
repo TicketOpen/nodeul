@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 17:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마음이음정원 (노들섬 ─ 프로그램)]]></title>
             <link>https://nodeul.org/program/%eb%a7%88%ec%9d%8c%ec%9d%b4%ec%9d%8c%ec%a0%95%ec%9b%90-5/</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06015249/F731799F-C221-4345-A1DD-51B8F131D082.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[버둥 1집 발매 쇼케이스 [해가, 꽃이, 그리고 우리가!] (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</link>
-            <guid>https://nodeul.org/program/%eb%b2%84%eb%91%a5-1%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ec%87%bc%ec%bc%80%ec%9d%b4%ec%8a%a4-%ed%95%b4%ea%b0%80-%ea%bd%83%ec%9d%b4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%9a%b0%eb%a6%ac%ea%b0%80/</guid>
-            <pubDate>Tue, 04 Jan 2022 05:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.21 (금) 19:30]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/04194813/%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 윤지영 단독공연 [나의 정원에서] (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -224,12 +232,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/05010830/%ED%95%B4%EB%B3%B4%EB%8A%94-%EA%B0%80%EB%93%9C%EB%8B%9D-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_3-824x1024-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[앤어플랜트 시그니쳐 워크샵, 식물명상 (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90-%ec%9b%8c%ed%81%ac%ec%83%b5-%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81-2/</link>
-            <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90-%ec%9b%8c%ed%81%ac%ec%83%b5-%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81-2/</guid>
-            <pubDate>Fri, 04 Feb 2022 17:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.03 (목)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/05012402/%EC%8B%9D%EB%AC%BC%EB%AA%85%EC%83%81-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_1-824x1024-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 윤지영 단독공연 [나의 정원에서] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/20200708/THAP_%EB%B6%88%EA%B5%AC%EA%B2%BD_2021_Poster-1-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 노들섬 겨울기획 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</link>
-            <guid>https://nodeul.org/program/2021-%eb%85%b8%eb%93%a4%ec%84%ac-%ea%b2%a8%ec%9a%b8%ea%b8%b0%ed%9a%8d/</guid>
-            <pubDate>Tue, 21 Dec 2021 17:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/22021637/%EC%A0%95%EB%B0%A9%ED%96%A5-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오프라인] 노들섬 2주년 기획공연 [The Wonder Weeks – ＃4th week : 서로에게 물든 우리] (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
@@ -752,6 +752,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/16190907/POSTER-%EC%9C%A4%EC%A7%80%EC%98%81_%EB%82%98%EC%9D%98-%EC%A0%95%EC%9B%90%EC%97%90%EC%84%9C_web-1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 CAMPING MUSIC FESTIVAL (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/2022-camping-music-festival/</link>
             <guid>https://nodeul.org/program/2022-camping-music-festival/</guid>
@@ -790,6 +798,14 @@
             <pubDate>Wed, 16 Feb 2022 05:39:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/16190907/POSTER-%EC%9C%A4%EC%A7%80%EC%98%81_%EB%82%98%EC%9D%98-%EC%A0%95%EC%9B%90%EC%97%90%EC%84%9C_web-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스페이스445] <동화정원> 문경 개인전 (노들섬 ─ 프로그램 ─ 예정)]]></title>
@@ -846,6 +862,14 @@
             <pubDate>Wed, 16 Feb 2022 05:39:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/16190907/POSTER-%EC%9C%A4%EC%A7%80%EC%98%81_%EB%82%98%EC%9D%98-%EC%A0%95%EC%9B%90%EC%97%90%EC%84%9C_web-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스페이스445] <동화정원> 문경 개인전 (노들섬 ─ 프로그램 ─ 예정 ─ 전시)]]></title>
