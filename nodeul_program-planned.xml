@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 17:45:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[스페이스445] <동화정원> 문경 개인전]]></title>
-            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445-%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445-%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
-            <pubDate>Thu, 17 Feb 2022 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.04 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/17213952/%EC%84%AC%EB%84%A4%EC%9D%BC-01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[오프라인] Connect with LUCY]]></title>
             <link>https://nodeul.org/program/connect-with-lucy/</link>
@@ -102,14 +94,6 @@
             <pubDate>Thu, 24 Feb 2022 05:40:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스페이스445] <동화정원> 문경 개인전]]></title>
-            <link>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445-%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445-%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
-            <pubDate>Thu, 17 Feb 2022 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.04 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/17213952/%EC%84%AC%EB%84%A4%EC%9D%BC-01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마음이음정원]]></title>
