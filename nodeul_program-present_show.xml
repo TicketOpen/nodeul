@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nodeul.org/program-present/#show</id>
-    <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
-    <updated>2022-03-04T05:42:46.815Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Mar 2022 17:43:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오프라인] Connect with LUCY]]></title>
+            <link>https://nodeul.org/program/connect-with-lucy/</link>
+            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
+            <pubDate>Fri, 04 Mar 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/16015426/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
