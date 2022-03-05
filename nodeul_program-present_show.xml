@@ -4,16 +4,24 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 05:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 17:46:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[오프라인] Connect with LUCY]]></title>
-            <link>https://nodeul.org/program/connect-with-lucy/</link>
-            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
-            <pubDate>Fri, 04 Mar 2022 17:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/16015426/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[오프라인] Connect with The Whales]]></title>
+            <link>https://nodeul.org/program/connect-with-the-whales/</link>
+            <guid>https://nodeul.org/program/connect-with-the-whales/</guid>
+            <pubDate>Sat, 05 Mar 2022 17:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Connect with 신현희&디에이드]]></title>
+            <link>https://nodeul.org/program/connect-with-%ec%8b%a0%ed%98%84%ed%9d%ac%eb%94%94%ec%97%90%ec%9d%b4%eb%93%9c/</link>
+            <guid>https://nodeul.org/program/connect-with-%ec%8b%a0%ed%98%84%ed%9d%ac%eb%94%94%ec%97%90%ec%9d%b4%eb%93%9c/</guid>
+            <pubDate>Sat, 05 Mar 2022 17:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (일) 19:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/17020835/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%EC%8B%A0%ED%98%84%ED%9D%AC%EB%94%94%EC%97%90%EC%9D%B4%EB%93%9C_poster_yes24_0216-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
