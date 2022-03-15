@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 17:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 05:45:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</guid>
+            <pubDate>Tue, 15 Mar 2022 05:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 (토) 17:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/03/15200613/%ED%8F%AC%EC%8A%A4%ED%84%B0_2022%EC%86%90%ED%98%B8%EC%98%81-%ED%8C%AC%EB%AF%B8%ED%8C%85.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램)]]></title>
             <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06052738/%EC%84%AC%EB%84%A4%EC%9D%BC-01-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보태니컬 아트 <겨울 채소반 이야기> (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac-%ec%95%84%ed%8a%b8/</guid>
-            <pubDate>Wed, 05 Jan 2022 17:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.08 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/01/06015249/F731799F-C221-4345-A1DD-51B8F131D082.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</guid>
+            <pubDate>Tue, 15 Mar 2022 05:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 (토) 17:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/03/15200613/%ED%8F%AC%EC%8A%A4%ED%84%B0_2022%EC%86%90%ED%98%B8%EC%98%81-%ED%8C%AC%EB%AF%B8%ED%8C%85-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -224,12 +232,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/05011451/%EC%96%B4%EC%A9%8C%EB%8B%A4%EA%B0%80%EB%93%9C%EB%8B%9D-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_2-824x1024-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해보는 가드닝 (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94-%ea%b0%80%eb%93%9c%eb%8b%9d-3/</link>
-            <guid>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94-%ea%b0%80%eb%93%9c%eb%8b%9d-3/</guid>
-            <pubDate>Fri, 04 Feb 2022 17:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/05010830/%ED%95%B4%EB%B3%B4%EB%8A%94-%EA%B0%80%EB%93%9C%EB%8B%9D-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_3-824x1024-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</guid>
+            <pubDate>Tue, 15 Mar 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 (토) 17:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/03/15200613/%ED%8F%AC%EC%8A%A4%ED%84%B0_2022%EC%86%90%ED%98%B8%EC%98%81-%ED%8C%AC%EB%AF%B8%ED%8C%85-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.24 (금) 20:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/09023311/20211125-40910-1-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 콘서트 ‘불구경’ (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</link>
-            <guid>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd/</guid>
-            <pubDate>Sat, 18 Dec 2021 09:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2021/12/20200708/THAP_%EB%B6%88%EA%B5%AC%EA%B2%BD_2021_Poster-1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오프라인] 노들섬 2주년 기획공연 [The Wonder Weeks – ＃4th week : 서로에게 물든 우리] (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
@@ -704,6 +704,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</guid>
+            <pubDate>Tue, 15 Mar 2022 05:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 (토) 17:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/03/15200613/%ED%8F%AC%EC%8A%A4%ED%84%B0_2022%EC%86%90%ED%98%B8%EC%98%81-%ED%8C%AC%EB%AF%B8%ED%8C%85-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
             <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
@@ -712,12 +720,28 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</guid>
+            <pubDate>Tue, 15 Mar 2022 05:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 (토) 17:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/03/15200613/%ED%8F%AC%EC%8A%A4%ED%84%B0_2022%EC%86%90%ED%98%B8%EC%98%81-%ED%8C%AC%EB%AF%B8%ED%8C%85-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
             <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
             <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
             <pubDate>Thu, 24 Feb 2022 05:39:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</guid>
+            <pubDate>Tue, 15 Mar 2022 05:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 (토) 17:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/03/15200613/%ED%8F%AC%EC%8A%A4%ED%84%B0_2022%EC%86%90%ED%98%B8%EC%98%81-%ED%8C%AC%EB%AF%B8%ED%8C%85-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마음이음정원 (노들섬 ─ 프로그램 ─ 현재)]]></title>
@@ -853,7 +877,7 @@
             <title><![CDATA[👀 [갤러리 전시2] <동화정원>문경 작가 개인전 (22.03.04.~22.03.20) (노들섬 아트스페이스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Mon, 14 Mar 2022 17:44:50 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 05:45:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://nodeul.org/program/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4445-%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 gZIEiX bhdLno igGpjL"><img data-testid="LinkThumbnailImage" src="https://d1fdloi71mui9q.cloudfront.net/0TfouxzR2cc53sHQ3HwA_포스터-01.jpg" alt="@nodeul.space445 👀 [갤러리 전시2] <동화정원>문경 작가 개인전 (22.03.04.~22.03.20) Link Thumbnail | Linktree" crossorigin="" filter="" class="sc-iBPRYJ StyledThumbnail__StyledImage-sc-1hclpwd-1 eAJsKk gawoJN"></div><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">👀 [갤러리 전시2] &lt;동화정원&gt;문경 작가 개인전 (22.03.04.~22.03.20)</p></a>]]></content:encoded>
         </item>
         <item>

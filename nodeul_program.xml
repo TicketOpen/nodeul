@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 17:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 05:45:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 손호영 생일 다솜모임〈물오름달 스물엿새〉]]></title>
+            <link>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2022-%ec%86%90%ed%98%b8%ec%98%81-%ec%83%9d%ec%9d%bc-%eb%8b%a4%ec%86%9c%eb%aa%a8%ec%9e%84%e3%80%88%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac-%ec%8a%a4%eb%ac%bc%ec%97%bf%ec%83%88%e3%80%89/</guid>
+            <pubDate>Tue, 15 Mar 2022 05:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 (토) 17:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/03/15200613/%ED%8F%AC%EC%8A%A4%ED%84%B0_2022%EC%86%90%ED%98%B8%EC%98%81-%ED%8C%AC%EB%AF%B8%ED%8C%85-227x282.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022]]></title>
             <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 04 Feb 2022 17:39:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.05 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/05011451/%EC%96%B4%EC%A9%8C%EB%8B%A4%EA%B0%80%EB%93%9C%EB%8B%9D-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_2-824x1024-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해보는 가드닝]]></title>
-            <link>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94-%ea%b0%80%eb%93%9c%eb%8b%9d-3/</link>
-            <guid>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94-%ea%b0%80%eb%93%9c%eb%8b%9d-3/</guid>
-            <pubDate>Fri, 04 Feb 2022 17:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/05010830/%ED%95%B4%EB%B3%B4%EB%8A%94-%EA%B0%80%EB%93%9C%EB%8B%9D-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_3-824x1024-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
