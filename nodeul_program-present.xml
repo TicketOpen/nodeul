@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 17 Mar 2022 17:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마음이음정원]]></title>
             <link>https://nodeul.org/program/%eb%a7%88%ec%9d%8c%ec%9d%b4%ec%9d%8c%ec%a0%95%ec%9b%90-5/</link>
@@ -30,6 +38,14 @@
             <pubDate>Thu, 17 Feb 2022 17:50:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.18 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/12003919/%EA%B3%B5%EC%8B%9D%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022]]></title>
+            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
+            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
+            <pubDate>Thu, 17 Mar 2022 17:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스페이스445] <동화정원> 문경 개인전]]></title>
