@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 05:42:41 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022]]></title>
-            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
-            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
-            <pubDate>Thu, 17 Mar 2022 17:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-present/#show</id>
+    <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
+    <updated>2022-03-19T17:43:44.983Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>
