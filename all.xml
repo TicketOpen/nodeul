@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -696,14 +696,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2019/12/17021856/%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 마음의 날 기념 전시 <마음의 미술관> (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</link>
-            <guid>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</guid>
-            <pubDate>Wed, 06 Apr 2022 05:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.12 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/06045543/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SURL（설）concert ‘preview of us’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/surl%ef%bc%88%ec%84%a4%ef%bc%89concert-preview-of-us/</link>
             <guid>https://nodeul.org/program/surl%ef%bc%88%ec%84%a4%ef%bc%89concert-preview-of-us/</guid>
@@ -718,14 +710,6 @@
             <pubDate>Mon, 04 Apr 2022 05:40:12 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/04231210/SURL_previewofus_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 마음의 날 기념 전시 <마음의 미술관> (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</link>
-            <guid>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</guid>
-            <pubDate>Wed, 06 Apr 2022 05:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.12 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/06045543/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SURL（설）concert ‘preview of us’ (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
@@ -736,7 +720,23 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/04231210/SURL_previewofus_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 마음의 날 기념 전시 <마음의 미술관> (노들섬 ─ 프로그램 ─ 예정 ─ 전시)]]></title>
+            <title><![CDATA[2022 마음의 날 기념 전시 <마음의 미술관> (노들섬 ─ 프로그램 ─ 현재)]]></title>
+            <link>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</link>
+            <guid>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</guid>
+            <pubDate>Wed, 06 Apr 2022 05:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.12 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/06045543/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 마음의 날 기념 전시 <마음의 미술관> (노들섬 ─ 프로그램 ─ 현재)]]></title>
+            <link>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</link>
+            <guid>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</guid>
+            <pubDate>Wed, 06 Apr 2022 05:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.12 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/06045543/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 마음의 날 기념 전시 <마음의 미술관> (노들섬 ─ 프로그램 ─ 현재 ─ 전시)]]></title>
             <link>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</link>
             <guid>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ec%a0%84%ec%8b%9c/</guid>
             <pubDate>Wed, 06 Apr 2022 05:40:40 GMT</pubDate>
