@@ -4,10 +4,11 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 위크숍</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 17:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[래코드 업사이클링 워크숍]]></title>
             <link>https://nodeul.org/program/12312-2/</link>
             <guid>https://nodeul.org/program/12312-2/</guid>
             <pubDate>Fri, 15 Apr 2022 05:47:31 GMT</pubDate>
