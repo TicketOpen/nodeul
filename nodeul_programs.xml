@@ -4,9 +4,16 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 17:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://nodeul.org/program/12312-2/</link>
+            <guid>https://nodeul.org/program/12312-2/</guid>
+            <pubDate>Fri, 15 Apr 2022 05:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.16 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/15225917/1%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9A%A9-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 서울재즈페스타 Seoul Jazz Festa]]></title>
             <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9e%ac%ec%a6%88%ed%8e%98%ec%8a%a4%ed%83%80-seoul-jazz-festa/</link>
@@ -126,14 +133,6 @@
             <pubDate>Mon, 04 Apr 2022 05:40:12 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프라인] Connect with LUCY]]></title>
-            <link>https://nodeul.org/program/connect-with-lucy/</link>
-            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
-            <pubDate>Mon, 04 Apr 2022 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/02/16015426/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
