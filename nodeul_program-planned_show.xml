@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 05:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 17:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[SURL（설）concert ‘preview of us’]]></title>
-            <link>https://nodeul.org/program/surl%ef%bc%88%ec%84%a4%ef%bc%89concert-preview-of-us/</link>
-            <guid>https://nodeul.org/program/surl%ef%bc%88%ec%84%a4%ef%bc%89concert-preview-of-us/</guid>
-            <pubDate>Mon, 04 Apr 2022 05:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/04231210/SURL_previewofus_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 서울재즈페스타 Seoul Jazz Festa]]></title>
             <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9e%ac%ec%a6%88%ed%8e%98%ec%8a%a4%ed%83%80-seoul-jazz-festa/</link>
