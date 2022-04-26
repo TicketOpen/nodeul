@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeulbook</id>
     <title>노들서가 ─ 링크트리</title>
-    <updated>2022-04-25T17:49:11.130Z</updated>
+    <updated>2022-04-26T05:45:14.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://linktr.ee/static/favicon.png</icon>
+    <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[📅 "오늘 노들서가 문 열었나요?" - 달력 보러 가기]]></title>
         <id>https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul</id>
