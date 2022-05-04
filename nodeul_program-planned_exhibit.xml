@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nodeul.org/program-planned/#exhibit</id>
-    <title>노들섬 ─ 프로그램 ─ 예정 ─ 전시</title>
-    <updated>2022-05-03T17:52:33.767Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>노들섬 ─ 프로그램 ─ 예정 ─ 전시</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 May 2022 05:47:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 마음의 날 기념 토크콘서트 <돌아온 망치>]]></title>
+            <link>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ed%86%a0%ed%81%ac%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ed%86%a0%ed%81%ac%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
+            <pubDate>Wed, 04 May 2022 05:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.07 (토) 15:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/04195040/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_676-953_%ED%86%A0%ED%81%AC%EC%BD%98%EC%84%9C%ED%8A%B8-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
