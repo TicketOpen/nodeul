@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2021/12/10053541/%EC%A7%80%EB%88%84%EB%B0%95_%EA%B3%B5%ED%99%88%EC%8D%B8%EB%84%A4%EC%9D%BC767x953px-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[노들서가] 겨울동화_문경 개인전]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2021/11/11014336/%EC%84%AC%EB%84%A4%EC%9D%BC-01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Art Token : KARTZ Art Shapes the Future]]></title>
             <link>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</link>
             <guid>https://nodeul.org/program/art-token-kartz-art-shapes-the-future/</guid>
@@ -72,12 +64,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2021/11/13023214/%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[노들서가] 노들도,感_최아영 개인전]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%85%b8%eb%93%a4%eb%8f%84%e6%84%9f_%ec%b5%9c%ec%95%84%ec%98%81-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%85%b8%eb%93%a4%eb%8f%84%e6%84%9f_%ec%b5%9c%ec%95%84%ec%98%81-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <title><![CDATA[[노들서가] 겨울동화_문경 개인전]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ea%b2%a8%ec%9a%b8%eb%8f%99%ed%99%94_%eb%ac%b8%ea%b2%bd-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
             <pubDate>Sun, 08 May 2022 17:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2021/10/27051533/01_thumbnail_767x953-227x282.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.03 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2021/11/11014336/%EC%84%AC%EB%84%A4%EC%9D%BC-01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노들기록 <두번째 전시, 건축의 기억>]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Sun, 08 May 2022 17:51:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2021/10/17190105/%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%85%B8%EB%93%A4%EA%B8%B0%EB%A1%9D_2%EC%B0%A8%EC%A0%84%EC%8B%9C-%EC%9D%B4%ED%98%84%EC%A4%80-%EC%9E%91%EA%B0%80%EB%82%A0%EC%A7%9C-%EB%B3%80%EA%B2%BD_%EB%8C%80%EC%A7%80-1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노들서가] 노들도,感_최아영 개인전]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%85%b8%eb%93%a4%eb%8f%84%e6%84%9f_%ec%b5%9c%ec%95%84%ec%98%81-%ea%b0%9c%ec%9d%b8%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%85%b8%eb%93%a4%eb%8f%84%e6%84%9f_%ec%b5%9c%ec%95%84%ec%98%81-%ea%b0%9c%ec%9d%b8%ec%a0%84/</guid>
+            <pubDate>Sun, 08 May 2022 17:51:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2021/10/27051533/01_thumbnail_767x953-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[『세 발로 하는 산책』 책 그림전]]></title>

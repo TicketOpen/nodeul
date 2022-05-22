@@ -4,64 +4,40 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[그린한 여름 허브반 이야기 / 보태니컬아트 원데이 클래스]]></title>
-            <link>https://nodeul.org/program/%ea%b7%b8%eb%a6%b0%ed%95%9c-%ec%97%ac%eb%a6%84-%ed%97%88%eb%b8%8c%eb%b0%98-%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac%ec%95%84%ed%8a%b8-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4/</link>
-            <guid>https://nodeul.org/program/%ea%b7%b8%eb%a6%b0%ed%95%9c-%ec%97%ac%eb%a6%84-%ed%97%88%eb%b8%8c%eb%b0%98-%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac%ec%95%84%ed%8a%b8-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4/</guid>
-            <pubDate>Wed, 11 May 2022 05:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/11192814/5_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC_270x405-01-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’]]></title>
+            <link>https://nodeul.org/program/2022-kimhyunjoong-concert-countdown-3-seconds-left/</link>
+            <guid>https://nodeul.org/program/2022-kimhyunjoong-concert-countdown-3-seconds-left/</guid>
+            <pubDate>Sun, 22 May 2022 02:53:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11 (토) 19:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/20045611/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%BC-220611-%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 오존 단독공연 [Homecoming]]]></title>
-            <link>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</link>
-            <guid>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14 (토) 18:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/18191339/20220418-41993-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[소란 여름 콘서트 ‘Surf!’]]></title>
+            <link>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</link>
+            <guid>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</guid>
+            <pubDate>Sun, 22 May 2022 02:53:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시티 포레스티벌 2022 X 엘르 스테이지]]></title>
-            <link>https://nodeul.org/program/%ec%8b%9c%ed%8b%b0-%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%8b%b0%eb%b2%8c-2022-x-%ec%97%98%eb%a5%b4-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80/</link>
-            <guid>https://nodeul.org/program/%ec%8b%9c%ed%8b%b0-%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%8b%b0%eb%b2%8c-2022-x-%ec%97%98%eb%a5%b4-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.21 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/29221854/%EC%8B%9C%ED%8F%AC%EB%A0%882022_%EB%9D%BC%EC%9D%B8%EC%97%85-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%B5%9C%EC%A2%85_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.png" length="0" type="image/png"/>
+            <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’]]></title>
+            <link>https://nodeul.org/program/2022-kimhyunjoong-concert-countdown-3-seconds-left/</link>
+            <guid>https://nodeul.org/program/2022-kimhyunjoong-concert-countdown-3-seconds-left/</guid>
+            <pubDate>Sun, 22 May 2022 02:53:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11 (토) 19:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/20045611/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%BC-220611-%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 오존 단독공연 [Homecoming]]]></title>
-            <link>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</link>
-            <guid>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14 (토) 18:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/18191339/20220418-41993-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시티 포레스티벌 2022 X 엘르 스테이지]]></title>
-            <link>https://nodeul.org/program/%ec%8b%9c%ed%8b%b0-%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%8b%b0%eb%b2%8c-2022-x-%ec%97%98%eb%a5%b4-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80/</link>
-            <guid>https://nodeul.org/program/%ec%8b%9c%ed%8b%b0-%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%8b%b0%eb%b2%8c-2022-x-%ec%97%98%eb%a5%b4-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.21 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/29221854/%EC%8B%9C%ED%8F%AC%EB%A0%882022_%EB%9D%BC%EC%9D%B8%EC%97%85-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%B5%9C%EC%A2%85_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[그린한 여름 허브반 이야기 / 보태니컬아트 원데이 클래스]]></title>
-            <link>https://nodeul.org/program/%ea%b7%b8%eb%a6%b0%ed%95%9c-%ec%97%ac%eb%a6%84-%ed%97%88%eb%b8%8c%eb%b0%98-%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac%ec%95%84%ed%8a%b8-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4/</link>
-            <guid>https://nodeul.org/program/%ea%b7%b8%eb%a6%b0%ed%95%9c-%ec%97%ac%eb%a6%84-%ed%97%88%eb%b8%8c%eb%b0%98-%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac%ec%95%84%ed%8a%b8-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4/</guid>
-            <pubDate>Wed, 11 May 2022 05:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/11192814/5_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC_270x405-01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그린한 여름 허브반 이야기 / 보태니컬아트 원데이 클래스]]></title>
-            <link>https://nodeul.org/program/%ea%b7%b8%eb%a6%b0%ed%95%9c-%ec%97%ac%eb%a6%84-%ed%97%88%eb%b8%8c%eb%b0%98-%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac%ec%95%84%ed%8a%b8-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4/</link>
-            <guid>https://nodeul.org/program/%ea%b7%b8%eb%a6%b0%ed%95%9c-%ec%97%ac%eb%a6%84-%ed%97%88%eb%b8%8c%eb%b0%98-%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac%ec%95%84%ed%8a%b8-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4/</guid>
-            <pubDate>Wed, 11 May 2022 05:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/11192814/5_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC_270x405-01-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[소란 여름 콘서트 ‘Surf!’]]></title>
+            <link>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</link>
+            <guid>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</guid>
+            <pubDate>Sun, 22 May 2022 02:53:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

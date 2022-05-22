@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2019/12/23135523/KakaoTalk_20191217_153050109.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[노들섬스케이트장]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%ac%ec%8a%a4%ec%bc%80%ec%9d%b4%ed%8a%b8%ec%9e%a5/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%ac%ec%8a%a4%ec%bc%80%ec%9d%b4%ed%8a%b8%ec%9e%a5/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:35 GMT</pubDate>
-            <content:encoded><![CDATA[2019.12.21 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2019/12/06200917/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B33.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[지역문화콘텐츠기획 해커톤 아이디어 경매]]></title>
             <link>https://nodeul.org/program/%ec%a7%80%ec%97%ad%eb%ac%b8%ed%99%94%ec%bd%98%ed%85%90%ec%b8%a0%ea%b8%b0%ed%9a%8d-%ed%95%b4%ec%bb%a4%ed%86%a4-%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4-%ea%b2%bd%eb%a7%a4/</link>
             <guid>https://nodeul.org/program/%ec%a7%80%ec%97%ad%eb%ac%b8%ed%99%94%ec%bd%98%ed%85%90%ec%b8%a0%ea%b8%b0%ed%9a%8d-%ed%95%b4%ec%bb%a4%ed%86%a4-%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4-%ea%b2%bd%eb%a7%a4/</guid>
@@ -101,6 +93,14 @@
             <pubDate>Sun, 08 May 2022 17:51:35 GMT</pubDate>
             <content:encoded><![CDATA[2019.12.19 (목) 17:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2019/12/17021856/%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들섬스케이트장]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%ac%ec%8a%a4%ec%bc%80%ec%9d%b4%ed%8a%b8%ec%9e%a5/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%ac%ec%8a%a4%ec%bc%80%ec%9d%b4%ed%8a%b8%ec%9e%a5/</guid>
+            <pubDate>Sun, 08 May 2022 17:51:35 GMT</pubDate>
+            <content:encoded><![CDATA[2019.12.21 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2019/12/06200917/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B33.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
