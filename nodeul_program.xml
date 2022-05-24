@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 05:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 17:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 23 May 2022 05:45:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.09 (목)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/23195932/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</guid>
+            <pubDate>Tue, 24 May 2022 17:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앤어플랜트 시그니쳐 워크샵 <식물명상>]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 08 May 2022 17:50:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.07 (토) 15:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/04195040/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_676-953_%ED%86%A0%ED%81%AC%EC%BD%98%EC%84%9C%ED%8A%B8-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[래코드 업사이클링 워크숍]]></title>
-            <link>https://nodeul.org/program/12312-2/</link>
-            <guid>https://nodeul.org/program/12312-2/</guid>
-            <pubDate>Sun, 08 May 2022 17:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.16 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/15225917/1%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9A%A9-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

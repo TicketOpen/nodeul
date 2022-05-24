@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 05:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 17:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</guid>
+            <pubDate>Tue, 24 May 2022 17:52:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA) (노들섬 ─ 프로그램)]]></title>
             <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
@@ -128,20 +136,20 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/04231210/SURL_previewofus_Poster_YES24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[앤어플랜트 시그니쳐 워크샵 〈식물명상〉 (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90-%ec%9b%8c%ed%81%ac%ec%83%b5-%e3%80%88%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81%e3%80%89/</link>
-            <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90-%ec%9b%8c%ed%81%ac%ec%83%b5-%e3%80%88%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81%e3%80%89/</guid>
-            <pubDate>Sun, 08 May 2022 17:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.19 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/03/19041307/%EC%84%AC%EB%84%A4%EC%9D%BC_3%EC%9B%94_%EC%8B%9D%EB%AC%BC%EB%AA%85%EC%83%81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA) (노들섬 ─ 프로그램 ─ 전체)]]></title>
             <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
             <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</guid>
             <pubDate>Mon, 23 May 2022 05:45:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.09 (목)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/23195932/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</guid>
+            <pubDate>Tue, 24 May 2022 17:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앤어플랜트 시그니쳐 워크샵 <식물명상> (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -224,20 +232,20 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/04195040/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_676-953_%ED%86%A0%ED%81%AC%EC%BD%98%EC%84%9C%ED%8A%B8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[래코드 업사이클링 워크숍 (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/12312-2/</link>
-            <guid>https://nodeul.org/program/12312-2/</guid>
-            <pubDate>Sun, 08 May 2022 17:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.16 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/15225917/1%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9A%A9-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA) (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
             <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
             <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</guid>
             <pubDate>Mon, 23 May 2022 05:45:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.09 (목)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/23195932/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</guid>
+            <pubDate>Tue, 24 May 2022 17:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’ (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프라인] Connect with LUCY (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/connect-with-lucy/</link>
-            <guid>https://nodeul.org/program/connect-with-lucy/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.05 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/02/16015426/LUCY_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시티 포레스티벌 2022 X 엘르 스테이지 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
@@ -712,28 +712,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2019/12/06200917/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B33.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA) (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</guid>
-            <pubDate>Mon, 23 May 2022 05:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.09 (목)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/23195932/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/2022-kimhyunjoong-concert-countdown-3-seconds-left/</link>
-            <guid>https://nodeul.org/program/2022-kimhyunjoong-concert-countdown-3-seconds-left/</guid>
-            <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.11 (토) 19:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/20045611/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%BC-220611-%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란 여름 콘서트 ‘Surf!’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</link>
-            <guid>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</guid>
-            <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</guid>
+            <pubDate>Tue, 24 May 2022 17:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA) (노들섬 ─ 프로그램 ─ 예정)]]></title>
@@ -758,6 +742,46 @@
             <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</guid>
+            <pubDate>Tue, 24 May 2022 17:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA) (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</guid>
+            <pubDate>Mon, 23 May 2022 05:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/23195932/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/2022-kimhyunjoong-concert-countdown-3-seconds-left/</link>
+            <guid>https://nodeul.org/program/2022-kimhyunjoong-concert-countdown-3-seconds-left/</guid>
+            <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11 (토) 19:00]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/20045611/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%BC-220611-%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 여름 콘서트 ‘Surf!’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</link>
+            <guid>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</guid>
+            <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</guid>
+            <pubDate>Tue, 24 May 2022 17:53:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA) (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
