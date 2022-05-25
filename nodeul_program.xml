@@ -4,16 +4,24 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 17:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA)]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</guid>
-            <pubDate>Mon, 23 May 2022 05:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.09 (목)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/23195932/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[H.eco Forum 2022: ‘Climate Crisis and the Ocean’]]></title>
+            <link>https://nodeul.org/program/climate-crisis-and-the-ocean/</link>
+            <guid>https://nodeul.org/program/climate-crisis-and-the-ocean/</guid>
+            <pubDate>Wed, 25 May 2022 17:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.26 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26050545/KakaoTalk_20220525_195919369-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문화가 흐르는 예술마당]]></title>
+            <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
+            <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</guid>
+            <pubDate>Wed, 25 May 2022 17:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선]]></title>
@@ -22,6 +30,14 @@
             <pubDate>Tue, 24 May 2022 17:52:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</guid>
+            <pubDate>Mon, 23 May 2022 05:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/23195932/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앤어플랜트 시그니쳐 워크샵 <식물명상>]]></title>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 11 May 2022 05:48:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.14 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/11192814/5_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC_270x405-01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 오존 단독공연 [Homecoming]]]></title>
-            <link>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</link>
-            <guid>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</guid>
-            <pubDate>Sun, 08 May 2022 17:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14 (토) 18:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/18191339/20220418-41993-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 마음의 날 기념 토크콘서트 <돌아온 망치>]]></title>
-            <link>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ed%86%a0%ed%81%ac%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/2022-%eb%a7%88%ec%9d%8c%ec%9d%98-%eb%82%a0-%ea%b8%b0%eb%85%90-%ed%86%a0%ed%81%ac%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
-            <pubDate>Sun, 08 May 2022 17:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07 (토) 15:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/04195040/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_676-953_%ED%86%A0%ED%81%AC%EC%BD%98%EC%84%9C%ED%8A%B8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

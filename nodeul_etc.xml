@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 17:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[H.eco Forum 2022: ‘Climate Crisis and the Ocean’]]></title>
+            <link>https://nodeul.org/program/climate-crisis-and-the-ocean/</link>
+            <guid>https://nodeul.org/program/climate-crisis-and-the-ocean/</guid>
+            <pubDate>Wed, 25 May 2022 17:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.26 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26050545/KakaoTalk_20220525_195919369-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그린한 여름 허브반 이야기 / 보태니컬아트 원데이 클래스]]></title>
             <link>https://nodeul.org/program/%ea%b7%b8%eb%a6%b0%ed%95%9c-%ec%97%ac%eb%a6%84-%ed%97%88%eb%b8%8c%eb%b0%98-%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%b3%b4%ed%83%9c%eb%8b%88%ec%bb%ac%ec%95%84%ed%8a%b8-%ec%9b%90%eb%8d%b0%ec%9d%b4-%ed%81%b4/</link>
@@ -93,14 +101,6 @@
             <pubDate>Sun, 08 May 2022 17:51:35 GMT</pubDate>
             <content:encoded><![CDATA[2019.12.19 (목) 17:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2019/12/17021856/%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노들섬스케이트장]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%ac%ec%8a%a4%ec%bc%80%ec%9d%b4%ed%8a%b8%ec%9e%a5/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%ac%ec%8a%a4%ec%bc%80%ec%9d%b4%ed%8a%b8%ec%9e%a5/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:35 GMT</pubDate>
-            <content:encoded><![CDATA[2019.12.21 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2019/12/06200917/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B33.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

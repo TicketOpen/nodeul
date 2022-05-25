@@ -4,16 +4,16 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 17:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA)]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</guid>
-            <pubDate>Mon, 23 May 2022 05:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.09 (목)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/23195932/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[문화가 흐르는 예술마당]]></title>
+            <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
+            <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</guid>
+            <pubDate>Wed, 25 May 2022 17:49:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 24 May 2022 17:52:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA)]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</guid>
+            <pubDate>Mon, 23 May 2022 05:45:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/23195932/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 KIMHYUNJOONG CONCERT ‘COUNTDOWN 3 seconds left’]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.06 (일) 19:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/02/17020835/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%EC%8B%A0%ED%98%84%ED%9D%AC%EB%94%94%EC%97%90%EC%9D%B4%EB%93%9C_poster_yes24_0216-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프라인] Connect with The Whales]]></title>
-            <link>https://nodeul.org/program/connect-with-the-whales/</link>
-            <guid>https://nodeul.org/program/connect-with-the-whales/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.06 (일) 15:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/02/10014240/%EB%8D%94-%EC%9B%A8%EC%9D%BC%EC%A6%88_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
