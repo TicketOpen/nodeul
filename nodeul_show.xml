@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 17:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</guid>
             <pubDate>Tue, 24 May 2022 17:52:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/25002201/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-227x282.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31024728/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%95%88%EB%82%B4-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[까브라더쑈]]></title>
@@ -56,6 +56,22 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[UNIVERSE FAN PARTY – EUNBI’s SECRET STORE]]></title>
+            <link>https://nodeul.org/program/eunbis-secret-store/</link>
+            <guid>https://nodeul.org/program/eunbis-secret-store/</guid>
+            <pubDate>Mon, 30 May 2022 17:51:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.08 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31012444/KakaoTalk_20220530_145706122-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UNIVERSE FAN PARTY – DREAM DRIVER]]></title>
+            <link>https://nodeul.org/program/universe-fan-party-dream-driver/</link>
+            <guid>https://nodeul.org/program/universe-fan-party-dream-driver/</guid>
+            <pubDate>Mon, 30 May 2022 17:51:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.07 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31012745/KakaoTalk_20220530_145706122_01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 오존 단독공연 [Homecoming]]]></title>
             <link>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</link>
             <guid>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</guid>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.26 (토) 17:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/03/15200613/%ED%8F%AC%EC%8A%A4%ED%84%B0_2022%EC%86%90%ED%98%B8%EC%98%81-%ED%8C%AC%EB%AF%B8%ED%8C%85-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Syn. THE.Size] 실리카겔 단독공연 2022]]></title>
-            <link>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</link>
-            <guid>https://nodeul.org/program/syn-the-size-%ec%8b%a4%eb%a6%ac%ec%b9%b4%ea%b2%94-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-2022/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.18 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/02/24190257/SLCG_Synthesize_Poster_YES24-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 윤지영 단독공연 [나의 정원에서]]]></title>
-            <link>https://nodeul.org/program/2022-%ec%9c%a4%ec%a7%80%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%eb%82%98%ec%9d%98-%ec%a0%95%ec%9b%90%ec%97%90%ec%84%9c/</link>
-            <guid>https://nodeul.org/program/2022-%ec%9c%a4%ec%a7%80%ec%98%81-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%eb%82%98%ec%9d%98-%ec%a0%95%ec%9b%90%ec%97%90%ec%84%9c/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/02/16190907/POSTER-%EC%9C%A4%EC%A7%80%EC%98%81_%EB%82%98%EC%9D%98-%EC%A0%95%EC%9B%90%EC%97%90%EC%84%9C_web-1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
