@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 17:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:53:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/27011438/%EB%B9%B5%EC%86%A1%EA%B5%ADyes24_%ED%8B%B0%EC%BC%93%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80430-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[앤어플랜트 식물문화실험실 프로젝트 01 Plant movement]]></title>
+            <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</link>
+            <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</guid>
+            <pubDate>Tue, 31 May 2022 17:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31192108/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BCX%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[노들 노을 페스타 (NODEUL NOEUL FESTA)]]></title>
             <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</link>
             <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%eb%85%b8%ec%9d%84-%ed%8e%98%ec%8a%a4%ed%83%80-nodeul-noeul-festa/</guid>
@@ -86,6 +94,14 @@
             <pubDate>Sun, 22 May 2022 02:53:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앤어플랜트 식물문화실험실 프로젝트 01 Plant movement]]></title>
+            <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</link>
+            <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</guid>
+            <pubDate>Tue, 31 May 2022 17:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31192108/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BCX%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
