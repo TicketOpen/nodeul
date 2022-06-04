@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 17:50:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2022 서울드럼페스티벌 – 글로벌 드럼 경연대회 본선]]></title>
-            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</link>
-            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%93%9c%eb%9f%bc-%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c-%eb%b3%b8%ec%84%a0/</guid>
-            <pubDate>Fri, 03 Jun 2022 17:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.04 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31024728/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%95%88%EB%82%B4-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[까브라더쑈]]></title>
+            <link>https://nodeul.org/program/%ea%b9%8c%eb%b8%8c%eb%9d%bc%eb%8d%94%ec%91%88/</link>
+            <guid>https://nodeul.org/program/%ea%b9%8c%eb%b8%8c%eb%9d%bc%eb%8d%94%ec%91%88/</guid>
+            <pubDate>Sat, 04 Jun 2022 17:49:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.05 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/27011438/%EB%B9%B5%EC%86%A1%EA%B5%ADyes24_%ED%8B%B0%EC%BC%93%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80430-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
