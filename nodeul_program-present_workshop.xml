@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nodeul.org/program-present/#workshop</id>
-    <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
-    <updated>2022-06-07T05:42:53.403Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 07 Jun 2022 17:48:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앤어플랜트 식물문화실험실 프로젝트 01 Plant movement]]></title>
+            <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</link>
+            <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</guid>
+            <pubDate>Tue, 07 Jun 2022 17:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08 (수)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31192108/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BCX%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
