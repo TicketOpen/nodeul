@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 17:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제24회 서울드럼페스티벌]]></title>
+            <link>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Mon, 13 Jun 2022 05:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/11040631/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시티 포레스티벌 2022 X 엘르 스테이지]]></title>
             <link>https://nodeul.org/program/%ec%8b%9c%ed%8b%b0-%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%8b%b0%eb%b2%8c-2022-x-%ec%97%98%eb%a5%b4-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 08 May 2022 17:51:10 GMT</pubDate>
             <content:encoded><![CDATA[2020.11.29 (일) 18:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2020/11/19153529/%EC%84%AC%EB%B0%A4_1%EC%9D%B8%EB%B6%84%EB%8F%85%EC%84%9C_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[노들서가] 북캐인사이드 11.25(수)- 11.29(일)]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%b6%81%ec%ba%90%ec%9d%b8%ec%82%ac%ec%9d%b4%eb%93%9c-11-25%ec%88%98-11-29%ec%9d%bc/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%eb%b6%81%ec%ba%90%ec%9d%b8%ec%82%ac%ec%9d%b4%eb%93%9c-11-25%ec%88%98-11-29%ec%9d%bc/</guid>
-            <pubDate>Sun, 22 May 2022 02:53:07 GMT</pubDate>
-            <content:encoded><![CDATA[2020.11.25 (수)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2020/11/19114330/%EB%B6%81%EC%BA%90%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
