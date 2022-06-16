@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 17:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 22 May 2022 02:52:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</guid>
+            <pubDate>Thu, 16 Jun 2022 17:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christian Kuria Live in Seoul]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.14 (토) 18:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/18191339/20220418-41993-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 서울재즈페스타 Seoul Jazz Festa]]></title>
-            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9e%ac%ec%a6%88%ed%8e%98%ec%8a%a4%ed%83%80-seoul-jazz-festa/</link>
-            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9e%ac%ec%a6%88%ed%8e%98%ec%8a%a4%ed%83%80-seoul-jazz-festa/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.26 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/14012243/%EC%9E%AC%EC%A6%88_%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

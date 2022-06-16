@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 17:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</guid>
+            <pubDate>Thu, 16 Jun 2022 17:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christian Kuria Live in Seoul (노들섬 ─ 프로그램)]]></title>
@@ -128,14 +136,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/20224214/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_%ED%95%B4%EB%B3%B4%EB%8A%94%EA%B0%80%EB%93%9C%EB%8B%9D_270x405px.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[앤어플랜트 시그니쳐워크샵 <어쩌다가,드닝> (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90%ec%9b%8c%ed%81%ac%ec%83%b5/</link>
-            <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9c%ea%b7%b8%eb%8b%88%ec%b3%90%ec%9b%8c%ed%81%ac%ec%83%b5/</guid>
-            <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/20224211/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%AC%EB%84%A4%EC%9D%BC_%EC%96%B4%EC%A9%8C%EB%8B%A4%EA%B0%80%EB%93%9C%EB%8B%9D_270x405px.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제24회 서울드럼페스티벌 (노들섬 ─ 프로그램 ─ 전체)]]></title>
             <link>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
             <guid>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
@@ -150,6 +150,14 @@
             <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</guid>
+            <pubDate>Thu, 16 Jun 2022 17:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christian Kuria Live in Seoul (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -224,20 +232,20 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31012444/KakaoTalk_20220530_145706122-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[UNIVERSE FAN PARTY – DREAM DRIVER (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/universe-fan-party-dream-driver/</link>
-            <guid>https://nodeul.org/program/universe-fan-party-dream-driver/</guid>
-            <pubDate>Mon, 30 May 2022 17:51:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31012745/KakaoTalk_20220530_145706122_01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[소란 여름 콘서트 ‘Surf!’ (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
             <link>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</link>
             <guid>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</guid>
             <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</guid>
+            <pubDate>Thu, 16 Jun 2022 17:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christian Kuria Live in Seoul (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 08 May 2022 17:50:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.14 (토) 18:00]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/18191339/20220418-41993-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 서울재즈페스타 Seoul Jazz Festa (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9e%ac%ec%a6%88%ed%8e%98%ec%8a%a4%ed%83%80-seoul-jazz-festa/</link>
-            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9e%ac%ec%a6%88%ed%8e%98%ec%8a%a4%ed%83%80-seoul-jazz-festa/</guid>
-            <pubDate>Sun, 08 May 2022 17:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.26 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/14012243/%EC%9E%AC%EC%A6%88_%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제24회 서울드럼페스티벌 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
@@ -712,20 +712,20 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2019/12/17021856/%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제24회 서울드럼페스티벌 (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Mon, 13 Jun 2022 05:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/11040631/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[소란 여름 콘서트 ‘Surf!’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</link>
             <guid>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</guid>
             <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</guid>
+            <pubDate>Thu, 16 Jun 2022 17:45:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christian Kuria Live in Seoul (노들섬 ─ 프로그램 ─ 예정)]]></title>
@@ -752,6 +752,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</guid>
+            <pubDate>Thu, 16 Jun 2022 17:45:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Christian Kuria Live in Seoul (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/christian-kuria-live-in-seoul/</link>
             <guid>https://nodeul.org/program/christian-kuria-live-in-seoul/</guid>
@@ -766,14 +774,6 @@
             <pubDate>Mon, 13 Jun 2022 05:44:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/13232848/%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_Yes24_%EC%9A%A9%EB%9F%89%EB%A7%9E%EC%B6%A4-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제24회 서울드럼페스티벌 (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Mon, 13 Jun 2022 05:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/11040631/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란 여름 콘서트 ‘Surf!’ (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
@@ -782,6 +782,14 @@
             <pubDate>Sun, 22 May 2022 02:52:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</guid>
+            <pubDate>Thu, 16 Jun 2022 17:45:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christian Kuria Live in Seoul (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
@@ -800,7 +808,7 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/13232848/%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_Yes24_%EC%9A%A9%EB%9F%89%EB%A7%9E%EC%B6%A4-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제24회 서울드럼페스티벌 (노들섬 ─ 프로그램 ─ 예정 ─ 페스티벌)]]></title>
+            <title><![CDATA[제24회 서울드럼페스티벌 (노들섬 ─ 프로그램 ─ 현재)]]></title>
             <link>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
             <guid>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
             <pubDate>Mon, 13 Jun 2022 05:44:02 GMT</pubDate>
@@ -832,6 +840,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[제24회 서울드럼페스티벌 (노들섬 ─ 프로그램 ─ 현재)]]></title>
+            <link>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Mon, 13 Jun 2022 05:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/11040631/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앤어플랜트 식물문화실험실 프로젝트 01 Plant movement (노들섬 ─ 프로그램 ─ 현재)]]></title>
             <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</link>
             <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</guid>
@@ -848,6 +864,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[제24회 서울드럼페스티벌 (노들섬 ─ 프로그램 ─ 현재 ─ 페스티벌)]]></title>
+            <link>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Mon, 13 Jun 2022 05:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/11040631/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앤어플랜트 식물문화실험실 프로젝트 01 Plant movement (노들섬 ─ 프로그램 ─ 현재 ─ 워크숍)]]></title>
             <link>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</link>
             <guid>https://nodeul.org/program/%ec%95%a4%ec%96%b4%ed%94%8c%eb%9e%9c%ed%8a%b8-%ec%8b%9d%eb%ac%bc%eb%ac%b8%ed%99%94%ec%8b%a4%ed%97%98%ec%8b%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-01-plant-movement/</guid>
@@ -859,35 +883,35 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 05:44:35 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 17:46:59 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">노들섬 공식 홈페이지</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 05:44:35 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 17:46:59 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">노들섬 페이스북</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 05:44:35 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 17:46:59 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">노들섬 유튜브 채널</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 05:44:39 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 17:47:04 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 05:44:39 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 17:47:04 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content:encoded>
         </item>
         <item>

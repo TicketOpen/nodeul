@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 17:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 22 May 2022 02:52:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유윌노우] THE DIE IS CASTTT; Capsule live 6]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%ec%9c%8c%eb%85%b8%ec%9a%b0-the-die-is-casttt-capsule-live-6/</guid>
+            <pubDate>Thu, 16 Jun 2022 17:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christian Kuria Live in Seoul]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 May 2022 17:51:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.08 (일)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31012444/KakaoTalk_20220530_145706122-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UNIVERSE FAN PARTY – DREAM DRIVER]]></title>
-            <link>https://nodeul.org/program/universe-fan-party-dream-driver/</link>
-            <guid>https://nodeul.org/program/universe-fan-party-dream-driver/</guid>
-            <pubDate>Mon, 30 May 2022 17:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31012745/KakaoTalk_20220530_145706122_01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
