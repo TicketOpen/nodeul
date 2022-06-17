@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 17:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 17:45:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김예지 TURNED 콘서트]]></title>
+            <link>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
+            <pubDate>Fri, 17 Jun 2022 17:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.03 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18041419/KakaoTalk_20220617_185942079-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소란 여름 콘서트 ‘Surf!’]]></title>
             <link>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 May 2022 17:51:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.07 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/31012745/KakaoTalk_20220530_145706122_01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 오존 단독공연 [Homecoming]]]></title>
-            <link>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</link>
-            <guid>https://nodeul.org/program/2022-%ec%98%a4%ec%a1%b4-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-homecoming/</guid>
-            <pubDate>Sun, 08 May 2022 17:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14 (토) 18:00]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/04/18191339/20220418-41993-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
