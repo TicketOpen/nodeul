@@ -4,41 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 05:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 17:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제24회 서울드럼페스티벌]]></title>
-            <link>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Thu, 16 Jun 2022 17:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/11040631/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해보는가드닝]]></title>
-            <link>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94%ea%b0%80%eb%93%9c%eb%8b%9d/</link>
-            <guid>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94%ea%b0%80%eb%93%9c%eb%8b%9d/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.11 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18024544/%ED%95%B4%EB%B3%B4%EB%8A%94%EA%B0%80%EB%93%9C%EB%8B%9D_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌다가드닝]]></title>
-            <link>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d-3/</link>
-            <guid>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d-3/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.11 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18024329/%EC%96%B4%EC%A9%8C%EB%8B%A4%EA%B0%80%EB%93%9C%EB%8B%9D_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[식물명상]]></title>
-            <link>https://nodeul.org/program/%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81-3/</link>
-            <guid>https://nodeul.org/program/%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81-3/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.11 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18023843/%EC%8B%9D%EB%AC%BC%EB%AA%85%EC%83%81_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[식물명상 스페셜]]></title>
             <link>https://nodeul.org/program/%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81-%ec%8a%a4%ed%8e%98%ec%85%9c/</link>
@@ -70,38 +38,6 @@
             <pubDate>Fri, 27 May 2022 17:51:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제24회 서울드럼페스티벌]]></title>
-            <link>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/%ec%a0%9c24%ed%9a%8c-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Thu, 16 Jun 2022 17:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/11040631/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해보는가드닝]]></title>
-            <link>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94%ea%b0%80%eb%93%9c%eb%8b%9d/</link>
-            <guid>https://nodeul.org/program/%ed%95%b4%eb%b3%b4%eb%8a%94%ea%b0%80%eb%93%9c%eb%8b%9d/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.11 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18024544/%ED%95%B4%EB%B3%B4%EB%8A%94%EA%B0%80%EB%93%9C%EB%8B%9D_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌다가드닝]]></title>
-            <link>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d-3/</link>
-            <guid>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d-3/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.11 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18024329/%EC%96%B4%EC%A9%8C%EB%8B%A4%EA%B0%80%EB%93%9C%EB%8B%9D_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[식물명상]]></title>
-            <link>https://nodeul.org/program/%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81-3/</link>
-            <guid>https://nodeul.org/program/%ec%8b%9d%eb%ac%bc%eb%aa%85%ec%83%81-3/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.11 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18023843/%EC%8B%9D%EB%AC%BC%EB%AA%85%EC%83%81_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[식물명상 스페셜]]></title>
