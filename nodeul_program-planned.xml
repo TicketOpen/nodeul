@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 05:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 17:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18041419/KakaoTalk_20220617_185942079-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프로젝트숨틈_CAMINO de Soul]]></title>
-            <link>https://nodeul.org/program/%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%ec%88%a8%ed%8b%88_camino-de-soul/</link>
-            <guid>https://nodeul.org/program/%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%ec%88%a8%ed%8b%88_camino-de-soul/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20 (월)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18025208/%EC%B9%B4%EB%AF%B8%EB%85%B8%EB%8D%B0%EC%86%8C%EC%9A%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[소란 여름 콘서트 ‘Surf!’]]></title>
             <link>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</link>
             <guid>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</guid>
@@ -94,14 +86,6 @@
             <pubDate>Mon, 13 Jun 2022 05:45:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/13232848/%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_Yes24_%EC%9A%A9%EB%9F%89%EB%A7%9E%EC%B6%A4-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로젝트숨틈_CAMINO de Soul]]></title>
-            <link>https://nodeul.org/program/%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%ec%88%a8%ed%8b%88_camino-de-soul/</link>
-            <guid>https://nodeul.org/program/%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%ec%88%a8%ed%8b%88_camino-de-soul/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20 (월)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18025208/%EC%B9%B4%EB%AF%B8%EB%85%B8%EB%8D%B0%EC%86%8C%EC%9A%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
