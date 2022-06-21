@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 17:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 05:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/08031458/Christian-Kuria-%EA%B3%B5%EC%97%B0%ED%8F%AC%EC%8A%A4%ED%84%B0-%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 신한 스퀘어브릿지 페스티벌]]></title>
+            <link>https://nodeul.org/program/2022-%ec%8b%a0%ed%95%9c-%ec%8a%a4%ed%80%98%ec%96%b4%eb%b8%8c%eb%a6%bf%ec%a7%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ed%95%9c-%ec%8a%a4%ed%80%98%ec%96%b4%eb%b8%8c%eb%a6%bf%ec%a7%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Tue, 21 Jun 2022 05:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.08 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/21220659/20220615_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김예지 TURNED 콘서트]]></title>
             <link>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
             <guid>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
@@ -86,6 +94,14 @@
             <pubDate>Sun, 22 May 2022 02:53:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신한 스퀘어브릿지 페스티벌]]></title>
+            <link>https://nodeul.org/program/2022-%ec%8b%a0%ed%95%9c-%ec%8a%a4%ed%80%98%ec%96%b4%eb%b8%8c%eb%a6%bf%ec%a7%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ed%95%9c-%ec%8a%a4%ed%80%98%ec%96%b4%eb%b8%8c%eb%a6%bf%ec%a7%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Tue, 21 Jun 2022 05:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.08 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/21220659/20220615_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
