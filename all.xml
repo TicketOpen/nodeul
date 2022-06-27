@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 17:48:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -808,14 +808,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라이프스타일 혁신가 발굴 프로젝트 – 1차 오디션 (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</link>
-            <guid>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</guid>
-            <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.28 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24045323/%EC%B5%9C%EC%A2%85-%ED%8F%AC%EC%8A%A4%ED%84%B0-1%EC%B8%B5-DID-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</link>
             <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
@@ -910,14 +902,6 @@
             <pubDate>Tue, 21 Jun 2022 05:43:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/21220659/20220615_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이프스타일 혁신가 발굴 프로젝트 – 1차 오디션 (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</link>
-            <guid>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</guid>
-            <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.28 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24045323/%EC%B5%9C%EC%A2%85-%ED%8F%AC%EC%8A%A4%ED%84%B0-1%EC%B8%B5-DID-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
@@ -1016,7 +1000,7 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/21220659/20220615_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라이프스타일 혁신가 발굴 프로젝트 – 1차 오디션 (노들섬 ─ 프로그램 ─ 예정 ─ 기타)]]></title>
+            <title><![CDATA[라이프스타일 혁신가 발굴 프로젝트 – 1차 오디션 (노들섬 ─ 프로그램 ─ 현재)]]></title>
             <link>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</link>
             <guid>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</guid>
             <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
@@ -1040,6 +1024,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[라이프스타일 혁신가 발굴 프로젝트 – 1차 오디션 (노들섬 ─ 프로그램 ─ 현재)]]></title>
+            <link>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</link>
+            <guid>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</guid>
+            <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24045323/%EC%B5%9C%EC%A2%85-%ED%8F%AC%EC%8A%A4%ED%84%B0-1%EC%B8%B5-DID-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[문화가 흐르는 예술마당 (노들섬 ─ 프로그램 ─ 현재 ─ 공연)]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
             <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</guid>
@@ -1048,39 +1040,47 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
-            <link>https://TicketOpen.github.io/nodeul/all.xml</link>
-            <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 05:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">노들섬 공식 홈페이지</p></a></div>]]></content:encoded>
+            <title><![CDATA[라이프스타일 혁신가 발굴 프로젝트 – 1차 오디션 (노들섬 ─ 프로그램 ─ 현재 ─ 기타)]]></title>
+            <link>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</link>
+            <guid>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</guid>
+            <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24045323/%EC%B5%9C%EC%A2%85-%ED%8F%AC%EC%8A%A4%ED%84%B0-1%EC%B8%B5-DID-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 05:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">노들섬 페이스북</p></a></div>]]></content:encoded>
+            <pubDate>Mon, 27 Jun 2022 17:48:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">노들섬 공식 홈페이지</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 05:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">노들섬 유튜브 채널</p></a></div>]]></content:encoded>
+            <pubDate>Mon, 27 Jun 2022 17:48:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">노들섬 페이스북</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
+            <link>https://TicketOpen.github.io/nodeul/all.xml</link>
+            <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
+            <pubDate>Mon, 27 Jun 2022 17:48:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">노들섬 유튜브 채널</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 05:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content:encoded>
+            <pubDate>Mon, 27 Jun 2022 17:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 05:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 bufFvh rsIfq">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content:encoded>
+            <pubDate>Mon, 27 Jun 2022 17:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[📅 "오늘 스페이스 445 문 열었나요?" - 달력 보러 가기 (노들섬 아트스페이스 ─ 링크트리)]]></title>

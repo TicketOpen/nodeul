@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 17:48:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/17053901/capsule-live-6-Poster-2_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라이프스타일 혁신가 발굴 프로젝트 – 1차 오디션]]></title>
-            <link>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</link>
-            <guid>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</guid>
-            <pubDate>Thu, 23 Jun 2022 17:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.28 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24045323/%EC%B5%9C%EC%A2%85-%ED%8F%AC%EC%8A%A4%ED%84%B0-1%EC%B8%B5-DID-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
             <link>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</link>
             <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
@@ -206,14 +198,6 @@
             <pubDate>Tue, 21 Jun 2022 05:44:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/21220659/20220615_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이프스타일 혁신가 발굴 프로젝트 – 1차 오디션]]></title>
-            <link>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</link>
-            <guid>https://nodeul.org/program/%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%98%81%ec%8b%a0%ea%b0%80-%eb%b0%9c%ea%b5%b4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-1%ec%b0%a8-%ec%98%a4%eb%94%94%ec%85%98/</guid>
-            <pubDate>Thu, 23 Jun 2022 17:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.28 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24045323/%EC%B5%9C%EC%A2%85-%ED%8F%AC%EC%8A%A4%ED%84%B0-1%EC%B8%B5-DID-227x282.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
