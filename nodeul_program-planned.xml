@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 05:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 17:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/21220659/20220615_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김예지 TURNED 콘서트]]></title>
-            <link>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.03 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18041419/KakaoTalk_20220617_185942079-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
             <link>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</link>
             <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
@@ -126,14 +118,6 @@
             <pubDate>Fri, 24 Jun 2022 05:44:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.16 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24220702/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%BC_0716-%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김예지 TURNED 콘서트]]></title>
-            <link>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.03 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18041419/KakaoTalk_20220617_185942079-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손에손에 뮤직페스타 – 두번째달X김준수]]></title>

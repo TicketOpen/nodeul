@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 05:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 17:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 24 Jun 2022 05:44:55 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.16 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24220702/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%BC_0716-%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김예지 TURNED 콘서트]]></title>
-            <link>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
-            <pubDate>Fri, 17 Jun 2022 17:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.03 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18041419/KakaoTalk_20220617_185942079-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
