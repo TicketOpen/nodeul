@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 현재 ─ 페스티벌</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 05:43:05 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 신한 스퀘어브릿지 페스티벌]]></title>
-            <link>https://nodeul.org/program/2022-%ec%8b%a0%ed%95%9c-%ec%8a%a4%ed%80%98%ec%96%b4%eb%b8%8c%eb%a6%bf%ec%a7%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ed%95%9c-%ec%8a%a4%ed%80%98%ec%96%b4%eb%b8%8c%eb%a6%bf%ec%a7%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Fri, 08 Jul 2022 05:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.08 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/21220659/20220615_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-present/#festival</id>
+    <title>노들섬 ─ 프로그램 ─ 현재 ─ 페스티벌</title>
+    <updated>2022-07-09T17:46:13.699Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>
