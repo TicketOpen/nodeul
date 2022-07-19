@@ -4,9 +4,25 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 17:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최항석과 부기몬스터의 블루스 스토리]]></title>
+            <link>https://nodeul.org/program/%ec%b5%9c%ed%95%ad%ec%84%9d%ea%b3%bc-%eb%b6%80%ea%b8%b0%eb%aa%ac%ec%8a%a4%ed%84%b0%ec%9d%98-%eb%b8%94%eb%a3%a8%ec%8a%a4-%ec%8a%a4%ed%86%a0%eb%a6%ac/</link>
+            <guid>https://nodeul.org/program/%ec%b5%9c%ed%95%ad%ec%84%9d%ea%b3%bc-%eb%b6%80%ea%b8%b0%eb%aa%ac%ec%8a%a4%ed%84%b0%ec%9d%98-%eb%b8%94%eb%a3%a8%ec%8a%a4-%ec%8a%a4%ed%86%a0%eb%a6%ac/</guid>
+            <pubDate>Tue, 19 Jul 2022 17:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.18 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/20040103/KakaoTalk_20220719_184624413-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10cm SUMMER CONCERT ‘KWONJEONGYEOL’]]></title>
+            <link>https://nodeul.org/program/10cm-summer-concert-kwonjeongyeol/</link>
+            <guid>https://nodeul.org/program/10cm-summer-concert-kwonjeongyeol/</guid>
+            <pubDate>Tue, 19 Jul 2022 17:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/20043213/YES24-1_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_2022-SUM-CON_10CM-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
             <link>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</link>
@@ -78,6 +94,22 @@
             <pubDate>Mon, 13 Jun 2022 05:45:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/09043602/nodle-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최항석과 부기몬스터의 블루스 스토리]]></title>
+            <link>https://nodeul.org/program/%ec%b5%9c%ed%95%ad%ec%84%9d%ea%b3%bc-%eb%b6%80%ea%b8%b0%eb%aa%ac%ec%8a%a4%ed%84%b0%ec%9d%98-%eb%b8%94%eb%a3%a8%ec%8a%a4-%ec%8a%a4%ed%86%a0%eb%a6%ac/</link>
+            <guid>https://nodeul.org/program/%ec%b5%9c%ed%95%ad%ec%84%9d%ea%b3%bc-%eb%b6%80%ea%b8%b0%eb%aa%ac%ec%8a%a4%ed%84%b0%ec%9d%98-%eb%b8%94%eb%a3%a8%ec%8a%a4-%ec%8a%a4%ed%86%a0%eb%a6%ac/</guid>
+            <pubDate>Tue, 19 Jul 2022 17:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.18 (일)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/20040103/KakaoTalk_20220719_184624413-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10cm SUMMER CONCERT ‘KWONJEONGYEOL’]]></title>
+            <link>https://nodeul.org/program/10cm-summer-concert-kwonjeongyeol/</link>
+            <guid>https://nodeul.org/program/10cm-summer-concert-kwonjeongyeol/</guid>
+            <pubDate>Tue, 19 Jul 2022 17:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/20043213/YES24-1_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_2022-SUM-CON_10CM-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
