@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeulbook</id>
     <title>노들서가 ─ 링크트리</title>
-    <updated>2022-07-21T05:51:05.430Z</updated>
+    <updated>2022-07-21T17:48:32.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://linktr.ee/nodeulbook</id>
         <link href="https://linktr.ee/nodeulbook"/>
-        <updated>2022-07-21T05:51:04.763Z</updated>
+        <updated>2022-07-21T17:48:31.771Z</updated>
         <content type="html"><![CDATA[<a href="https://calendar.google.com/calendar/embed?src=6b8336r1bun1ikqrgqi82a2t54%40group.calendar.google.com&amp;ctz=Asia%2FSeoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ bDISrn"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">📅 "오늘 노들서가 문 열었나요?" - 달력 보러 가기 </p></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://linktr.ee/nodeulbook</id>
         <link href="https://linktr.ee/nodeulbook"/>
-        <updated>2022-07-21T05:51:04.764Z</updated>
+        <updated>2022-07-21T17:48:31.775Z</updated>
         <content type="html"><![CDATA[<a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeulbook " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ bDISrn"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kkVeT rsIfq">🏝 노들섬 공식 홈페이지</p></a>]]></content>
     </entry>
 </feed>

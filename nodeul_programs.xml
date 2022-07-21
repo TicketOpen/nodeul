@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 17:48:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 20 Jul 2022 05:47:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.16 (화)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/20043213/YES24-1_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_2022-SUM-CON_10CM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노들컬처아카데미] K-POP 아이돌 아카데미 – 댄스]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-k-pop-%ec%95%84%ec%9d%b4%eb%8f%8c-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%eb%8c%84%ec%8a%a4/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-k-pop-%ec%95%84%ec%9d%b4%eb%8f%8c-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%eb%8c%84%ec%8a%a4/</guid>
+            <pubDate>Thu, 21 Jul 2022 17:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/22012411/%EB%85%B8%EB%93%A4-K-%EC%BB%AC%EC%B3%90-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8_%EB%8C%84%EC%8A%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 20 Jul 2022 05:47:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/21220659/20220615_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김예지 TURNED 콘서트]]></title>
-            <link>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%ea%b9%80%ec%98%88%ec%a7%80-turned-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
-            <pubDate>Wed, 20 Jul 2022 05:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.03 (일)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/18041419/KakaoTalk_20220617_185942079.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
