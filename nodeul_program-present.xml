@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 05:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 17:46:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스마일러브위크엔드 [Smile, Love, Weekend]]]></title>
-            <link>https://nodeul.org/program/%ec%8a%a4%eb%a7%88%ec%9d%bc%eb%9f%ac%eb%b8%8c%ec%9c%84%ed%81%ac%ec%97%94%eb%93%9c-smile-love-weekend/</link>
-            <guid>https://nodeul.org/program/%ec%8a%a4%eb%a7%88%ec%9d%bc%eb%9f%ac%eb%b8%8c%ec%9c%84%ed%81%ac%ec%97%94%eb%93%9c-smile-love-weekend/</guid>
-            <pubDate>Fri, 22 Jul 2022 17:50:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/09043602/nodle-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
@@ -22,14 +14,6 @@
             <pubDate>Fri, 27 May 2022 17:51:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일러브위크엔드 [Smile, Love, Weekend]]]></title>
-            <link>https://nodeul.org/program/%ec%8a%a4%eb%a7%88%ec%9d%bc%eb%9f%ac%eb%b8%8c%ec%9c%84%ed%81%ac%ec%97%94%eb%93%9c-smile-love-weekend/</link>
-            <guid>https://nodeul.org/program/%ec%8a%a4%eb%a7%88%ec%9d%bc%eb%9f%ac%eb%b8%8c%ec%9c%84%ed%81%ac%ec%97%94%eb%93%9c-smile-love-weekend/</guid>
-            <pubDate>Fri, 22 Jul 2022 17:50:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/09043602/nodle-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
