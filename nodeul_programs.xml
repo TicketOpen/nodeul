@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 05:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 17:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 23 Jul 2022 17:43:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 (일)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/20040103/KakaoTalk_20220719_184624413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST]]]></title>
+            <link>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</link>
+            <guid>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</guid>
+            <pubDate>Sun, 24 Jul 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.03 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/24002808/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10cm SUMMER CONCERT ‘KWONJEONGYEOL’]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 23 Jul 2022 17:43:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.16 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24220702/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%BC_0716-%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 신한 스퀘어브릿지 페스티벌]]></title>
-            <link>https://nodeul.org/program/2022-%ec%8b%a0%ed%95%9c-%ec%8a%a4%ed%80%98%ec%96%b4%eb%b8%8c%eb%a6%bf%ec%a7%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ed%95%9c-%ec%8a%a4%ed%80%98%ec%96%b4%eb%b8%8c%eb%a6%bf%ec%a7%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Sat, 23 Jul 2022 17:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.08 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/21220659/20220615_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
