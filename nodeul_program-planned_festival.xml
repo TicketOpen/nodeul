@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 페스티벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 17:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:58:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 버스커 페스티벌]]></title>
+            <link>https://nodeul.org/program/%ec%84%9c%ec%9a%b8-%eb%b2%84%ec%8a%a4%ec%bb%a4-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/%ec%84%9c%ec%9a%b8-%eb%b2%84%ec%8a%a4%ec%bb%a4-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Mon, 25 Jul 2022 05:57:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26 (금)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/25205645/KakaoTalk_20220725_113501086-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손에손에 뮤직페스타 – 두번째달X김준수]]></title>
             <link>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%ae%a4%ec%a7%81%ed%8e%98%ec%8a%a4%ed%83%80-%eb%91%90%eb%b2%88%ec%a7%b8%eb%8b%acx%ea%b9%80%ec%a4%80%ec%88%98/</link>
