@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 05:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 17:51:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/13003552/Batiman-main-1-nodeul-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[손에손에 뮤직페스타 – 몽니]]></title>
-            <link>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%aa%bd%eb%8b%88/</link>
-            <guid>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%aa%bd%eb%8b%88/</guid>
-            <pubDate>Thu, 23 Jun 2022 17:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28 (목)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24043932/KakaoTalk_20220623_183600233_01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SAMM HENSHAW LIVE IN SEOUL]]></title>
             <link>https://nodeul.org/program/samm-henshaw-live-in-seoul/</link>
             <guid>https://nodeul.org/program/samm-henshaw-live-in-seoul/</guid>
@@ -182,14 +174,6 @@
             <pubDate>Thu, 23 Jun 2022 17:46:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24043954/KakaoTalk_20220623_183600233_02-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손에손에 뮤직페스타 – 몽니]]></title>
-            <link>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%aa%bd%eb%8b%88/</link>
-            <guid>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%aa%bd%eb%8b%88/</guid>
-            <pubDate>Thu, 23 Jun 2022 17:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28 (목)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24043932/KakaoTalk_20220623_183600233_01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바티망(Bâtiment)]]></title>

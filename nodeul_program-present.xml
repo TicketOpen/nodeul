@@ -4,16 +4,16 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 05:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 17:51:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[손에손에 뮤직페스타 – 산이X아웃사이더X가리온]]></title>
-            <link>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%ae%a4%ec%a7%81%ed%8e%98%ec%8a%a4%ed%83%80-%ec%82%b0%ec%9d%b4x%ec%95%84%ec%9b%83%ec%82%ac%ec%9d%b4%eb%8d%94x%ea%b0%80%eb%a6%ac%ec%98%a8/</link>
-            <guid>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%ae%a4%ec%a7%81%ed%8e%98%ec%8a%a4%ed%83%80-%ec%82%b0%ec%9d%b4x%ec%95%84%ec%9b%83%ec%82%ac%ec%9d%b4%eb%8d%94x%ea%b0%80%eb%a6%ac%ec%98%a8/</guid>
-            <pubDate>Tue, 26 Jul 2022 17:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27 (수)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24044345/KakaoTalk_20220623_183600233-1-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[손에손에 뮤직페스타 – 몽니]]></title>
+            <link>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%aa%bd%eb%8b%88/</link>
+            <guid>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%aa%bd%eb%8b%88/</guid>
+            <pubDate>Wed, 27 Jul 2022 17:50:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24043932/KakaoTalk_20220623_183600233_01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
@@ -32,12 +32,12 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[손에손에 뮤직페스타 – 산이X아웃사이더X가리온]]></title>
-            <link>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%ae%a4%ec%a7%81%ed%8e%98%ec%8a%a4%ed%83%80-%ec%82%b0%ec%9d%b4x%ec%95%84%ec%9b%83%ec%82%ac%ec%9d%b4%eb%8d%94x%ea%b0%80%eb%a6%ac%ec%98%a8/</link>
-            <guid>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%ae%a4%ec%a7%81%ed%8e%98%ec%8a%a4%ed%83%80-%ec%82%b0%ec%9d%b4x%ec%95%84%ec%9b%83%ec%82%ac%ec%9d%b4%eb%8d%94x%ea%b0%80%eb%a6%ac%ec%98%a8/</guid>
-            <pubDate>Tue, 26 Jul 2022 17:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27 (수)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24044345/KakaoTalk_20220623_183600233-1-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[손에손에 뮤직페스타 – 몽니]]></title>
+            <link>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%aa%bd%eb%8b%88/</link>
+            <guid>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%aa%bd%eb%8b%88/</guid>
+            <pubDate>Wed, 27 Jul 2022 17:50:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28 (목)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24043932/KakaoTalk_20220623_183600233_01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
