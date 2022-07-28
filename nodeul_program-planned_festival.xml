@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 페스티벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 17:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 23 Jun 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.30 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24044015/KakaoTalk_20220623_183600233_03-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손에손에 뮤직페스타 – JK김동욱X커먼그라운드]]></title>
-            <link>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%ae%a4%ec%a7%81%ed%8e%98%ec%8a%a4%ed%83%80-jk%ea%b9%80%eb%8f%99%ec%9a%b1x%ec%bb%a4%eb%a8%bc%ea%b7%b8%eb%9d%bc%ec%9a%b4%eb%93%9c/</link>
-            <guid>https://nodeul.org/program/%ec%86%90%ec%97%90%ec%86%90%ec%97%90-%eb%ae%a4%ec%a7%81%ed%8e%98%ec%8a%a4%ed%83%80-jk%ea%b9%80%eb%8f%99%ec%9a%b1x%ec%bb%a4%eb%a8%bc%ea%b7%b8%eb%9d%bc%ec%9a%b4%eb%93%9c/</guid>
-            <pubDate>Thu, 23 Jun 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24043954/KakaoTalk_20220623_183600233_02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
