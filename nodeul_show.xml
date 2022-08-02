@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 05:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 17:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 19 Jul 2022 17:51:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 (일)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/29194355/%EC%B5%9C%ED%95%AD%EC%84%9D%EA%B3%BC%EB%B6%80%EA%B8%B0%EB%AA%AC%EC%8A%A4%ED%84%B0-%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ko hoonjeong & kim chanho’s duet concert: always summer,]]></title>
+            <link>https://nodeul.org/program/always-summer/</link>
+            <guid>https://nodeul.org/program/always-summer/</guid>
+            <pubDate>Tue, 02 Aug 2022 17:48:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST]]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 25 May 2022 17:49:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소란 여름 콘서트 ‘Surf!’]]></title>
-            <link>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</link>
-            <guid>https://nodeul.org/program/%ec%86%8c%eb%9e%80-%ec%97%ac%eb%a6%84-%ec%bd%98%ec%84%9c%ed%8a%b8-surf/</guid>
-            <pubDate>Sun, 22 May 2022 02:52:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/19201434/SRN_Surf_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%84%AC%EB%84%A4%EC%9D%BC-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

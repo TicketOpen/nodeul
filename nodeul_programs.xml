@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 05:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 17:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 23 Jul 2022 17:43:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 (일)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/29194355/%EC%B5%9C%ED%95%AD%EC%84%9D%EA%B3%BC%EB%B6%80%EA%B8%B0%EB%AA%AC%EC%8A%A4%ED%84%B0-%EB%85%B8%EB%93%A4%EC%84%AC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ko hoonjeong & kim chanho’s duet concert: always summer,]]></title>
+            <link>https://nodeul.org/program/always-summer/</link>
+            <guid>https://nodeul.org/program/always-summer/</guid>
+            <pubDate>Tue, 02 Aug 2022 17:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 23 Jul 2022 17:43:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/09043602/nodle.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christian Kuria Live in Seoul]]></title>
-            <link>https://nodeul.org/program/christian-kuria-live-in-seoul/</link>
-            <guid>https://nodeul.org/program/christian-kuria-live-in-seoul/</guid>
-            <pubDate>Sat, 23 Jul 2022 17:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.19 (화)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/08031458/Christian-Kuria-%EA%B3%B5%EC%97%B0%ED%8F%AC%EC%8A%A4%ED%84%B0-%EB%85%B8%EB%93%A4%EC%84%AC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
