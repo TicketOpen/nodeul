@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 17:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 05:58:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,7 +69,7 @@
             <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
             <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24021944/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%95%84%EC%9D%B4%EB%B9%84220621.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/03192052/%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[노들컬처아카데미] 키즈 작곡 아카데미 (노들섬 ─ 프로그램)]]></title>
@@ -155,7 +155,7 @@
             <title><![CDATA[ko hoonjeong & kim chanho’s duet concert: always summer, (노들섬 ─ 프로그램 ─ 전체)]]></title>
             <link>https://nodeul.org/program/always-summer/</link>
             <guid>https://nodeul.org/program/always-summer/</guid>
-            <pubDate>Tue, 02 Aug 2022 17:48:22 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2022 17:48:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
         </item>
@@ -197,7 +197,7 @@
             <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
             <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24021944/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%95%84%EC%9D%B4%EB%B9%84220621-227x282.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/03192052/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[노들컬처아카데미] 키즈 작곡 아카데미 (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -251,7 +251,7 @@
             <title><![CDATA[ko hoonjeong & kim chanho’s duet concert: always summer, (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
             <link>https://nodeul.org/program/always-summer/</link>
             <guid>https://nodeul.org/program/always-summer/</guid>
-            <pubDate>Tue, 02 Aug 2022 17:48:30 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2022 17:48:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
         </item>
@@ -277,7 +277,7 @@
             <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
             <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24021944/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%95%84%EC%9D%B4%EB%B9%84220621-227x282.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/03192052/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마일러브위크엔드 [Smile, Love, Weekend] (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -731,7 +731,7 @@
             <title><![CDATA[ko hoonjeong & kim chanho’s duet concert: always summer, (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/always-summer/</link>
             <guid>https://nodeul.org/program/always-summer/</guid>
-            <pubDate>Tue, 02 Aug 2022 17:49:13 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2022 17:48:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
         </item>
@@ -773,7 +773,7 @@
             <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
             <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24021944/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%95%84%EC%9D%B4%EB%B9%84220621-227x282.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/03192052/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[노들컬처아카데미] 키즈 작곡 아카데미 (노들섬 ─ 프로그램 ─ 예정)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[ko hoonjeong & kim chanho’s duet concert: always summer, (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/always-summer/</link>
             <guid>https://nodeul.org/program/always-summer/</guid>
-            <pubDate>Tue, 02 Aug 2022 17:49:13 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2022 17:48:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
         </item>
@@ -829,7 +829,7 @@
             <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
             <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24021944/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%95%84%EC%9D%B4%EB%B9%84220621-227x282.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/03192052/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 버스커 페스티벌 (노들섬 ─ 프로그램 ─ 예정)]]></title>
@@ -859,7 +859,7 @@
             <title><![CDATA[ko hoonjeong & kim chanho’s duet concert: always summer, (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
             <link>https://nodeul.org/program/always-summer/</link>
             <guid>https://nodeul.org/program/always-summer/</guid>
-            <pubDate>Tue, 02 Aug 2022 17:49:19 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2022 17:48:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
         </item>
@@ -885,7 +885,7 @@
             <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
             <pubDate>Thu, 23 Jun 2022 17:45:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/24021944/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%95%84%EC%9D%B4%EB%B9%84220621-227x282.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/06/03192052/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 버스커 페스티벌 (노들섬 ─ 프로그램 ─ 예정 ─ 페스티벌)]]></title>
@@ -947,42 +947,42 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 02 Aug 2022 17:50:22 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 05:58:02 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ iTsldh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">노들섬 공식 홈페이지</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 02 Aug 2022 17:50:22 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 05:58:02 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ iTsldh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">노들섬 페이스북</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 02 Aug 2022 17:50:22 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 05:58:02 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ iTsldh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">노들섬 유튜브 채널</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 02 Aug 2022 17:50:25 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 05:58:05 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ iTsldh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 02 Aug 2022 17:50:25 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 05:58:05 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ iTsldh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[📅 "오늘 스페이스 445 문 열었나요?" - 달력 보러 가기 (노들섬 아트스페이스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 02 Aug 2022 17:50:32 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 05:58:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://calendar.google.com/calendar/embed?src=nodeul.space445%40gmail.com&amp;ctz=Asia%2FSeoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-space-445 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ bDISrn"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">📅 "오늘 스페이스 445 문 열었나요?" - 달력 보러 가기</p></a>]]></content:encoded>
         </item>
     </channel>
