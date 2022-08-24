@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 17:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 17:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,7 +155,7 @@
             <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 (노들섬 ─ 프로그램 ─ 전체)]]></title>
             <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8/</link>
             <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8/</guid>
-            <pubDate>Tue, 23 Aug 2022 17:45:12 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2022 17:45:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.08 (목)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/24034612/12-227x282.png" length="0" type="image/png"/>
         </item>
@@ -731,7 +731,7 @@
             <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8/</link>
             <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8/</guid>
-            <pubDate>Tue, 23 Aug 2022 17:45:58 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2022 17:45:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.08 (목)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/24034612/12-227x282.png" length="0" type="image/png"/>
         </item>
@@ -963,35 +963,35 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 23 Aug 2022 17:47:04 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 17:46:53 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA fcsPSN"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">노들섬 공식 홈페이지</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 23 Aug 2022 17:47:04 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 17:46:53 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA fcsPSN"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">노들섬 페이스북</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 23 Aug 2022 17:47:04 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 17:46:53 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA fcsPSN"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">노들섬 유튜브 채널</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 23 Aug 2022 17:47:08 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 17:46:56 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA eYvKfc"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 23 Aug 2022 17:47:08 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 17:46:56 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA eYvKfc"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content:encoded>
         </item>
     </channel>
