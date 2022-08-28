@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 현재 ─ 페스티벌</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 05:54:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 서울거리공연 구석구석라이브 [버스커페스티벌]]]></title>
-            <link>https://nodeul.org/program/%ec%84%9c%ec%9a%b8-%eb%b2%84%ec%8a%a4%ec%bb%a4-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/%ec%84%9c%ec%9a%b8-%eb%b2%84%ec%8a%a4%ec%bb%a4-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Fri, 26 Aug 2022 06:30:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26 (금)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/18060003/2022-%EB%B2%84%EC%8A%A4%EC%BB%A4%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0600X900pixel-%EC%B5%9C%EC%A2%85-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-present/#festival</id>
+    <title>노들섬 ─ 프로그램 ─ 현재 ─ 페스티벌</title>
+    <updated>2022-08-28T17:46:21.196Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>
