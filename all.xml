@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 05:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,7 +139,7 @@
             <title><![CDATA[2022 다린 콘서트 Orb: (노들섬 ─ 프로그램 ─ 전체)]]></title>
             <link>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</link>
             <guid>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</guid>
-            <pubDate>Fri, 02 Sep 2022 06:23:58 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:23:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.29 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/09/02234925/%E1%84%83%E1%85%A1%E1%84%85%E1%85%B5%E1%86%AB-Orb-%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.png" length="0" type="image/png"/>
         </item>
@@ -235,7 +235,7 @@
             <title><![CDATA[2022 다린 콘서트 Orb: (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
             <link>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</link>
             <guid>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</guid>
-            <pubDate>Fri, 02 Sep 2022 06:24:07 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:23:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.29 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/09/02234925/%E1%84%83%E1%85%A1%E1%84%85%E1%85%B5%E1%86%AB-Orb-%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.png" length="0" type="image/png"/>
         </item>
@@ -723,7 +723,7 @@
             <title><![CDATA[2022 다린 콘서트 Orb: (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</link>
             <guid>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</guid>
-            <pubDate>Fri, 02 Sep 2022 06:24:47 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:23:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.29 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/09/02234925/%E1%84%83%E1%85%A1%E1%84%85%E1%85%B5%E1%86%AB-Orb-%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.png" length="0" type="image/png"/>
         </item>
@@ -768,14 +768,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST] (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</link>
-            <guid>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</guid>
-            <pubDate>Sun, 24 Jul 2022 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/24002808/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0--227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SAMM HENSHAW LIVE IN SEOUL (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/samm-henshaw-live-in-seoul/</link>
             <guid>https://nodeul.org/program/samm-henshaw-live-in-seoul/</guid>
@@ -787,7 +779,7 @@
             <title><![CDATA[2022 다린 콘서트 Orb: (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</link>
             <guid>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</guid>
-            <pubDate>Fri, 02 Sep 2022 06:24:47 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:23:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.29 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/09/02234925/%E1%84%83%E1%85%A1%E1%84%85%E1%85%B5%E1%86%AB-Orb-%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.png" length="0" type="image/png"/>
         </item>
@@ -808,14 +800,6 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST] (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</link>
-            <guid>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</guid>
-            <pubDate>Sun, 24 Jul 2022 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03 (토)]]></content:encoded>
-            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/24002808/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0--227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SAMM HENSHAW LIVE IN SEOUL (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
             <link>https://nodeul.org/program/samm-henshaw-live-in-seoul/</link>
             <guid>https://nodeul.org/program/samm-henshaw-live-in-seoul/</guid>
@@ -827,7 +811,7 @@
             <title><![CDATA[2022 다린 콘서트 Orb: (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
             <link>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</link>
             <guid>https://nodeul.org/program/2022-%eb%8b%a4%eb%a6%b0-%ec%bd%98%ec%84%9c%ed%8a%b8-orb/</guid>
-            <pubDate>Fri, 02 Sep 2022 06:24:53 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:23:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.29 (토)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/09/02234925/%E1%84%83%E1%85%A1%E1%84%85%E1%85%B5%E1%86%AB-Orb-%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.png" length="0" type="image/png"/>
         </item>
@@ -848,7 +832,7 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST] (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST] (노들섬 ─ 프로그램 ─ 현재)]]></title>
             <link>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</link>
             <guid>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</guid>
             <pubDate>Sun, 24 Jul 2022 17:44:29 GMT</pubDate>
@@ -888,6 +872,14 @@
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST] (노들섬 ─ 프로그램 ─ 현재)]]></title>
+            <link>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</link>
+            <guid>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</guid>
+            <pubDate>Sun, 24 Jul 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.03 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/24002808/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0--227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[문화가 흐르는 예술마당 (노들섬 ─ 프로그램 ─ 현재)]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
             <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</guid>
@@ -902,6 +894,14 @@
             <pubDate>Wed, 13 Jul 2022 05:43:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29 (금)]]></content:encoded>
             <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/13003552/Batiman-main-1-nodeul-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST] (노들섬 ─ 프로그램 ─ 현재 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</link>
+            <guid>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</guid>
+            <pubDate>Sun, 24 Jul 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.03 (토)]]></content:encoded>
+            <enclosure url="https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/uploads/2022/07/24002808/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0--227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당 (노들섬 ─ 프로그램 ─ 현재 ─ 공연)]]></title>
@@ -923,35 +923,35 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 02 Sep 2022 06:25:54 GMT</pubDate>
+            <pubDate>Sat, 03 Sep 2022 05:54:23 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA fcsPSN"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">노들섬 공식 홈페이지</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 02 Sep 2022 06:25:54 GMT</pubDate>
+            <pubDate>Sat, 03 Sep 2022 05:54:23 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA fcsPSN"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">노들섬 페이스북</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 02 Sep 2022 06:25:54 GMT</pubDate>
+            <pubDate>Sat, 03 Sep 2022 05:54:23 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA fcsPSN"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">노들섬 유튜브 채널</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 02 Sep 2022 06:25:58 GMT</pubDate>
+            <pubDate>Sat, 03 Sep 2022 05:54:28 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA eYvKfc"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 02 Sep 2022 06:25:58 GMT</pubDate>
+            <pubDate>Sat, 03 Sep 2022 05:54:28 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA eYvKfc"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 CczVW bvgKjI">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content:encoded>
         </item>
     </channel>
