@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 17:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:30:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 02 Sep 2022 06:23:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.29 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/02234925/%E1%84%83%E1%85%A1%E1%84%85%E1%85%B5%E1%86%AB-Orb-%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울비보이페스티벌]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%b9%84%eb%b3%b4%ec%9d%b4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%eb%b9%84%eb%b3%b4%ec%9d%b4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Thu, 08 Sep 2022 06:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.24 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/08210506/%ED%8F%AC%EC%8A%A4%ED%84%B0_2022%EC%84%9C%EC%9A%B8%EB%B9%84%EB%B3%B4%EC%9D%B4%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C%EC%9B%B9%EC%9A%A9-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SAMM HENSHAW LIVE IN SEOUL]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 25 Jul 2022 05:56:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/18060003/2022-%EB%B2%84%EC%8A%A4%EC%BB%A4%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0600X900pixel-%EC%B5%9C%EC%A2%85-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10cm SUMMER CONCERT ‘KWONJEONGYEOL’]]></title>
-            <link>https://nodeul.org/program/10cm-summer-concert-kwonjeongyeol/</link>
-            <guid>https://nodeul.org/program/10cm-summer-concert-kwonjeongyeol/</guid>
-            <pubDate>Tue, 19 Jul 2022 17:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16 (화)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/06053913/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
