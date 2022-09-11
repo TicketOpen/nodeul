@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 06:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 17:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</guid>
             <pubDate>Thu, 28 Jul 2022 17:50:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/13003552/Batiman-main-1-nodeul-227x282.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/13003552/Batiman-main-1-nodeul.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
