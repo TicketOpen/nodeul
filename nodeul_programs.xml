@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 17:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 02 Sep 2022 06:23:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.29 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/02234925/%E1%84%83%E1%85%A1%E1%84%85%E1%85%B5%E1%86%AB-Orb-%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-724x1024.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 공공외교 랩소디 – World in Harmoy]]></title>
+            <link>https://nodeul.org/program/2022-%ea%b3%b5%ea%b3%b5%ec%99%b8%ea%b5%90-%eb%9e%a9%ec%86%8c%eb%94%94-world-in-harmoy/</link>
+            <guid>https://nodeul.org/program/2022-%ea%b3%b5%ea%b3%b5%ec%99%b8%ea%b5%90-%eb%9e%a9%ec%86%8c%eb%94%94-world-in-harmoy/</guid>
+            <pubDate>Tue, 13 Sep 2022 06:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.05 (수)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/09041409/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0_600x900px.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 서울비보이페스티벌]]></title>
@@ -54,6 +62,14 @@
             <pubDate>Fri, 26 Aug 2022 06:28:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.17 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/08/26042429/KakaoTalk_20220825_183447655-724x1024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 실버문화페스티벌]]></title>
+            <link>https://nodeul.org/program/2022-%ec%8b%a4%eb%b2%84%eb%ac%b8%ed%99%94%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/2022-%ec%8b%a4%eb%b2%84%eb%ac%b8%ed%99%94%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Tue, 13 Sep 2022 06:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/13211742/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%ED%8F%AC%EC%8A%A4%ED%84%B0-728x1024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 – 기초]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 23 Jul 2022 17:43:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/22012411/%EB%85%B8%EB%93%A4-K-%EC%BB%AC%EC%B3%90-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8_%EB%8C%84%EC%8A%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0-724x1024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 아이비 콘서트 : NEXT PAGE]]></title>
-            <link>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</link>
-            <guid>https://nodeul.org/program/2022-%ec%95%84%ec%9d%b4%eb%b9%84-%ec%bd%98%ec%84%9c%ed%8a%b8-next-page/</guid>
-            <pubDate>Sat, 23 Jul 2022 17:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/06/03192052/%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노들컬처아카데미] 키즈 작곡 아카데미]]></title>
-            <link>https://nodeul.org/program/%ed%82%a4%ec%a6%88-%ec%9e%91%ea%b3%a1-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8/</link>
-            <guid>https://nodeul.org/program/%ed%82%a4%ec%a6%88-%ec%9e%91%ea%b3%a1-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8/</guid>
-            <pubDate>Sat, 23 Jul 2022 17:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.07 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/19013459/%EB%8C%80%EC%A7%80-1-741x1024.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
