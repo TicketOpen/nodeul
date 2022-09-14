@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 17:58:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Tue, 19 Jul 2022 17:52:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/29194355/%EC%B5%9C%ED%95%AD%EC%84%9D%EA%B3%BC%EB%B6%80%EA%B8%B0%EB%AA%AC%EC%8A%A4%ED%84%B0-%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 실버문화페스티벌]]></title>
-            <link>https://nodeul.org/program/2022-%ec%8b%a4%eb%b2%84%eb%ac%b8%ed%99%94%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/2022-%ec%8b%a4%eb%b2%84%eb%ac%b8%ed%99%94%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Tue, 13 Sep 2022 06:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/13211742/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
