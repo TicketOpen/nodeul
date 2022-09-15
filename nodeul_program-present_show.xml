@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 17:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 서울은 미술관 대학협력 공공미술 프로젝트]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9d%80-%eb%af%b8%ec%88%a0%ea%b4%80-%eb%8c%80%ed%95%99%ed%98%91%eb%a0%a5-%ea%b3%b5%ea%b3%b5%eb%af%b8%ec%88%a0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9d%80-%eb%af%b8%ec%88%a0%ea%b4%80-%eb%8c%80%ed%95%99%ed%98%91%eb%a0%a5-%ea%b3%b5%ea%b3%b5%eb%af%b8%ec%88%a0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/</guid>
+            <pubDate>Thu, 15 Sep 2022 06:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/16000903/600x900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 실버문화페스티벌]]></title>
             <link>https://nodeul.org/program/2022-%ec%8b%a4%eb%b2%84%eb%ac%b8%ed%99%94%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>

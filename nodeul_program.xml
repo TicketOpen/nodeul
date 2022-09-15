@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 17:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/08/26042429/KakaoTalk_20220825_183447655-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 서울은 미술관 대학협력 공공미술 프로젝트]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9d%80-%eb%af%b8%ec%88%a0%ea%b4%80-%eb%8c%80%ed%95%99%ed%98%91%eb%a0%a5-%ea%b3%b5%ea%b3%b5%eb%af%b8%ec%88%a0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9d%80-%eb%af%b8%ec%88%a0%ea%b4%80-%eb%8c%80%ed%95%99%ed%98%91%eb%a0%a5-%ea%b3%b5%ea%b3%b5%eb%af%b8%ec%88%a0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/</guid>
+            <pubDate>Thu, 15 Sep 2022 06:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/16000903/600x900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 실버문화페스티벌]]></title>
             <link>https://nodeul.org/program/2022-%ec%8b%a4%eb%b2%84%eb%ac%b8%ed%99%94%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
             <guid>https://nodeul.org/program/2022-%ec%8b%a4%eb%b2%84%eb%ac%b8%ed%99%94%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 02 Aug 2022 17:48:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/08/03011538/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE [DEAR MY PLAYLIST]]]></title>
-            <link>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</link>
-            <guid>https://nodeul.org/program/tune-up-stage-dear-my-playlist/</guid>
-            <pubDate>Sun, 24 Jul 2022 17:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/24002808/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0--227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

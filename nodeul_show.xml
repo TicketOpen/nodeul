@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 17:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 19 Jul 2022 17:51:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.18 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/29194355/%EC%B5%9C%ED%95%AD%EC%84%9D%EA%B3%BC%EB%B6%80%EA%B8%B0%EB%AA%AC%EC%8A%A4%ED%84%B0-%EB%85%B8%EB%93%A4%EC%84%AC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울은 미술관 대학협력 공공미술 프로젝트]]></title>
+            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9d%80-%eb%af%b8%ec%88%a0%ea%b4%80-%eb%8c%80%ed%95%99%ed%98%91%eb%a0%a5-%ea%b3%b5%ea%b3%b5%eb%af%b8%ec%88%a0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9d%80-%eb%af%b8%ec%88%a0%ea%b4%80-%eb%8c%80%ed%95%99%ed%98%91%eb%a0%a5-%ea%b3%b5%ea%b3%b5%eb%af%b8%ec%88%a0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/</guid>
+            <pubDate>Thu, 15 Sep 2022 06:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/16000903/600x900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 실버문화페스티벌]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 23 Jun 2022 17:45:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/06/03192052/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일러브위크엔드 [Smile, Love, Weekend]]]></title>
-            <link>https://nodeul.org/program/%ec%8a%a4%eb%a7%88%ec%9d%bc%eb%9f%ac%eb%b8%8c%ec%9c%84%ed%81%ac%ec%97%94%eb%93%9c-smile-love-weekend/</link>
-            <guid>https://nodeul.org/program/%ec%8a%a4%eb%a7%88%ec%9d%bc%eb%9f%ac%eb%b8%8c%ec%9c%84%ed%81%ac%ec%97%94%eb%93%9c-smile-love-weekend/</guid>
-            <pubDate>Mon, 13 Jun 2022 05:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/06/09043602/nodle-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
