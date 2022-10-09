@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Oct 2022 06:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 17:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2022 서울은 미술관- 공공미술축제 (노들섬 ─ 프로그램 ─ 현재 ─ 전시)]]></title>
-            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9d%80-%eb%af%b8%ec%88%a0%ea%b4%80-%ea%b3%b5%ea%b3%b5%eb%af%b8%ec%88%a0%ec%b6%95%ec%a0%9c/</link>
-            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ec%9d%80-%eb%af%b8%ec%88%a0%ea%b4%80-%ea%b3%b5%ea%b3%b5%eb%af%b8%ec%88%a0%ec%b6%95%ec%a0%9c/</guid>
-            <pubDate>Tue, 04 Oct 2022 06:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.07 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/04192214/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바티망(Bâtiment) (노들섬 ─ 프로그램 ─ 현재 ─ 전시)]]></title>
             <link>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</link>
             <guid>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</guid>
@@ -91,35 +83,35 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 09 Oct 2022 06:01:38 GMT</pubDate>
+            <pubDate>Sun, 09 Oct 2022 17:54:07 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31264730" class="sc-bdfBwQ Container__StyledHashLink-sc-18baxm8-0 jAmcnV iivxkh"></div><div class="styles__Wrapper-sc-w6svtv-0 kNkkWp"><div style="opacity:0;transform:scale(0)" class="styles__ShareButtonArea-sc-w6svtv-3 gHfAud"><button tabindex="-1" class="styles__ShareButton-sc-w6svtv-2 dpesOf"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="styles__SwipeElement-sc-w6svtv-1 jHVhbx" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA etjdMy"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 cxwgnw bvgKjI">노들섬 공식 홈페이지</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 09 Oct 2022 06:01:38 GMT</pubDate>
+            <pubDate>Sun, 09 Oct 2022 17:54:07 GMT</pubDate>
             <content:encoded><![CDATA[<div id="56391212" class="sc-bdfBwQ Container__StyledHashLink-sc-18baxm8-0 jAmcnV iivxkh"></div><div class="styles__Wrapper-sc-w6svtv-0 kNkkWp"><div style="opacity:0;transform:scale(0)" class="styles__ShareButtonArea-sc-w6svtv-3 gHfAud"><button tabindex="-1" class="styles__ShareButton-sc-w6svtv-2 dpesOf"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="styles__SwipeElement-sc-w6svtv-1 jHVhbx" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA etjdMy"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 cxwgnw bvgKjI">노들섬 페이스북</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 09 Oct 2022 06:01:38 GMT</pubDate>
+            <pubDate>Sun, 09 Oct 2022 17:54:07 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31420654" class="sc-bdfBwQ Container__StyledHashLink-sc-18baxm8-0 jAmcnV iivxkh"></div><div class="styles__Wrapper-sc-w6svtv-0 kNkkWp"><div style="opacity:0;transform:scale(0)" class="styles__ShareButtonArea-sc-w6svtv-3 gHfAud"><button tabindex="-1" class="styles__ShareButton-sc-w6svtv-2 dpesOf"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="styles__SwipeElement-sc-w6svtv-1 jHVhbx" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA etjdMy"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 cxwgnw bvgKjI">노들섬 유튜브 채널</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 09 Oct 2022 06:01:41 GMT</pubDate>
+            <pubDate>Sun, 09 Oct 2022 17:54:11 GMT</pubDate>
             <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ Container__StyledHashLink-sc-18baxm8-0 jAmcnV iivxkh"></div><div class="styles__Wrapper-sc-w6svtv-0 kNkkWp"><div style="opacity:0;transform:scale(0)" class="styles__ShareButtonArea-sc-w6svtv-3 gHfAud"><button tabindex="-1" class="styles__ShareButton-sc-w6svtv-2 dpesOf"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="styles__SwipeElement-sc-w6svtv-1 jHVhbx" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA RFhzD"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 cxwgnw bvgKjI">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 09 Oct 2022 06:01:41 GMT</pubDate>
+            <pubDate>Sun, 09 Oct 2022 17:54:11 GMT</pubDate>
             <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ Container__StyledHashLink-sc-18baxm8-0 jAmcnV iivxkh"></div><div class="styles__Wrapper-sc-w6svtv-0 kNkkWp"><div style="opacity:0;transform:scale(0)" class="styles__ShareButtonArea-sc-w6svtv-3 gHfAud"><button tabindex="-1" class="styles__ShareButton-sc-w6svtv-2 dpesOf"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="styles__SwipeElement-sc-w6svtv-1 jHVhbx" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA RFhzD"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 cxwgnw bvgKjI">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div></div></div>]]></content:encoded>
         </item>
     </channel>
