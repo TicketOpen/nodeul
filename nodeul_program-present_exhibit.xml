@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 06:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 17:59:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발자국 제 15회 전시 <다시 시작, 섬>]]></title>
+            <link>https://nodeul.org/program/%eb%b0%9c%ec%9e%90%ea%b5%ad-%ec%a0%9c-15%ed%9a%8c-%ec%a0%84%ec%8b%9c/</link>
+            <guid>https://nodeul.org/program/%eb%b0%9c%ec%9e%90%ea%b5%ad-%ec%a0%9c-15%ed%9a%8c-%ec%a0%84%ec%8b%9c/</guid>
+            <pubDate>Fri, 14 Oct 2022 17:58:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.15 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/04220349/789-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바티망(Bâtiment)]]></title>
             <link>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</link>
