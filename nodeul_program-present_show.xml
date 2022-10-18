@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 06:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 18:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 MU:CON]]></title>
+            <link>https://nodeul.org/program/2022-mucon/</link>
+            <guid>https://nodeul.org/program/2022-mucon/</guid>
+            <pubDate>Tue, 18 Oct 2022 18:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.19 (수)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/06203640/01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
