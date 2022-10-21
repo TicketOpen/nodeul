@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 워크숍</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Oct 2022 06:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 18:00:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 MU:CON]]></title>
-            <link>https://nodeul.org/program/2022-mucon/</link>
-            <guid>https://nodeul.org/program/2022-mucon/</guid>
-            <pubDate>Tue, 18 Oct 2022 18:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.19 (수)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/06203640/01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 노들섬 터프팅 클래스]]></title>
             <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
