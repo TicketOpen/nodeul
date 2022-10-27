@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 05:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 17:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 18 Oct 2022 06:50:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.03 (목)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/18232321/%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A1%B0%EC%A0%88-227x282.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SPACE NARRATIVE]]></title>
-            <link>https://nodeul.org/program/space-narrative/</link>
-            <guid>https://nodeul.org/program/space-narrative/</guid>
-            <pubDate>Fri, 21 Oct 2022 06:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.28 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/21224215/%ED%8F%AC%EC%8A%A4%ED%84%B0-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
