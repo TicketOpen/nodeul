@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 05:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 17:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[NEXTAR COMPETITION VOL.4]]></title>
-            <link>https://nodeul.org/program/nextar-competition-vol-4/</link>
-            <guid>https://nodeul.org/program/nextar-competition-vol-4/</guid>
-            <pubDate>Thu, 27 Oct 2022 05:53:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.27 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/28050956/%EB%84%A5%EC%8A%A4%ED%83%80-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’]]></title>
             <link>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</link>
@@ -38,14 +30,6 @@
             <pubDate>Thu, 13 Oct 2022 06:34:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.11 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/13230138/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 지소울 콘서트 IN SEOUL]]></title>
-            <link>https://nodeul.org/program/2022-%ec%a7%80%ec%86%8c%ec%9a%b8-%ec%bd%98%ec%84%9c%ed%8a%b8-in-seoul/</link>
-            <guid>https://nodeul.org/program/2022-%ec%a7%80%ec%86%8c%ec%9a%b8-%ec%bd%98%ec%84%9c%ed%8a%b8-in-seoul/</guid>
-            <pubDate>Thu, 22 Sep 2022 17:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.05 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/23033942/%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%A7%80%EC%86%8C%EC%9A%B8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
