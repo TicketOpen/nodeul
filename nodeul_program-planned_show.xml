@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Nov 2022 17:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 05:49:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 24 Oct 2022 18:04:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.09 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/25020255/%EC%8B%A0%EC%A7%80%ED%9B%88-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%88-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lacuna (라쿠나) 단독 콘서트 ‘dream:undefined’]]></title>
+            <link>https://nodeul.org/program/lacuna%eb%9d%bc%ec%bf%a0%eb%82%98%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-dreamundefined/</link>
+            <guid>https://nodeul.org/program/lacuna%eb%9d%bc%ec%bf%a0%eb%82%98%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-dreamundefined/</guid>
+            <pubDate>Mon, 14 Nov 2022 05:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/14191655/LCN_Dreamundefined_Poster_%ED%86%B5%ED%95%A9-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 Wave to Earth 단독공연 [floral field 0.2]]]></title>
