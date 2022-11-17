@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 17:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[M O N S T E R]]></title>
+            <link>https://nodeul.org/program/m-o-n-s-t-e-r/</link>
+            <guid>https://nodeul.org/program/m-o-n-s-t-e-r/</guid>
+            <pubDate>Thu, 17 Nov 2022 17:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.19 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18011855/poster2-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 Wabe to Earth [Floral field 0.2]]]></title>
             <link>https://nodeul.org/program/2022-wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-floral-field-0-2/</link>
