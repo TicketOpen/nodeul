@@ -4,25 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 17:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 – 심화]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/28210110/%EC%A0%84%EC%8B%9C%EB%8F%84%EC%8A%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 노들섬 식물도 터프팅 클래스]]></title>
-            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ec%8b%9d%eb%ac%bc%eb%8f%84-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ec%8b%9d%eb%ac%bc%eb%8f%84-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/08205221/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[M O N S T E R]]></title>
             <link>https://nodeul.org/program/m-o-n-s-t-e-r/</link>
@@ -32,7 +16,7 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18011855/poster2-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 Wabe to Earth [Floral field 0.2]]]></title>
+            <title><![CDATA[2022 Wave to Earth [Floral field 0.2]]]></title>
             <link>https://nodeul.org/program/2022-wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-floral-field-0-2/</link>
             <guid>https://nodeul.org/program/2022-wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-floral-field-0-2/</guid>
             <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
@@ -94,6 +78,22 @@
             <pubDate>Fri, 18 Nov 2022 05:45:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.29 (목)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18185916/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-600-x-900_%EA%B9%80%EC%A7%84%ED%98%B8-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 – 심화]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/28210110/%EC%A0%84%EC%8B%9C%EB%8F%84%EC%8A%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 노들섬 식물도 터프팅 클래스]]></title>
+            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ec%8b%9d%eb%ac%bc%eb%8f%84-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
+            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ec%8b%9d%eb%ac%bc%eb%8f%84-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/08205221/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FFALO in SEOUL (팔로인서울)]]></title>
