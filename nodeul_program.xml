@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 17:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11190741/%EB%85%B8%EB%93%A4%EC%84%AC-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 김진호 콘서트 <듣는 사진전>]]></title>
+            <link>https://nodeul.org/program/2022-%ea%b9%80%ec%a7%84%ed%98%b8-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/2022-%ea%b9%80%ec%a7%84%ed%98%b8-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
+            <pubDate>Fri, 18 Nov 2022 05:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.29 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18185916/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-600-x-900_%EA%B9%80%EC%A7%84%ED%98%B8-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[FFALO in SEOUL (팔로인서울)]]></title>
             <link>https://nodeul.org/program/ffalo-in-seoul-%ed%8c%94%eb%a1%9c%ec%9d%b8%ec%84%9c%ec%9a%b8/</link>
             <guid>https://nodeul.org/program/ffalo-in-seoul-%ed%8c%94%eb%a1%9c%ec%9d%b8%ec%84%9c%ec%9a%b8/</guid>
             <pubDate>Wed, 16 Nov 2022 17:46:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.08 (화)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/05034644/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-FFALOinSEOUL-600900-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEXTAR COMPETITION VOL.4]]></title>
-            <link>https://nodeul.org/program/nextar-competition-vol-4/</link>
-            <guid>https://nodeul.org/program/nextar-competition-vol-4/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.27 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/05033908/%EB%84%A5%EC%8A%A4%ED%83%80_%EC%9D%BC%EC%A0%95%EB%B3%80%EA%B2%BD-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
