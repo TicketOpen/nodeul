@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 05:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 17:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[노들컬처아카데미] 콘서트 스태프 아카데미-공연장 운영]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%8a%a4%ed%83%9c%ed%94%84-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ea%b3%b5%ec%97%b0%ec%9e%a5/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%8a%a4%ed%83%9c%ed%94%84-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ea%b3%b5%ec%97%b0%ec%9e%a5/</guid>
+            <pubDate>Mon, 21 Nov 2022 17:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22 (화)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/11030850/%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%B5%9C%EC%A2%85-227x282.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 – 심화]]></title>
             <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</link>
@@ -40,20 +48,20 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/05033908/%EB%84%A5%EC%8A%A4%ED%83%80_%EC%9D%BC%EC%A0%95%EB%B3%80%EA%B2%BD-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[바티망(Bâtiment)]]></title>
-            <link>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</link>
-            <guid>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:48:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/13003552/Batiman-main-1-nodeul.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 노들섬 터프팅 클래스]]></title>
             <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
             <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
             <pubDate>Wed, 16 Nov 2022 17:48:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/07025341/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바티망(Bâtiment)]]></title>
+            <link>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</link>
+            <guid>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/13003552/Batiman-main-1-nodeul.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
