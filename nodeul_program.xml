@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 17:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[노들컬처아카데미] 콘서트 스태프 아카데미-공연장 운영]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%8a%a4%ed%83%9c%ed%94%84-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ea%b3%b5%ec%97%b0%ec%9e%a5/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%8a%a4%ed%83%9c%ed%94%84-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ea%b3%b5%ec%97%b0%ec%9e%a5/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22 (화)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/11030850/%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%B5%9C%EC%A2%85-227x282.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[나는 죽은 자와 함께 걷는다]]></title>
             <link>https://nodeul.org/program/%eb%82%98%eb%8a%94-%ec%a3%bd%ec%9d%80-%ec%9e%90%ec%99%80-%ed%95%a8%ea%bb%98-%ea%b1%b7%eb%8a%94%eb%8b%a4/</link>
@@ -80,6 +72,14 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18185916/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-600-x-900_%EA%B9%80%EC%A7%84%ED%98%B8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[노들컬처아카데미] 콘서트 스태프 아카데미-공연장 운영]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%8a%a4%ed%83%9c%ed%94%84-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ea%b3%b5%ec%97%b0%ec%9e%a5/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%8a%a4%ed%83%9c%ed%94%84-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ea%b3%b5%ec%97%b0%ec%9e%a5/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22 (화)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/11030850/%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%B5%9C%EC%A2%85-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 – 심화]]></title>
             <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</link>
             <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</guid>
@@ -88,20 +88,20 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/28210110/%EC%A0%84%EC%8B%9C%EB%8F%84%EC%8A%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 노들섬 식물도 터프팅 클래스]]></title>
-            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ec%8b%9d%eb%ac%bc%eb%8f%84-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ec%8b%9d%eb%ac%bc%eb%8f%84-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/08205221/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[FFALO in SEOUL (팔로인서울)]]></title>
             <link>https://nodeul.org/program/ffalo-in-seoul-%ed%8c%94%eb%a1%9c%ec%9d%b8%ec%84%9c%ec%9a%b8/</link>
             <guid>https://nodeul.org/program/ffalo-in-seoul-%ed%8c%94%eb%a1%9c%ec%9d%b8%ec%84%9c%ec%9a%b8/</guid>
             <pubDate>Wed, 16 Nov 2022 17:46:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.08 (화)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/05034644/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-FFALOinSEOUL-600900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEXTAR COMPETITION VOL.4]]></title>
+            <link>https://nodeul.org/program/nextar-competition-vol-4/</link>
+            <guid>https://nodeul.org/program/nextar-competition-vol-4/</guid>
+            <pubDate>Fri, 25 Nov 2022 17:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.27 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/05033908/%EB%84%A5%EC%8A%A4%ED%83%80_%EC%9D%BC%EC%A0%95%EB%B3%80%EA%B2%BD-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

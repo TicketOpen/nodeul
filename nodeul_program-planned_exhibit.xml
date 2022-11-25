@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 17:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나는 죽은 자와 함께 걷는다]]></title>
-            <link>https://nodeul.org/program/%eb%82%98%eb%8a%94-%ec%a3%bd%ec%9d%80-%ec%9e%90%ec%99%80-%ed%95%a8%ea%bb%98-%ea%b1%b7%eb%8a%94%eb%8b%a4/</link>
-            <guid>https://nodeul.org/program/%eb%82%98%eb%8a%94-%ec%a3%bd%ec%9d%80-%ec%9e%90%ec%99%80-%ed%95%a8%ea%bb%98-%ea%b1%b7%eb%8a%94%eb%8b%a4/</guid>
-            <pubDate>Tue, 22 Nov 2022 05:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.26 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/23051820/zombie_homepage_600x900_150dpi-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시]]></title>
             <link>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</link>
