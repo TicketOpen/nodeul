@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 05:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 17:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[지금은] 녹아내리는 중]]></title>
+            <link>https://nodeul.org/program/%ec%a7%80%ea%b8%88%ec%9d%80-%eb%85%b9%ec%95%84%eb%82%b4%eb%a6%ac%eb%8a%94-%ec%a4%91/</link>
+            <guid>https://nodeul.org/program/%ec%a7%80%ea%b8%88%ec%9d%80-%eb%85%b9%ec%95%84%eb%82%b4%eb%a6%ac%eb%8a%94-%ec%a4%91/</guid>
+            <pubDate>Tue, 29 Nov 2022 17:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 (토) 	   - 2022.12.08 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/30002712/%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900.JPG-683x1024.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lacuna (라쿠나) 단독 콘서트 ‘dream:undefined’]]></title>
             <link>https://nodeul.org/program/lacuna%eb%9d%bc%ec%bf%a0%eb%82%98%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-dreamundefined/</link>
@@ -21,7 +29,7 @@
             <guid>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</guid>
             <pubDate>Mon, 21 Nov 2022 05:41:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.06 (화) 	   - 2022.12.11 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/21193121/%ED%8F%AC%EC%8A%A4%ED%84%B0-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/29234737/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B3%80%ED%99%98.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 서울그린아트페스티벌_그린재즈무브먼트]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 25 Nov 2022 17:43:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.19 (토) 	   - 2022.11.20 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18011855/poster2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Wave to Earth [Floral field 0.2]]]></title>
-            <link>https://nodeul.org/program/2022-wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-floral-field-0-2/</link>
-            <guid>https://nodeul.org/program/2022-wave-to-earth-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-floral-field-0-2/</guid>
-            <pubDate>Mon, 28 Nov 2022 05:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19 (토) 	   - 2022.11.20 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/16224920/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
