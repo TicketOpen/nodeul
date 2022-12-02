@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 17:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,12 +56,28 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11205154/2%EC%98%A8%EB%9D%BC%EC%9D%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 노들 싱글벙글 콘서트]]></title>
+            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%ec%8b%b1%ea%b8%80%eb%b2%99%ea%b8%80-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%ec%8b%b1%ea%b8%80%eb%b2%99%ea%b8%80-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
+            <pubDate>Fri, 02 Dec 2022 05:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14 (수)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/02221103/%EB%85%B8%EB%93%A4-%EC%8B%B1%EA%B8%80%EB%B2%99%EA%B8%80-%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0-743x1024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유라 연말 단독 공연 [이 옷에 구멍은 시간을 아우르는 공]]]></title>
             <link>https://nodeul.org/program/%ec%9c%a0%eb%9d%bc-%ec%97%b0%eb%a7%90-%eb%8b%a8%eb%8f%85-%ea%b3%b5%ec%97%b0-%ec%9d%b4-%ec%98%b7%ec%97%90-%ea%b5%ac%eb%a9%8d%ec%9d%80-%ec%8b%9c%ea%b0%84%ec%9d%84-%ec%95%84%ec%9a%b0%eb%a5%b4%eb%8a%94/</link>
             <guid>https://nodeul.org/program/%ec%9c%a0%eb%9d%bc-%ec%97%b0%eb%a7%90-%eb%8b%a8%eb%8f%85-%ea%b3%b5%ec%97%b0-%ec%9d%b4-%ec%98%b7%ec%97%90-%ea%b5%ac%eb%a9%8d%ec%9d%80-%ec%8b%9c%ea%b0%84%ec%9d%84-%ec%95%84%ec%9a%b0%eb%a5%b4%eb%8a%94/</guid>
             <pubDate>Wed, 16 Nov 2022 17:46:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.17 (토) 	   - 2022.12.18 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11190741/%EB%85%B8%EB%93%A4%EC%84%AC-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안예은 단독콘서트 [제6회 오타쿠리스마스]]]></title>
+            <link>https://nodeul.org/program/%ec%95%88%ec%98%88%ec%9d%80-%eb%8b%a8%eb%8f%85%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%a0%9c6%ed%9a%8c-%ec%98%a4%ed%83%80%ec%bf%a0%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4/</link>
+            <guid>https://nodeul.org/program/%ec%95%88%ec%98%88%ec%9d%80-%eb%8b%a8%eb%8f%85%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%a0%9c6%ed%9a%8c-%ec%98%a4%ed%83%80%ec%bf%a0%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4/</guid>
+            <pubDate>Fri, 02 Dec 2022 05:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.25 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/02010638/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0_600_900-683x1024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 김진호 콘서트 <듣는 사진전>]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 21 Nov 2022 17:43:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.28 (토) 	   - 2022.12.31 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 죽은 자와 함께 걷는다]]></title>
-            <link>https://nodeul.org/program/%eb%82%98%eb%8a%94-%ec%a3%bd%ec%9d%80-%ec%9e%90%ec%99%80-%ed%95%a8%ea%bb%98-%ea%b1%b7%eb%8a%94%eb%8b%a4/</link>
-            <guid>https://nodeul.org/program/%eb%82%98%eb%8a%94-%ec%a3%bd%ec%9d%80-%ec%9e%90%ec%99%80-%ed%95%a8%ea%bb%98-%ea%b1%b7%eb%8a%94%eb%8b%a4/</guid>
-            <pubDate>Tue, 22 Nov 2022 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.26 (토) 	   - 2022.11.27 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/23051820/zombie_homepage_600x900_150dpi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M O N S T E R]]></title>
-            <link>https://nodeul.org/program/m-o-n-s-t-e-r/</link>
-            <guid>https://nodeul.org/program/m-o-n-s-t-e-r/</guid>
-            <pubDate>Fri, 25 Nov 2022 17:43:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19 (토) 	   - 2022.11.20 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18011855/poster2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
