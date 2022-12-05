@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 17:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 05:44:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 29 Nov 2022 17:40:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.03 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/30002712/%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900.JPG-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lacuna (라쿠나) 단독 콘서트 ‘dream:undefined’]]></title>
-            <link>https://nodeul.org/program/lacuna%eb%9d%bc%ec%bf%a0%eb%82%98%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-dreamundefined/</link>
-            <guid>https://nodeul.org/program/lacuna%eb%9d%bc%ec%bf%a0%eb%82%98%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-dreamundefined/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.03 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/14191655/LCN_Dreamundefined_Poster_%ED%86%B5%ED%95%A9-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시]]></title>
@@ -64,20 +56,20 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/02221103/%EB%85%B8%EB%93%A4-%EC%8B%B1%EA%B8%80%EB%B2%99%EA%B8%80-%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NEXTAR COMPETITION VOL.4]]></title>
-            <link>https://nodeul.org/program/nextar-competition-vol-4/</link>
-            <guid>https://nodeul.org/program/nextar-competition-vol-4/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.27 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/05033908/%EB%84%A5%EC%8A%A4%ED%83%80_%EC%9D%BC%EC%A0%95%EB%B3%80%EA%B2%BD-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
             <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</guid>
             <pubDate>Mon, 21 Nov 2022 17:43:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lacuna (라쿠나) 단독 콘서트 ‘dream:undefined’]]></title>
+            <link>https://nodeul.org/program/lacuna%eb%9d%bc%ec%bf%a0%eb%82%98%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-dreamundefined/</link>
+            <guid>https://nodeul.org/program/lacuna%eb%9d%bc%ec%bf%a0%eb%82%98%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-dreamundefined/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/14191655/LCN_Dreamundefined_Poster_%ED%86%B5%ED%95%A9-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 죽은 자와 함께 걷는다]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 16 Nov 2022 17:46:55 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.19 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/16224920/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구원찬 단독공연〈Object〉]]></title>
+            <link>https://nodeul.org/program/%ea%b5%ac%ec%9b%90%ec%b0%ac-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0%e3%80%88object%e3%80%89/</link>
+            <guid>https://nodeul.org/program/%ea%b5%ac%ec%9b%90%ec%b0%ac-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0%e3%80%88object%e3%80%89/</guid>
+            <pubDate>Mon, 05 Dec 2022 05:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.11 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/13230138/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
