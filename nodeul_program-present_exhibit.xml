@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 05:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 17:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[지금은] 녹아내리는 중]]></title>
-            <link>https://nodeul.org/program/%ec%a7%80%ea%b8%88%ec%9d%80-%eb%85%b9%ec%95%84%eb%82%b4%eb%a6%ac%eb%8a%94-%ec%a4%91/</link>
-            <guid>https://nodeul.org/program/%ec%a7%80%ea%b8%88%ec%9d%80-%eb%85%b9%ec%95%84%eb%82%b4%eb%a6%ac%eb%8a%94-%ec%a4%91/</guid>
-            <pubDate>Fri, 02 Dec 2022 17:44:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.03 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/30002712/%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900.JPG-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시]]></title>
             <link>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</link>
@@ -22,14 +14,6 @@
             <pubDate>Mon, 05 Dec 2022 17:41:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.06 (화)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/29234737/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B3%80%ED%99%98-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 서울그린아트페스티벌_그린재즈무브먼트]]></title>
-            <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ea%b7%b8%eb%a6%b0%ec%95%84%ed%8a%b8%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c_%ea%b7%b8%eb%a6%b0%ec%9e%ac%ec%a6%88%eb%ac%b4%eb%b8%8c%eb%a8%bc%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ea%b7%b8%eb%a6%b0%ec%95%84%ed%8a%b8%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c_%ea%b7%b8%eb%a6%b0%ec%9e%ac%ec%a6%88%eb%ac%b4%eb%b8%8c%eb%a8%bc%ed%8a%b8/</guid>
-            <pubDate>Tue, 06 Dec 2022 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 (수)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/09194604/2022%EC%84%9C%EC%9A%B8%EA%B7%B8%EB%A6%B0%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바티망(Bâtiment)]]></title>
