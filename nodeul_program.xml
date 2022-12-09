@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 17:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 02 Dec 2022 05:39:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.14 (수)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/02221103/%EB%85%B8%EB%93%A4-%EC%8B%B1%EA%B8%80%EB%B2%99%EA%B8%80-%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴패션 토크 라이브 ‘우리가 몰랐던 어린이라는 세계’]]></title>
+            <link>https://nodeul.org/program/%ec%bb%b4%ed%8c%a8%ec%85%98-%ed%86%a0%ed%81%ac-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%aa%b0%eb%9e%90%eb%8d%98-%ec%96%b4%eb%a6%b0%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%84%b8/</link>
+            <guid>https://nodeul.org/program/%ec%bb%b4%ed%8c%a8%ec%85%98-%ed%86%a0%ed%81%ac-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%aa%b0%eb%9e%90%eb%8d%98-%ec%96%b4%eb%a6%b0%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%84%b8/</guid>
+            <pubDate>Fri, 09 Dec 2022 17:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/10052451/%ED%8F%AC%EC%8A%A4%ED%84%B0_600x900px_150dpi-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유라 연말 단독 공연 [이 옷에 구멍은 시간을 아우르는 공]]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.17 (목)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/28210110/%EC%A0%84%EC%8B%9C%EB%8F%84%EC%8A%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 노들섬 터프팅 클래스]]></title>
-            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
-            <pubDate>Fri, 09 Dec 2022 05:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/07025341/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
