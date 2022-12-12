@@ -4,33 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 17:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 05:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시 (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</link>
-            <guid>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</guid>
-            <pubDate>Mon, 21 Nov 2022 05:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06 (화) 	   - 2022.12.11 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/29234737/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B3%80%ED%99%98.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’ (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</link>
-            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</guid>
-            <pubDate>Mon, 24 Oct 2022 18:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09 (금) 	   - 2022.12.10 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/25020255/%EC%8B%A0%EC%A7%80%ED%9B%88-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENCORE YOU ME 20TH ANNIVERSARY CONCERT（유미 20주년 전국투어） (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</link>
-            <guid>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</guid>
-            <pubDate>Fri, 11 Nov 2022 05:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11205154/2%EC%98%A8%EB%9D%BC%EC%9D%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 노들 싱글벙글 콘서트 (노들섬 ─ 프로그램)]]></title>
             <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%ec%8b%b1%ea%b8%80%eb%b2%99%ea%b8%80-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
@@ -128,6 +104,22 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[ENCORE YOU ME 20TH ANNIVERSARY CONCERT（유미 20주년 전국투어） (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</link>
+            <guid>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</guid>
+            <pubDate>Fri, 11 Nov 2022 05:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11205154/2%EC%98%A8%EB%9D%BC%EC%9D%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’ (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</link>
+            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</guid>
+            <pubDate>Mon, 24 Oct 2022 18:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09 (금) 	   - 2022.12.10 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/25020255/%EC%8B%A0%EC%A7%80%ED%9B%88-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 서울그린아트페스티벌_그린재즈무브먼트 (노들섬 ─ 프로그램)]]></title>
             <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ea%b7%b8%eb%a6%b0%ec%95%84%ed%8a%b8%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c_%ea%b7%b8%eb%a6%b0%ec%9e%ac%ec%a6%88%eb%ac%b4%eb%b8%8c%eb%a8%bc%ed%8a%b8/</link>
             <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ea%b7%b8%eb%a6%b0%ec%95%84%ed%8a%b8%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c_%ea%b7%b8%eb%a6%b0%ec%9e%ac%ec%a6%88%eb%ac%b4%eb%b8%8c%eb%a8%bc%ed%8a%b8/</guid>
@@ -136,28 +128,12 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/09194604/2022%EC%84%9C%EC%9A%B8%EA%B7%B8%EB%A6%B0%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시 (노들섬 ─ 프로그램)]]></title>
             <link>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</link>
             <guid>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</guid>
             <pubDate>Mon, 21 Nov 2022 05:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06 (화)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/29234737/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B3%80%ED%99%98-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’ (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</link>
-            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</guid>
-            <pubDate>Mon, 24 Oct 2022 18:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/25020255/%EC%8B%A0%EC%A7%80%ED%9B%88-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%88-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENCORE YOU ME 20TH ANNIVERSARY CONCERT（유미 20주년 전국투어） (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</link>
-            <guid>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</guid>
-            <pubDate>Fri, 11 Nov 2022 05:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11205154/2%EC%98%A8%EB%9D%BC%EC%9D%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.12.06 (화) 	   - 2022.12.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/29234737/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B3%80%ED%99%98.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 노들 싱글벙글 콘서트 (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -232,28 +208,28 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/28210110/%EC%A0%84%EC%8B%9C%EB%8F%84%EC%8A%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</link>
-            <guid>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</guid>
-            <pubDate>Mon, 21 Nov 2022 05:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06 (화)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/29234737/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B3%80%ED%99%98-227x282.png" length="0" type="image/png"/>
+            <title><![CDATA[2022 노들섬 터프팅 클래스 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
+            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
+            <pubDate>Tue, 06 Sep 2022 17:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/07025341/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’ (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</link>
-            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</guid>
-            <pubDate>Mon, 24 Oct 2022 18:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/25020255/%EC%8B%A0%EC%A7%80%ED%9B%88-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%88-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[바티망(Bâtiment) (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</link>
+            <guid>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</guid>
+            <pubDate>Wed, 13 Jul 2022 05:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/13003552/Batiman-main-1-nodeul.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ENCORE YOU ME 20TH ANNIVERSARY CONCERT（유미 20주년 전국투어） (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</link>
-            <guid>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</guid>
-            <pubDate>Fri, 11 Nov 2022 05:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11205154/2%EC%98%A8%EB%9D%BC%EC%9D%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[문화가 흐르는 예술마당 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
+            <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</guid>
+            <pubDate>Wed, 25 May 2022 17:48:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 노들 싱글벙글 콘서트 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -288,12 +264,36 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[ENCORE YOU ME 20TH ANNIVERSARY CONCERT（유미 20주년 전국투어） (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</link>
+            <guid>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</guid>
+            <pubDate>Fri, 11 Nov 2022 05:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11205154/2%EC%98%A8%EB%9D%BC%EC%9D%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’ (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</link>
+            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</guid>
+            <pubDate>Mon, 24 Oct 2022 18:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/25020255/%EC%8B%A0%EC%A7%80%ED%9B%88-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%88-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 서울그린아트페스티벌_그린재즈무브먼트 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
             <link>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ea%b7%b8%eb%a6%b0%ec%95%84%ed%8a%b8%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c_%ea%b7%b8%eb%a6%b0%ec%9e%ac%ec%a6%88%eb%ac%b4%eb%b8%8c%eb%a8%bc%ed%8a%b8/</link>
             <guid>https://nodeul.org/program/2022-%ec%84%9c%ec%9a%b8%ea%b7%b8%eb%a6%b0%ec%95%84%ed%8a%b8%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c_%ea%b7%b8%eb%a6%b0%ec%9e%ac%ec%a6%88%eb%ac%b4%eb%b8%8c%eb%a8%bc%ed%8a%b8/</guid>
             <pubDate>Mon, 14 Nov 2022 17:59:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07 (수)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/09194604/2022%EC%84%9C%EC%9A%B8%EA%B7%B8%EB%A6%B0%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</link>
+            <guid>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</guid>
+            <pubDate>Mon, 21 Nov 2022 05:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06 (화)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/29234737/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B3%80%ED%99%98-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[지금은] 녹아내리는 중 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -424,14 +424,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/06/24043954/KakaoTalk_20220623_183600233_02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
-            <link>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</link>
-            <guid>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</guid>
-            <pubDate>Mon, 21 Nov 2022 05:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06 (화)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/29234737/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B3%80%ED%99%98-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[바티망(Bâtiment) (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
             <link>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</link>
             <guid>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</guid>
@@ -446,6 +438,14 @@
             <pubDate>Mon, 14 Nov 2022 17:59:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07 (수)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/09194604/2022%EC%84%9C%EC%9A%B8%EA%B7%B8%EB%A6%B0%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 한국예술종합학교 무대미술과 졸업전시 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</link>
+            <guid>https://nodeul.org/program/2022-%ed%95%9c%ea%b5%ad%ec%98%88%ec%88%a0%ec%a2%85%ed%95%a9%ed%95%99%ea%b5%90-%eb%ac%b4%eb%8c%80%eb%af%b8%ec%88%a0%ea%b3%bc-%ec%a1%b8%ec%97%85%ec%a0%84%ec%8b%9c/</guid>
+            <pubDate>Mon, 21 Nov 2022 05:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06 (화)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/29234737/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%B3%80%ED%99%98-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[지금은] 녹아내리는 중 (노들섬 ─ 프로그램 ─ 전체 ─ 전시)]]></title>
@@ -907,35 +907,35 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 11 Dec 2022 17:47:21 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2022 05:41:27 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31264730" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA gLGExI"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">노들섬 공식 홈페이지</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 11 Dec 2022 17:47:21 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2022 05:41:27 GMT</pubDate>
             <content:encoded><![CDATA[<div id="56391212" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA gLGExI"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">노들섬 페이스북</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 11 Dec 2022 17:47:21 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2022 05:41:28 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31420654" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA gLGExI"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">노들섬 유튜브 채널</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 11 Dec 2022 17:47:24 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2022 05:41:32 GMT</pubDate>
             <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA YXxfB"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 11 Dec 2022 17:47:24 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2022 05:41:32 GMT</pubDate>
             <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA YXxfB"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div></div></div>]]></content:encoded>
         </item>
     </channel>
