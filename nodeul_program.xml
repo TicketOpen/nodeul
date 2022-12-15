@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 05:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 17:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 12 Dec 2022 17:39:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.21 (수)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/13033229/%EB%85%B8%EB%93%A4-%EB%93%9C%EB%A6%BC-%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0outline_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 건축설계 인재육성사업 성과공유회]]></title>
+            <link>https://nodeul.org/program/2022-%ea%b1%b4%ec%b6%95%ec%84%a4%ea%b3%84-%ec%9d%b8%ec%9e%ac%ec%9c%a1%ec%84%b1%ec%82%ac%ec%97%85-%ec%84%b1%ea%b3%bc%ea%b3%b5%ec%9c%a0%ed%9a%8c/</link>
+            <guid>https://nodeul.org/program/2022-%ea%b1%b4%ec%b6%95%ec%84%a4%ea%b3%84-%ec%9d%b8%ec%9e%ac%ec%9c%a1%ec%84%b1%ec%82%ac%ec%97%85-%ec%84%b1%ea%b3%bc%ea%b3%b5%ec%9c%a0%ed%9a%8c/</guid>
+            <pubDate>Thu, 15 Dec 2022 17:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21 (수)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/16022339/1pos-227x282.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[쏜애플 콘서트 ‘불구경’]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 15 Dec 2022 05:39:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 노들 싱글벙글 콘서트]]></title>
-            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%ec%8b%b1%ea%b8%80%eb%b2%99%ea%b8%80-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%ec%8b%b1%ea%b8%80%eb%b2%99%ea%b8%80-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
-            <pubDate>Fri, 02 Dec 2022 05:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14 (수)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/02221103/%EB%85%B8%EB%93%A4-%EC%8B%B1%EA%B8%80%EB%B2%99%EA%B8%80-%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
