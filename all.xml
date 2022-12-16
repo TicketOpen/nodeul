@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 05:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 17:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -712,14 +712,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2019/12/17223748/%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유라 연말 단독 공연 [이 옷에 구멍은 시간을 아우르는 공] (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/%ec%9c%a0%eb%9d%bc-%ec%97%b0%eb%a7%90-%eb%8b%a8%eb%8f%85-%ea%b3%b5%ec%97%b0-%ec%9d%b4-%ec%98%b7%ec%97%90-%ea%b5%ac%eb%a9%8d%ec%9d%80-%ec%8b%9c%ea%b0%84%ec%9d%84-%ec%95%84%ec%9a%b0%eb%a5%b4%eb%8a%94/</link>
-            <guid>https://nodeul.org/program/%ec%9c%a0%eb%9d%bc-%ec%97%b0%eb%a7%90-%eb%8b%a8%eb%8f%85-%ea%b3%b5%ec%97%b0-%ec%9d%b4-%ec%98%b7%ec%97%90-%ea%b5%ac%eb%a9%8d%ec%9d%80-%ec%8b%9c%ea%b0%84%ec%9d%84-%ec%95%84%ec%9a%b0%eb%a5%b4%eb%8a%94/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.17 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11190741/%EB%85%B8%EB%93%A4%EC%84%AC-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 노들 드림 콘서트 (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%eb%93%9c%eb%a6%bc-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
             <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%eb%93%9c%eb%a6%bc-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
@@ -800,12 +792,12 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/09014703/%EC%98%AC%EB%8C%93%EB%A6%AC%EB%93%AC%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%85%B8%EB%93%A4%EC%84%AC1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컴패션 토크 라이브 ‘우리가 몰랐던 어린이라는 세계’ (노들섬 ─ 프로그램 ─ 현재)]]></title>
-            <link>https://nodeul.org/program/%ec%bb%b4%ed%8c%a8%ec%85%98-%ed%86%a0%ed%81%ac-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%aa%b0%eb%9e%90%eb%8d%98-%ec%96%b4%eb%a6%b0%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%84%b8/</link>
-            <guid>https://nodeul.org/program/%ec%bb%b4%ed%8c%a8%ec%85%98-%ed%86%a0%ed%81%ac-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%aa%b0%eb%9e%90%eb%8d%98-%ec%96%b4%eb%a6%b0%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%84%b8/</guid>
-            <pubDate>Fri, 09 Dec 2022 17:39:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/10052451/%ED%8F%AC%EC%8A%A4%ED%84%B0_600x900px_150dpi-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[유라 연말 단독 공연 [이 옷에 구멍은 시간을 아우르는 공] (노들섬 ─ 프로그램 ─ 현재)]]></title>
+            <link>https://nodeul.org/program/%ec%9c%a0%eb%9d%bc-%ec%97%b0%eb%a7%90-%eb%8b%a8%eb%8f%85-%ea%b3%b5%ec%97%b0-%ec%9d%b4-%ec%98%b7%ec%97%90-%ea%b5%ac%eb%a9%8d%ec%9d%80-%ec%8b%9c%ea%b0%84%ec%9d%84-%ec%95%84%ec%9a%b0%eb%a5%b4%eb%8a%94/</link>
+            <guid>https://nodeul.org/program/%ec%9c%a0%eb%9d%bc-%ec%97%b0%eb%a7%90-%eb%8b%a8%eb%8f%85-%ea%b3%b5%ec%97%b0-%ec%9d%b4-%ec%98%b7%ec%97%90-%ea%b5%ac%eb%a9%8d%ec%9d%80-%ec%8b%9c%ea%b0%84%ec%9d%84-%ec%95%84%ec%9a%b0%eb%a5%b4%eb%8a%94/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11190741/%EB%85%B8%EB%93%A4%EC%84%AC-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 – 심화 (노들섬 ─ 프로그램 ─ 현재)]]></title>
@@ -840,14 +832,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[컴패션 토크 라이브 ‘우리가 몰랐던 어린이라는 세계’ (노들섬 ─ 프로그램 ─ 현재)]]></title>
-            <link>https://nodeul.org/program/%ec%bb%b4%ed%8c%a8%ec%85%98-%ed%86%a0%ed%81%ac-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%aa%b0%eb%9e%90%eb%8d%98-%ec%96%b4%eb%a6%b0%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%84%b8/</link>
-            <guid>https://nodeul.org/program/%ec%bb%b4%ed%8c%a8%ec%85%98-%ed%86%a0%ed%81%ac-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%aa%b0%eb%9e%90%eb%8d%98-%ec%96%b4%eb%a6%b0%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%84%b8/</guid>
-            <pubDate>Fri, 09 Dec 2022 17:39:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/10052451/%ED%8F%AC%EC%8A%A4%ED%84%B0_600x900px_150dpi-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[문화가 흐르는 예술마당 (노들섬 ─ 프로그램 ─ 현재)]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
             <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</guid>
@@ -870,14 +854,6 @@
             <pubDate>Tue, 06 Sep 2022 17:48:12 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/07025341/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴패션 토크 라이브 ‘우리가 몰랐던 어린이라는 세계’ (노들섬 ─ 프로그램 ─ 현재 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/%ec%bb%b4%ed%8c%a8%ec%85%98-%ed%86%a0%ed%81%ac-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%aa%b0%eb%9e%90%eb%8d%98-%ec%96%b4%eb%a6%b0%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%84%b8/</link>
-            <guid>https://nodeul.org/program/%ec%bb%b4%ed%8c%a8%ec%85%98-%ed%86%a0%ed%81%ac-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%aa%b0%eb%9e%90%eb%8d%98-%ec%96%b4%eb%a6%b0%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%84%b8/</guid>
-            <pubDate>Fri, 09 Dec 2022 17:39:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/10052451/%ED%8F%AC%EC%8A%A4%ED%84%B0_600x900px_150dpi-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당 (노들섬 ─ 프로그램 ─ 현재 ─ 공연)]]></title>
@@ -907,35 +883,35 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 16 Dec 2022 05:44:35 GMT</pubDate>
+            <pubDate>Fri, 16 Dec 2022 17:41:44 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31264730" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA gLGExI"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">노들섬 공식 홈페이지</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 16 Dec 2022 05:44:35 GMT</pubDate>
+            <pubDate>Fri, 16 Dec 2022 17:41:44 GMT</pubDate>
             <content:encoded><![CDATA[<div id="56391212" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA gLGExI"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">노들섬 페이스북</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 16 Dec 2022 05:44:35 GMT</pubDate>
+            <pubDate>Fri, 16 Dec 2022 17:41:44 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31420654" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA gLGExI"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-seoul " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">노들섬 유튜브 채널</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 16 Dec 2022 05:44:39 GMT</pubDate>
+            <pubDate>Fri, 16 Dec 2022 17:41:48 GMT</pubDate>
             <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA YXxfB"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Fri, 16 Dec 2022 05:44:39 GMT</pubDate>
+            <pubDate>Fri, 16 Dec 2022 17:41:48 GMT</pubDate>
             <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA YXxfB"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div></div></div>]]></content:encoded>
         </item>
     </channel>
