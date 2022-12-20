@@ -4,9 +4,25 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 17:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 노들 드림 콘서트]]></title>
+            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%eb%93%9c%eb%a6%bc-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%eb%93%9c%eb%a6%bc-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
+            <pubDate>Tue, 20 Dec 2022 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21 (수)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/13033229/%EB%85%B8%EB%93%A4-%EB%93%9C%EB%A6%BC-%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0outline_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 건축설계 인재육성사업 성과공유회]]></title>
+            <link>https://nodeul.org/program/2022-%ea%b1%b4%ec%b6%95%ec%84%a4%ea%b3%84-%ec%9d%b8%ec%9e%ac%ec%9c%a1%ec%84%b1%ec%82%ac%ec%97%85-%ec%84%b1%ea%b3%bc%ea%b3%b5%ec%9c%a0%ed%9a%8c/</link>
+            <guid>https://nodeul.org/program/2022-%ea%b1%b4%ec%b6%95%ec%84%a4%ea%b3%84-%ec%9d%b8%ec%9e%ac%ec%9c%a1%ec%84%b1%ec%82%ac%ec%97%85-%ec%84%b1%ea%b3%bc%ea%b3%b5%ec%9c%a0%ed%9a%8c/</guid>
+            <pubDate>Tue, 20 Dec 2022 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21 (수)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/16022339/1pos-227x282.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 – 심화]]></title>
             <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</link>
@@ -38,6 +54,14 @@
             <pubDate>Wed, 16 Nov 2022 17:48:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 노들 드림 콘서트]]></title>
+            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%eb%93%9c%eb%a6%bc-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%eb%93%9c%eb%a6%bc-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
+            <pubDate>Tue, 20 Dec 2022 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21 (수)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/13033229/%EB%85%B8%EB%93%A4-%EB%93%9C%EB%A6%BC-%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0outline_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
