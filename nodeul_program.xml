@@ -4,25 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 17:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 05:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쏜애플 콘서트 ‘불구경’]]></title>
-            <link>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd-2/</link>
-            <guid>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd-2/</guid>
-            <pubDate>Fri, 09 Dec 2022 05:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.23 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/09192251/%EB%B6%88%EA%B5%AC%EA%B2%BD-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안예은 단독콘서트 [제6회 오타쿠리스마스]]]></title>
-            <link>https://nodeul.org/program/%ec%95%88%ec%98%88%ec%9d%80-%eb%8b%a8%eb%8f%85%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%a0%9c6%ed%9a%8c-%ec%98%a4%ed%83%80%ec%bf%a0%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/%ec%95%88%ec%98%88%ec%9d%80-%eb%8b%a8%eb%8f%85%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%a0%9c6%ed%9a%8c-%ec%98%a4%ed%83%80%ec%bf%a0%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4/</guid>
-            <pubDate>Fri, 02 Dec 2022 05:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.25 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/02010638/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0_600_900-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[코리아 탭오케스트라 올댓리듬]]></title>
             <link>https://nodeul.org/program/%ec%bd%94%eb%a6%ac%ec%95%84-%ed%83%ad%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%98%ac%eb%8c%93%eb%a6%ac%eb%93%ac/</link>
@@ -38,14 +22,6 @@
             <pubDate>Fri, 18 Nov 2022 05:45:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.29 (목)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18185916/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-600-x-900_%EA%B9%80%EC%A7%84%ED%98%B8-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 – 심화]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%8b%ac%ed%99%94/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/28210110/%EC%A0%84%EC%8B%9C%EB%8F%84%EC%8A%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 노들섬 터프팅 클래스]]></title>
@@ -64,12 +40,20 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/13003552/Batiman-main-1-nodeul.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문화가 흐르는 예술마당]]></title>
-            <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</link>
-            <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9/</guid>
-            <pubDate>Thu, 15 Dec 2022 05:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.28 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/05/26055747/%EC%BA%A1%EC%B2%982-227x282.png" length="0" type="image/png"/>
+            <title><![CDATA[안예은 단독콘서트 [제6회 오타쿠리스마스]]]></title>
+            <link>https://nodeul.org/program/%ec%95%88%ec%98%88%ec%9d%80-%eb%8b%a8%eb%8f%85%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%a0%9c6%ed%9a%8c-%ec%98%a4%ed%83%80%ec%bf%a0%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4/</link>
+            <guid>https://nodeul.org/program/%ec%95%88%ec%98%88%ec%9d%80-%eb%8b%a8%eb%8f%85%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%a0%9c6%ed%9a%8c-%ec%98%a4%ed%83%80%ec%bf%a0%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4/</guid>
+            <pubDate>Fri, 02 Dec 2022 05:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.25 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/02010638/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0_600_900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ‘불구경’]]></title>
+            <link>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd-2/</link>
+            <guid>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd-2/</guid>
+            <pubDate>Fri, 09 Dec 2022 05:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.23 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/09192251/%EB%B6%88%EA%B5%AC%EA%B2%BD-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 노들 드림 콘서트]]></title>
@@ -102,6 +86,22 @@
             <pubDate>Fri, 09 Dec 2022 17:39:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.16 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/10052451/%ED%8F%AC%EC%8A%A4%ED%84%B0_600x900px_150dpi-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 노들 싱글벙글 콘서트]]></title>
+            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%ec%8b%b1%ea%b8%80%eb%b2%99%ea%b8%80-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%ec%8b%b1%ea%b8%80%eb%b2%99%ea%b8%80-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
+            <pubDate>Mon, 26 Dec 2022 05:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14 (수)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/02221103/%EB%85%B8%EB%93%A4-%EC%8B%B1%EA%B8%80%EB%B2%99%EA%B8%80-%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ENCORE YOU ME 20TH ANNIVERSARY CONCERT（유미 20주년 전국투어）]]></title>
+            <link>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</link>
+            <guid>https://nodeul.org/program/encore-you-me-20th-anniversary-concert%ef%bc%88%ec%9c%a0%eb%af%b8-20%ec%a3%bc%eb%85%84-%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4%ef%bc%89/</guid>
+            <pubDate>Mon, 26 Dec 2022 05:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11205154/2%EC%98%A8%EB%9D%BC%EC%9D%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
