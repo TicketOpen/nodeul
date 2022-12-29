@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 17:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 05:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 12 Dec 2022 05:39:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 (화)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/07025341/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바티망(Bâtiment)]]></title>
-            <link>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</link>
-            <guid>https://nodeul.org/program/%eb%b0%94%ed%8b%b0%eb%a7%9dbatiment/</guid>
-            <pubDate>Mon, 12 Dec 2022 05:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/07/13003552/Batiman-main-1-nodeul.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코리아 탭오케스트라 올댓리듬]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 26 Dec 2022 05:39:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.11 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/11205154/2%EC%98%A8%EB%9D%BC%EC%9D%B8_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’]]></title>
+            <link>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</link>
+            <guid>https://nodeul.org/program/2022-%ec%8b%a0%ec%a7%80%ed%9b%88-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-winter-neverland/</guid>
+            <pubDate>Thu, 29 Dec 2022 05:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/10/25020255/%EC%8B%A0%EC%A7%80%ED%9B%88-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%88-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
