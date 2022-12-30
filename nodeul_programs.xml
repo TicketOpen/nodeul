@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 17:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 05:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 18 Nov 2022 05:45:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.29 (목) 	   - 2022.12.31 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18185916/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-600-x-900_%EA%B9%80%EC%A7%84%ED%98%B8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 노들섬 터프팅 클래스]]></title>
-            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4%ec%84%ac-%ed%84%b0%ed%94%84%ed%8c%85-%ed%81%b4%eb%9e%98%ec%8a%a4/</guid>
-            <pubDate>Mon, 21 Nov 2022 17:43:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.06 (화) 	   - 2022.12.30 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/09/07025341/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코리아 탭오케스트라 올댓리듬]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Thu, 29 Dec 2022 05:39:12 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.03 (토) 	   - 2022.12.04 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/14191655/LCN_Dreamundefined_Poster_%ED%86%B5%ED%95%A9-768x1024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 죽은 자와 함께 걷는다]]></title>
+            <link>https://nodeul.org/program/%eb%82%98%eb%8a%94-%ec%a3%bd%ec%9d%80-%ec%9e%90%ec%99%80-%ed%95%a8%ea%bb%98-%ea%b1%b7%eb%8a%94%eb%8b%a4/</link>
+            <guid>https://nodeul.org/program/%eb%82%98%eb%8a%94-%ec%a3%bd%ec%9d%80-%ec%9e%90%ec%99%80-%ed%95%a8%ea%bb%98-%ea%b1%b7%eb%8a%94%eb%8b%a4/</guid>
+            <pubDate>Fri, 30 Dec 2022 05:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.26 (토) 	   - 2022.11.27 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/23051820/zombie_homepage_600x900_150dpi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
