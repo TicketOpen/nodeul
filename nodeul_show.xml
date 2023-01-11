@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 05:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 17:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[브로큰 발렌타인 3집 발매 기념 단독 콘서트]]></title>
-            <link>https://nodeul.org/program/%eb%b8%8c%eb%a1%9c%ed%81%b0-%eb%b0%9c%eb%a0%8c%ed%83%80%ec%9d%b8-3%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ea%b8%b0%eb%85%90-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/%eb%b8%8c%eb%a1%9c%ed%81%b0-%eb%b0%9c%eb%a0%8c%ed%83%80%ec%9d%b8-3%ec%a7%91-%eb%b0%9c%eb%a7%a4-%ea%b8%b0%eb%85%90-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
-            <pubDate>Mon, 09 Jan 2023 17:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.14 (토) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/01/10032613/22017336_p-227x282.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[코리아 탭오케스트라 올댓리듬]]></title>
             <link>https://nodeul.org/program/%ec%bd%94%eb%a6%ac%ec%95%84-%ed%83%ad%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%98%ac%eb%8c%93%eb%a6%ac%eb%93%ac/</link>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 22 Nov 2022 05:41:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.26 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/23051820/zombie_homepage_600x900_150dpi-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M O N S T E R]]></title>
+            <link>https://nodeul.org/program/m-o-n-s-t-e-r/</link>
+            <guid>https://nodeul.org/program/m-o-n-s-t-e-r/</guid>
+            <pubDate>Wed, 11 Jan 2023 17:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.19 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/18011855/poster2-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
