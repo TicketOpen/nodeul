@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 05:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 17:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 노들서가 주간라이브]]></title>
+            <link>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ec%a3%bc%ea%b0%84%eb%9d%bc%ec%9d%b4%eb%b8%8c/</link>
+            <guid>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4%ec%84%9c%ea%b0%80-%ec%a3%bc%ea%b0%84%eb%9d%bc%ec%9d%b4%eb%b8%8c/</guid>
+            <pubDate>Thu, 26 Jan 2023 17:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.28 (토) 15:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/01/27070540/1-100-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HEY ZICO! GIVE ME A MINUTE？]]></title>
             <link>https://nodeul.org/program/hey-zico-give-me-a-minute%ef%bc%9f/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 29 Nov 2022 17:40:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.03 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/30002712/%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900.JPG-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lacuna (라쿠나) 단독 콘서트 ‘dream:undefined’]]></title>
-            <link>https://nodeul.org/program/lacuna%eb%9d%bc%ec%bf%a0%eb%82%98%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-dreamundefined/</link>
-            <guid>https://nodeul.org/program/lacuna%eb%9d%bc%ec%bf%a0%eb%82%98%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-dreamundefined/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.03 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/11/14191655/LCN_Dreamundefined_Poster_%ED%86%B5%ED%95%A9-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
