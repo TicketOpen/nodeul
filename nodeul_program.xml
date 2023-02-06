@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 05:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 17:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 26 Jan 2023 17:43:15 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.28 (토) 15:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/01/27070540/1-100-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이바다 단독 콘서트 ‘LEEBADA’]]></title>
+            <link>https://nodeul.org/program/%ec%9d%b4%eb%b0%94%eb%8b%a4-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-leebada/</link>
+            <guid>https://nodeul.org/program/%ec%9d%b4%eb%b0%94%eb%8b%a4-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-leebada/</guid>
+            <pubDate>Mon, 06 Feb 2023 17:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.18 (토) 18:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/07071543/230126_LEEBADA_webposter_600x900px-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짙은 앨범 발매 기념 콘서트 <겨울>]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 09 Dec 2022 05:39:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.23 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/09192251/%EB%B6%88%EA%B5%AC%EA%B2%BD-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 노들 드림 콘서트]]></title>
-            <link>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%eb%93%9c%eb%a6%bc-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/2022-%eb%85%b8%eb%93%a4-%eb%93%9c%eb%a6%bc-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
-            <pubDate>Mon, 12 Dec 2022 17:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.21 (수)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/12/13033229/%EB%85%B8%EB%93%A4-%EB%93%9C%EB%A6%BC-%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0outline_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
