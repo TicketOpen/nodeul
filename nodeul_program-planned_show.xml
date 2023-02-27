@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 05:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 17:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 23 Feb 2023 05:41:12 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.01 (수) 15:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/23054729/%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PLANET – ALPHA 콘서트]]></title>
-            <link>https://nodeul.org/program/planet-alpha-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
-            <guid>https://nodeul.org/program/planet-alpha-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
-            <pubDate>Thu, 23 Feb 2023 05:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.28 (화)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/15035737/thumb_600x900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
