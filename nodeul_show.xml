@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 05:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 17:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 23 Feb 2023 05:40:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.31 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/14022711/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅]]></title>
+            <link>https://nodeul.org/program/%ec%97%90%ea%b7%b8%eb%b0%95%ec%82%ac%ed%8c%80-%ed%8c%ac%eb%af%b8%ed%8c%85/</link>
+            <guid>https://nodeul.org/program/%ec%97%90%ea%b7%b8%eb%b0%95%ec%82%ac%ed%8c%80-%ed%8c%ac%eb%af%b8%ed%8c%85/</guid>
+            <pubDate>Wed, 15 Mar 2023 17:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.23 (목)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/16001450/%EC%97%90%EA%B7%B8%EB%B0%95%EC%82%AC%ED%8C%80%EC%9D%98%EC%97%B0%EA%B5%AC%EC%8B%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0-%ED%8C%AC%EB%AF%B8%ED%8C%85-RGB-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 구원찬 단독공연 Object]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 23 Feb 2023 05:40:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.28 (토) 15:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/01/27070540/1-100-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 WORLD TOUR JAY B TAPE: PRESS PAUSE ENCORE IN SEOUL]]></title>
-            <link>https://nodeul.org/program/2022-world-tour-jay-b-tape-press-pause-encore-in-seoul/</link>
-            <guid>https://nodeul.org/program/2022-world-tour-jay-b-tape-press-pause-encore-in-seoul/</guid>
-            <pubDate>Thu, 23 Feb 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.26 (목) 19:30]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/01/18202340/%EC%A0%9C%EC%9D%B4%EB%B9%84-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
