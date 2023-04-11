@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 05:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 17:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL)]]></title>
+            <link>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</link>
+            <guid>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</guid>
+            <pubDate>Tue, 11 Apr 2023 17:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강허달림 3집 앨범 기념 콘서트]]></title>
             <link>https://nodeul.org/program/%ea%b0%95%ed%97%88%eb%8b%ac%eb%a6%bc-3%ec%a7%91-%ec%95%a8%eb%b2%94-%ea%b8%b0%eb%85%90-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 15 Mar 2023 17:40:15 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.23 (목)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/21202318/%EC%97%90%EA%B7%B8%EB%B0%95%EC%82%AC-%ED%8C%AC%EB%AF%B8%ED%8C%85-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 구원찬 단독공연 Object]]></title>
-            <link>https://nodeul.org/program/2023-%ea%b5%ac%ec%9b%90%ec%b0%ac-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0/</link>
-            <guid>https://nodeul.org/program/2023-%ea%b5%ac%ec%9b%90%ec%b0%ac-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0/</guid>
-            <pubDate>Thu, 23 Feb 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.18 (토) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/16185914/%EA%B5%AC%EC%9B%90%EC%B0%AC-2023_object_Poster_Nodeul1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
