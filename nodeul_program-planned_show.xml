@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 05:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 17:42:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Fri, 31 Mar 2023 17:40:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.21 (금) 20:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/01070457/Day-1-%EC%8B%A0%EC%9D%B8%EB%A5%98x%EC%9C%A0%EB%8B%A4%EB%B9%88%EB%B0%B4%EB%93%9C-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Have A Nice Day ＃9 – SEOUL]]></title>
-            <link>https://nodeul.org/program/have-a-nice-day-%ef%bc%839-seoul/</link>
-            <guid>https://nodeul.org/program/have-a-nice-day-%ef%bc%839-seoul/</guid>
-            <pubDate>Wed, 29 Mar 2023 18:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.15 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/30034555/04_600x900_poster_rgb-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
