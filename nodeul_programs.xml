@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 17:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 05:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,28 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/22022403/%EB%B0%94%EC%9D%B4%EC%98%AC%EB%A6%AC%EB%8B%88%EC%8A%A4%ED%8A%B8-%ED%83%81%EB%B3%B4%EB%8A%AC-%EC%BD%98%EC%84%9C%ED%8A%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0--724x1024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시티포레스티벌 2023]]></title>
+            <link>https://nodeul.org/program/%ec%8b%9c%ed%8b%b0%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%8b%b0%eb%b2%8c-2023/</link>
+            <guid>https://nodeul.org/program/%ec%8b%9c%ed%8b%b0%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%8b%b0%eb%b2%8c-2023/</guid>
+            <pubDate>Wed, 26 Apr 2023 05:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.20 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/26201756/%EC%8B%9C%ED%8F%AC%EB%A0%88_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-683x1024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2023 노들 예술체험 프로그램 <다채로운 노들공방>]]></title>
             <link>https://nodeul.org/program/16387-2/</link>
             <guid>https://nodeul.org/program/16387-2/</guid>
             <pubDate>Fri, 21 Apr 2023 17:39:34 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.13 (토) 13:00	   - 2023.05.14 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/22060446/%EB%8C%80%EC%A7%80-1-712x1024.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[＃종일반 With YURIA]]></title>
+            <link>https://nodeul.org/program/16441-2/</link>
+            <guid>https://nodeul.org/program/16441-2/</guid>
+            <pubDate>Wed, 26 Apr 2023 05:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.07 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/26185419/23005019_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[강허달림 3집 앨범 기념 콘서트]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 15 Mar 2023 05:39:43 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.07 (금) 	   - 2023.04.09 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/15204222/zz-768x1024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 노들 예술체험 프로그램 <다채로운 노들공방>]]></title>
-            <link>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4-%ec%98%88%ec%88%a0%ec%b2%b4%ed%97%98-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-2/</link>
-            <guid>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4-%ec%98%88%ec%88%a0%ec%b2%b4%ed%97%98-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-2/</guid>
-            <pubDate>Mon, 20 Mar 2023 17:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.02 (일) 14:00	   - 2023.04.23 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/23231510/%ED%99%88%ED%94%BC%ED%8F%AC%EC%8A%A4%ED%84%B0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 노들섬 반려견 페스티벌 [놀멍뭐하니]]]></title>
-            <link>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4%ec%84%ac-%eb%b0%98%eb%a0%a4%ea%b2%ac-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%eb%86%80%eb%a9%8d%eb%ad%90%ed%95%98%eb%8b%88/</link>
-            <guid>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4%ec%84%ac-%eb%b0%98%eb%a0%a4%ea%b2%ac-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-%eb%86%80%eb%a9%8d%eb%ad%90%ed%95%98%eb%8b%88/</guid>
-            <pubDate>Thu, 02 Mar 2023 17:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.01 (토) 11:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/03064521/KakaoTalk_20230302_164323174-743x1024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
