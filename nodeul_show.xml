@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 17:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 10 May 2023 05:39:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.10 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/10222901/SUPERNOVA_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 서울드럼페스티벌]]></title>
+            <link>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Tue, 16 May 2023 17:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.26 (금) 17:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/17054813/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-600X900-png-01-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Phum Viphurit Live in Seoul 2023]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 31 Mar 2023 17:39:47 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.28 (금) 20:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/01071734/%EA%B9%80%EC%82%AC%EC%9B%94%EC%87%BC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0600X900-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Spring Playlist 김마리 x 마치]]></title>
-            <link>https://nodeul.org/program/%eb%88%84%ea%b5%b0%ea%b0%80%ec%9d%98-%ed%94%8c%eb%a0%88%ec%9d%b4%eb%a6%ac%ec%8a%a4%ed%8a%b8-spring-playlist-%ea%b9%80%eb%a7%88%eb%a6%ac-x-%eb%a7%88%ec%b9%98/</link>
-            <guid>https://nodeul.org/program/%eb%88%84%ea%b5%b0%ea%b0%80%ec%9d%98-%ed%94%8c%eb%a0%88%ec%9d%b4%eb%a6%ac%ec%8a%a4%ed%8a%b8-spring-playlist-%ea%b9%80%eb%a7%88%eb%a6%ac-x-%eb%a7%88%ec%b9%98/</guid>
-            <pubDate>Fri, 31 Mar 2023 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.23 (일) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/01070946/Day-3-%EA%B9%80%EB%A7%88%EB%A6%ACx%EB%A7%88%EC%B9%98-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
