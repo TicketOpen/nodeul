@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 17:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 05:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 11 Apr 2023 05:40:22 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밍기뉴 단독콘서트 “사랑한다는 말이 통하지 않을 정도로”]]></title>
+            <link>https://nodeul.org/program/%eb%b0%8d%ea%b8%b0%eb%89%b4-%eb%8b%a8%eb%8f%85%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%82%ac%eb%9e%91%ed%95%9c%eb%8b%a4%eb%8a%94-%eb%a7%90%ec%9d%b4-%ed%86%b5%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%84/</link>
+            <guid>https://nodeul.org/program/%eb%b0%8d%ea%b8%b0%eb%89%b4-%eb%8b%a8%eb%8f%85%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%82%ac%eb%9e%91%ed%95%9c%eb%8b%a4%eb%8a%94-%eb%a7%90%ec%9d%b4-%ed%86%b5%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%84/</guid>
+            <pubDate>Thu, 18 May 2023 05:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.17 (토) 18:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/18204718/2.%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%98%A8%EB%9D%BC%EC%9D%B8-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터치드(TOUCHED) 콘서트 ‘SUPERNOVA’]]></title>
