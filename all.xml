@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 05:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 17:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 18 May 2023 05:39:07 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.17 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/18204718/2.%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%98%A8%EB%9D%BC%EC%9D%B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-712x1024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터치드(TOUCHED) 콘서트 ‘SUPERNOVA’ (노들섬 ─ 프로그램)]]></title>
@@ -128,14 +136,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/26185419/23005019_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[문화가 흐르는 예술마당 (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9-2/</link>
-            <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9-2/</guid>
-            <pubDate>Sat, 29 Apr 2023 17:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.01 (토) 	   - 2023.11.30 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/29234432/KakaoTalk_20230411_133034898-749x1024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램 ─ 전체)]]></title>
             <link>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</link>
             <guid>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</guid>
@@ -158,6 +158,14 @@
             <pubDate>Thu, 18 May 2023 05:39:07 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.17 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/18204718/2.%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%98%A8%EB%9D%BC%EC%9D%B8-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터치드(TOUCHED) 콘서트 ‘SUPERNOVA’ (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -224,20 +232,20 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/10224453/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-001-1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[놀러와요 더 커진 키카코하우스 (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/%eb%86%80%eb%9f%ac%ec%99%80%ec%9a%94-%eb%8d%94-%ec%bb%a4%ec%a7%84-%ed%82%a4%ec%b9%b4%ec%bd%94%ed%95%98%ec%9a%b0%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/%eb%86%80%eb%9f%ac%ec%99%80%ec%9a%94-%eb%8d%94-%ec%bb%a4%ec%a7%84-%ed%82%a4%ec%b9%b4%ec%bd%94%ed%95%98%ec%9a%b0%ec%8a%a4/</guid>
-            <pubDate>Thu, 27 Apr 2023 17:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.14 (일) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/28042932/%ED%82%A4%EC%B9%B4%EC%BD%94-%ED%95%98%EC%9A%B0%EC%8A%A4-%EC%BD%98%EC%84%9C%ED%8A%B8-2%EC%B0%A8_%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC_20230417_ver01_DID-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
             <link>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</link>
             <guid>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</guid>
             <pubDate>Tue, 11 Apr 2023 05:40:22 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터치드(TOUCHED) 콘서트 ‘SUPERNOVA’ (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 17 Apr 2023 05:39:03 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.28 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/17200411/2023%EC%84%9C%EC%9A%B8%EC%9E%AC%EC%A6%88%ED%8E%98%EC%8A%A4%ED%83%80_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제 10회 김사월 쇼: Married To the Music (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/%ec%a0%9c-10%ed%9a%8c-%ea%b9%80%ec%82%ac%ec%9b%94-%ec%87%bc-married-to-the-music/</link>
-            <guid>https://nodeul.org/program/%ec%a0%9c-10%ed%9a%8c-%ea%b9%80%ec%82%ac%ec%9b%94-%ec%87%bc-married-to-the-music/</guid>
-            <pubDate>Fri, 31 Mar 2023 17:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.28 (금) 20:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/03/01071734/%EA%B9%80%EC%82%AC%EC%9B%94%EC%87%BC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0600X900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 서울드럼페스티벌 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
@@ -617,6 +617,14 @@
         </item>
         <item>
             <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램 ─ 전체 ─ 기타)]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램 ─ 전체 ─ 기타)]]></title>
             <link>https://nodeul.org/program/16055-2/</link>
             <guid>https://nodeul.org/program/16055-2/</guid>
             <pubDate>Mon, 03 Apr 2023 17:39:27 GMT</pubDate>
@@ -704,14 +712,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2020/01/24022632/%E1%84%89%E1%85%A1%E1%86%AB%E1%84%90%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%80%E1%85%A9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[앤테이블 일이월식탁- 노들향기덮밥 (노들섬 ─ 프로그램 ─ 전체 ─ 기타)]]></title>
-            <link>https://nodeul.org/program/%ec%95%a4%ed%85%8c%ec%9d%b4%eb%b8%94-%ec%9d%bc%ec%9d%b4%ec%9b%94%ec%8b%9d%ed%83%81-%eb%85%b8%eb%93%a4%ed%96%a5%ea%b8%b0%eb%8d%ae%eb%b0%a5/</link>
-            <guid>https://nodeul.org/program/%ec%95%a4%ed%85%8c%ec%9d%b4%eb%b8%94-%ec%9d%bc%ec%9d%b4%ec%9b%94%ec%8b%9d%ed%83%81-%eb%85%b8%eb%93%a4%ed%96%a5%ea%b8%b0%eb%8d%ae%eb%b0%a5/</guid>
-            <pubDate>Thu, 23 Feb 2023 05:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[2020.01.10 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2020/01/12013633/%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF-%E1%84%92%E1%85%A3%E1%86%BC%E1%84%80%E1%85%B5%E1%84%83%E1%85%A5%E1%87%81%E1%84%87%E1%85%A1%E1%86%B8_%E1%84%83%E1%85%A2%E1%84%8C%E1%85%B5-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</link>
             <guid>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</guid>
@@ -734,6 +734,14 @@
             <pubDate>Thu, 18 May 2023 05:39:07 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.17 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/18204718/2.%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%98%A8%EB%9D%BC%EC%9D%B8-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터치드(TOUCHED) 콘서트 ‘SUPERNOVA’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
@@ -776,6 +784,14 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[터치드(TOUCHED) 콘서트 ‘SUPERNOVA’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/%ed%84%b0%ec%b9%98%eb%93%9ctouched-%ec%bd%98%ec%84%9c%ed%8a%b8-supernova/</link>
             <guid>https://nodeul.org/program/%ed%84%b0%ec%b9%98%eb%93%9ctouched-%ec%bd%98%ec%84%9c%ed%8a%b8-supernova/</guid>
@@ -816,12 +832,28 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/17054813/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-600X900-png-01-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
             <link>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</link>
             <guid>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</guid>
             <pubDate>Tue, 11 Apr 2023 05:40:22 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터치드(TOUCHED) 콘서트 ‘SUPERNOVA’ (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
@@ -862,6 +894,14 @@
             <pubDate>Tue, 16 May 2023 17:39:41 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.26 (금) 17:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/17054813/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-600X900-png-01-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅 (노들섬 ─ 프로그램 ─ 예정 ─ 기타)]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노들 글로벌 예술섬 디자인 공모 작품 전시 (노들섬 ─ 프로그램 ─ 현재)]]></title>
@@ -963,36 +1003,36 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Wed, 24 May 2023 05:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="31264730" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid856784_title "><title id="ltclid856784_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI lrIvV group"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-seoul " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 공식 홈페이지</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid856785_title "><title id="ltclid856785_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
+            <pubDate>Wed, 24 May 2023 17:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="31264730" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1389308_title "><title id="ltclid1389308_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI lrIvV group"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-seoul " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 공식 홈페이지</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1389309_title "><title id="ltclid1389309_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Wed, 24 May 2023 05:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="56391212" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid856786_title "><title id="ltclid856786_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI lrIvV group"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-seoul " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 페이스북</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid856787_title "><title id="ltclid856787_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
+            <pubDate>Wed, 24 May 2023 17:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="56391212" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1389310_title "><title id="ltclid1389310_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI lrIvV group"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-seoul " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 페이스북</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1389311_title "><title id="ltclid1389311_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Wed, 24 May 2023 05:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="31420654" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid856788_title "><title id="ltclid856788_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI lrIvV group"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-seoul " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 유튜브 채널</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid856789_title "><title id="ltclid856789_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
+            <pubDate>Wed, 24 May 2023 17:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="31420654" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1389312_title "><title id="ltclid1389312_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI lrIvV group"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-seoul " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 유튜브 채널</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1389313_title "><title id="ltclid1389313_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Wed, 24 May 2023 05:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1360056_title "><title id="ltclid1360056_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI bsxWGs group"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-music " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1360057_title "><title id="ltclid1360057_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
+            <pubDate>Wed, 24 May 2023 17:41:52 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid2046376_title "><title id="ltclid2046376_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI bsxWGs group"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-music " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid2046377_title "><title id="ltclid2046377_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Wed, 24 May 2023 05:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1360058_title "><title id="ltclid1360058_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI bsxWGs group"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-music " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">라디오 노들(RADIO NODEUL) YOUTUBE</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid1360059_title "><title id="ltclid1360059_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
+            <pubDate>Wed, 24 May 2023 17:41:52 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid2046378_title "><title id="ltclid2046378_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI bsxWGs group"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-music " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">라디오 노들(RADIO NODEUL) YOUTUBE</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid2046379_title "><title id="ltclid2046379_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
     </channel>
 </rss>

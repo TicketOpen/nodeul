@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 05:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 17:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 18 May 2023 05:40:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.17 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/18204718/2.%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%98%A8%EB%9D%BC%EC%9D%B8-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터치드(TOUCHED) 콘서트 ‘SUPERNOVA’]]></title>
@@ -72,6 +80,14 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에그박사팀 팬미팅]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[터치드(TOUCHED) 콘서트 ‘SUPERNOVA’]]></title>
             <link>https://nodeul.org/program/%ed%84%b0%ec%b9%98%eb%93%9ctouched-%ec%bd%98%ec%84%9c%ed%8a%b8-supernova/</link>
             <guid>https://nodeul.org/program/%ed%84%b0%ec%b9%98%eb%93%9ctouched-%ec%bd%98%ec%84%9c%ed%8a%b8-supernova/</guid>
@@ -110,6 +126,14 @@
             <pubDate>Tue, 16 May 2023 17:40:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.26 (금) 17:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/17054813/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-600X900-png-01-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[에그박사팀 팬미팅]]></title>
+            <link>https://nodeul.org/program/16937-2/</link>
+            <guid>https://nodeul.org/program/16937-2/</guid>
+            <pubDate>Wed, 24 May 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
