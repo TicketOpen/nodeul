@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 17:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 05:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 11 Apr 2023 17:39:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px-.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 CHENJIANYU FANMEETING ［DEAR U : 너에게］]]></title>
+            <link>https://nodeul.org/program/2023-chenjianyu-fanmeeting-%ef%bc%bbdear-u-%eb%84%88%ec%97%90%ea%b2%8c%ef%bc%bd/</link>
+            <guid>https://nodeul.org/program/2023-chenjianyu-fanmeeting-%ef%bc%bbdear-u-%eb%84%88%ec%97%90%ea%b2%8c%ef%bc%bd/</guid>
+            <pubDate>Mon, 12 Jun 2023 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.18 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/12194127/2.-%EC%B2%9C%EC%A7%80%EC%95%88%EC%9C%84-%ED%8C%AC%EB%AF%B8%ED%8C%85_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밍기뉴 단독콘서트 “사랑한다는 말이 통하지 않을 정도로”]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 10 May 2023 05:39:37 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.19 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/10224453/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-001-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀러와요 더 커진 키카코하우스]]></title>
-            <link>https://nodeul.org/program/%eb%86%80%eb%9f%ac%ec%99%80%ec%9a%94-%eb%8d%94-%ec%bb%a4%ec%a7%84-%ed%82%a4%ec%b9%b4%ec%bd%94%ed%95%98%ec%9a%b0%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/%eb%86%80%eb%9f%ac%ec%99%80%ec%9a%94-%eb%8d%94-%ec%bb%a4%ec%a7%84-%ed%82%a4%ec%b9%b4%ec%bd%94%ed%95%98%ec%9a%b0%ec%8a%a4/</guid>
-            <pubDate>Thu, 27 Apr 2023 17:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.14 (일) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/28042932/%ED%82%A4%EC%B9%B4%EC%BD%94-%ED%95%98%EC%9A%B0%EC%8A%A4-%EC%BD%98%EC%84%9C%ED%8A%B8-2%EC%B0%A8_%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%ED%99%8D%EB%B3%B4%EB%AC%BC_20230417_ver01_DID-576x1024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
