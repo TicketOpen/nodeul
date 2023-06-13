@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 17:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 05:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 08 Jun 2023 17:40:16 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클랜타몽 콘서트 [Dilemma]]]></title>
+            <link>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</link>
+            <guid>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</guid>
+            <pubDate>Tue, 13 Jun 2023 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.23 (금) 20:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/13230332/%EB%94%9C%EB%A0%88%EB%A7%88_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0600_900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 CHENJIANYU FANMEETING ［DEAR U : 너에게］]]></title>
@@ -70,6 +78,14 @@
             <pubDate>Thu, 08 Jun 2023 17:40:16 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클랜타몽 콘서트 [Dilemma]]]></title>
+            <link>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</link>
+            <guid>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</guid>
+            <pubDate>Tue, 13 Jun 2023 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.23 (금) 20:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/13230332/%EB%94%9C%EB%A0%88%EB%A7%88_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0600_900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 CHENJIANYU FANMEETING ［DEAR U : 너에게］]]></title>
