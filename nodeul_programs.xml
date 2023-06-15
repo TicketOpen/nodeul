@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 17:41:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4-%ec%98%88%ec%88%a0%ec%b2%b4%ed%97%98-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-4/</guid>
             <pubDate>Wed, 14 Jun 2023 17:40:05 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.08 (토) 	   - 2023.07.30 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/15021257/%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EB%85%B8%EB%93%A4%EA%B3%B5%EB%B0%A9_7%EC%9B%94_%ED%8F%AC%EC%8A%A4%ED%84%B0_1-712x1024.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/16043604/%EB%8C%80%EC%A7%80-1-712x1024.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2023 서울 국제 블루스페스티벌]]></title>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 11 Apr 2023 17:39:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px-.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 명지대학교 건축대학 졸업작품전]]></title>
+            <link>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</guid>
+            <pubDate>Thu, 15 Jun 2023 17:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.21 (수) 10:00	   - 2023.06.24 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/15233925/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8B%A0%EC%B2%AD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클랜타몽 콘서트 [Dilemma]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 May 2023 17:39:54 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.23 (화) 	   - 2023.05.31 (수)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/19040046/%EB%85%B8%EB%93%A4%EC%98%88%EC%88%A0%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Phum Viphurit Live in Seoul 2023]]></title>
-            <link>https://nodeul.org/program/phum-viphurit-live-in-seoul-2023/</link>
-            <guid>https://nodeul.org/program/phum-viphurit-live-in-seoul-2023/</guid>
-            <pubDate>Wed, 10 May 2023 05:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.21 (일) 17:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/10212135/%ED%92%88%EB%B9%84%ED%91%B8%EB%A6%BF-%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
