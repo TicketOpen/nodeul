@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 17:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 02 Jun 2023 17:39:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.30 (금) 	   - 2023.07.02 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/03061247/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-683x1024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 HAPPY TEUK DAY – Ch.701 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</link>
+            <guid>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</guid>
+            <pubDate>Tue, 20 Jun 2023 17:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.27 (화) 19:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/21025604/SME2023-HAPPY-TEUK-DAY_POSTER600X900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램)]]></title>
@@ -128,14 +136,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/17002203/%EC%88%98%EC%A0%956%EC%9B%94-%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EB%85%B8%EB%93%A4%EA%B3%B5%EB%B0%A9-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%9B%B9%EC%9A%A9-712x1024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 서울드럼페스티벌 (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8%eb%93%9c%eb%9f%bc%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Tue, 16 May 2023 17:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.26 (금) 17:00	   - 2023.05.27 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/17054813/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-600X900-png-01-683x1024.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE (노들섬 ─ 프로그램 ─ 전체)]]></title>
             <link>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</link>
             <guid>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</guid>
@@ -166,6 +166,14 @@
             <pubDate>Fri, 02 Jun 2023 17:39:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.30 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/03061247/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 HAPPY TEUK DAY – Ch.701 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</link>
+            <guid>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</guid>
+            <pubDate>Tue, 20 Jun 2023 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.27 (화) 19:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/21025604/SME2023-HAPPY-TEUK-DAY_POSTER600X900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -224,14 +232,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/10222901/SUPERNOVA_%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 상명대학교 22회 졸업 패션쇼 ‘DOT : connected the dots.’ (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/2023-%ec%83%81%eb%aa%85%eb%8c%80%ed%95%99%ea%b5%90-22%ed%9a%8c-%ec%a1%b8%ec%97%85-%ed%8c%a8%ec%85%98%ec%87%bc-dot-connected-the-dots/</link>
-            <guid>https://nodeul.org/program/2023-%ec%83%81%eb%aa%85%eb%8c%80%ed%95%99%ea%b5%90-22%ed%9a%8c-%ec%a1%b8%ec%97%85-%ed%8c%a8%ec%85%98%ec%87%bc-dot-connected-the-dots/</guid>
-            <pubDate>Fri, 26 May 2023 17:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.10 (토) 19:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/27000013/%EB%85%B8%EB%93%A4%EC%84%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
             <link>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</link>
             <guid>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</guid>
@@ -254,6 +254,14 @@
             <pubDate>Fri, 02 Jun 2023 17:39:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.30 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/03061247/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 HAPPY TEUK DAY – Ch.701 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</link>
+            <guid>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</guid>
+            <pubDate>Tue, 20 Jun 2023 17:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.27 (화) 19:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/21025604/SME2023-HAPPY-TEUK-DAY_POSTER600X900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 10 May 2023 05:39:37 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.21 (일) 17:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/10212135/%ED%92%88%EB%B9%84%ED%91%B8%EB%A6%BF-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시티포레스티벌 2023 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/%ec%8b%9c%ed%8b%b0%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%8b%b0%eb%b2%8c-2023/</link>
-            <guid>https://nodeul.org/program/%ec%8b%9c%ed%8b%b0%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%8b%b0%eb%b2%8c-2023/</guid>
-            <pubDate>Wed, 26 Apr 2023 05:39:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.20 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/26201756/%EC%8B%9C%ED%8F%AC%EB%A0%88_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 서울 국제 블루스페스티벌 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
@@ -712,20 +712,20 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2021/06/05233911/%EB%B9%B5%EB%B9%B5%EB%9F%B0-%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TUNE UP STAGE：MUSIC OASIS 튠업 스테이지：뮤직 오아시스 (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/tune-up-stage%ef%bc%9amusic-oasis-%ed%8a%a0%ec%97%85-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80%ef%bc%9a%eb%ae%a4%ec%a7%81-%ec%98%a4%ec%95%84%ec%8b%9c%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/tune-up-stage%ef%bc%9amusic-oasis-%ed%8a%a0%ec%97%85-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80%ef%bc%9a%eb%ae%a4%ec%a7%81-%ec%98%a4%ec%95%84%ec%8b%9c%ec%8a%a4/</guid>
-            <pubDate>Fri, 09 Jun 2023 05:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.08 (토) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/09205725/2-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</link>
             <guid>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</guid>
             <pubDate>Fri, 16 Jun 2023 17:39:43 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.15 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/17021353/%ED%8B%B4%ED%83%91%EB%85%B8%EB%93%A4-%ED%99%88%ED%94%BC%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：MUSIC OASIS 튠업 스테이지：뮤직 오아시스 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/tune-up-stage%ef%bc%9amusic-oasis-%ed%8a%a0%ec%97%85-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80%ef%bc%9a%eb%ae%a4%ec%a7%81-%ec%98%a4%ec%95%84%ec%8b%9c%ec%8a%a4/</link>
+            <guid>https://nodeul.org/program/tune-up-stage%ef%bc%9amusic-oasis-%ed%8a%a0%ec%97%85-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80%ef%bc%9a%eb%ae%a4%ec%a7%81-%ec%98%a4%ec%95%84%ec%8b%9c%ec%8a%a4/</guid>
+            <pubDate>Fri, 09 Jun 2023 05:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.08 (토) 18:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/09205725/2-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 노들 예술체험 프로그램 <다채로운 노들공방> (노들섬 ─ 프로그램 ─ 예정)]]></title>
@@ -744,6 +744,14 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/03061247/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 HAPPY TEUK DAY – Ch.701 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</link>
+            <guid>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</guid>
+            <pubDate>Tue, 20 Jun 2023 17:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.27 (화) 19:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/21025604/SME2023-HAPPY-TEUK-DAY_POSTER600X900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</link>
             <guid>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</guid>
@@ -752,28 +760,12 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 명지대학교 건축대학 졸업작품전 (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</guid>
-            <pubDate>Thu, 15 Jun 2023 05:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.21 (수) 10:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/15233925/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8B%A0%EC%B2%AD-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클랜타몽 콘서트 [Dilemma] (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</link>
             <guid>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</guid>
             <pubDate>Tue, 13 Jun 2023 05:40:07 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.23 (금) 20:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/13230332/%EB%94%9C%EB%A0%88%EB%A7%88_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0600_900-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：MUSIC OASIS 튠업 스테이지：뮤직 오아시스 (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/tune-up-stage%ef%bc%9amusic-oasis-%ed%8a%a0%ec%97%85-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80%ef%bc%9a%eb%ae%a4%ec%a7%81-%ec%98%a4%ec%95%84%ec%8b%9c%ec%8a%a4/</link>
-            <guid>https://nodeul.org/program/tune-up-stage%ef%bc%9amusic-oasis-%ed%8a%a0%ec%97%85-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80%ef%bc%9a%eb%ae%a4%ec%a7%81-%ec%98%a4%ec%95%84%ec%8b%9c%ec%8a%a4/</guid>
-            <pubDate>Fri, 09 Jun 2023 05:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.08 (토) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/09205725/2-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE (노들섬 ─ 프로그램 ─ 예정)]]></title>
@@ -784,12 +776,28 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/17021353/%ED%8B%B4%ED%83%91%EB%85%B8%EB%93%A4-%ED%99%88%ED%94%BC%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TUNE UP STAGE：MUSIC OASIS 튠업 스테이지：뮤직 오아시스 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/tune-up-stage%ef%bc%9amusic-oasis-%ed%8a%a0%ec%97%85-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80%ef%bc%9a%eb%ae%a4%ec%a7%81-%ec%98%a4%ec%95%84%ec%8b%9c%ec%8a%a4/</link>
+            <guid>https://nodeul.org/program/tune-up-stage%ef%bc%9amusic-oasis-%ed%8a%a0%ec%97%85-%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80%ef%bc%9a%eb%ae%a4%ec%a7%81-%ec%98%a4%ec%95%84%ec%8b%9c%ec%8a%a4/</guid>
+            <pubDate>Fri, 09 Jun 2023 05:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.08 (토) 18:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/09205725/2-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2023 서울 국제 블루스페스티벌 (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8-%ea%b5%ad%ec%a0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
             <guid>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8-%ea%b5%ad%ec%a0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
             <pubDate>Fri, 02 Jun 2023 17:39:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.30 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/03061247/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 HAPPY TEUK DAY – Ch.701 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</link>
+            <guid>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</guid>
+            <pubDate>Tue, 20 Jun 2023 17:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.27 (화) 19:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/21025604/SME2023-HAPPY-TEUK-DAY_POSTER600X900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램 ─ 예정)]]></title>
@@ -816,12 +824,12 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/03061247/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 명지대학교 건축대학 졸업작품전 (노들섬 ─ 프로그램 ─ 예정)]]></title>
-            <link>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</guid>
-            <pubDate>Thu, 15 Jun 2023 05:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.21 (수) 10:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/15233925/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8B%A0%EC%B2%AD-227x282.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</link>
+            <guid>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</guid>
+            <pubDate>Fri, 16 Jun 2023 17:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.15 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/17021353/%ED%8B%B4%ED%83%91%EB%85%B8%EB%93%A4-%ED%99%88%ED%94%BC%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：MUSIC OASIS 튠업 스테이지：뮤직 오아시스 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
@@ -832,20 +840,20 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/09205725/2-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</link>
-            <guid>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</guid>
-            <pubDate>Fri, 16 Jun 2023 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.15 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/17021353/%ED%8B%B4%ED%83%91%EB%85%B8%EB%93%A4-%ED%99%88%ED%94%BC%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 서울 국제 블루스페스티벌 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
             <link>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8-%ea%b5%ad%ec%a0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
             <guid>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8-%ea%b5%ad%ec%a0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
             <pubDate>Fri, 02 Jun 2023 17:39:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.30 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/03061247/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 HAPPY TEUK DAY – Ch.701 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</link>
+            <guid>https://nodeul.org/program/2023-happy-teuk-day-ch-701/</guid>
+            <pubDate>Tue, 20 Jun 2023 17:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.27 (화) 19:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/21025604/SME2023-HAPPY-TEUK-DAY_POSTER600X900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL) (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
@@ -872,7 +880,7 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/03061247/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 명지대학교 건축대학 졸업작품전 (노들섬 ─ 프로그램 ─ 예정 ─ 전시)]]></title>
+            <title><![CDATA[2023 명지대학교 건축대학 졸업작품전 (노들섬 ─ 프로그램 ─ 현재)]]></title>
             <link>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</link>
             <guid>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</guid>
             <pubDate>Thu, 15 Jun 2023 05:40:17 GMT</pubDate>
@@ -928,6 +936,14 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/25024524/%EB%8C%80%EC%A7%80-11-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[2023 명지대학교 건축대학 졸업작품전 (노들섬 ─ 프로그램 ─ 현재)]]></title>
+            <link>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</guid>
+            <pubDate>Thu, 15 Jun 2023 05:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.21 (수) 10:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/15233925/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8B%A0%EC%B2%AD-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에그박사팀의 연구실 in 노들섬 (노들섬 ─ 프로그램 ─ 현재)]]></title>
             <link>https://nodeul.org/program/15219-2/</link>
             <guid>https://nodeul.org/program/15219-2/</guid>
@@ -952,6 +968,14 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/25024524/%EB%8C%80%EC%A7%80-11-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[2023 명지대학교 건축대학 졸업작품전 (노들섬 ─ 프로그램 ─ 현재 ─ 전시)]]></title>
+            <link>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</link>
+            <guid>https://nodeul.org/program/2023-%eb%aa%85%ec%a7%80%eb%8c%80%ed%95%99%ea%b5%90-%ea%b1%b4%ec%b6%95%eb%8c%80%ed%95%99-%ec%a1%b8%ec%97%85%ec%9e%91%ed%92%88%ec%a0%84/</guid>
+            <pubDate>Thu, 15 Jun 2023 05:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.21 (수) 10:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/15233925/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8B%A0%EC%B2%AD-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에그박사팀의 연구실 in 노들섬 (노들섬 ─ 프로그램 ─ 현재 ─ 전시)]]></title>
             <link>https://nodeul.org/program/15219-2/</link>
             <guid>https://nodeul.org/program/15219-2/</guid>
@@ -963,35 +987,35 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 05:41:24 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 17:41:25 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31264730" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3937896_title "><title id="ltclid3937896_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI lrIvV group"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-seoul " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 공식 홈페이지</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3937897_title "><title id="ltclid3937897_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 05:41:24 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 17:41:25 GMT</pubDate>
             <content:encoded><![CDATA[<div id="56391212" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3937898_title "><title id="ltclid3937898_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI lrIvV group"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-seoul " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 페이스북</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3937899_title "><title id="ltclid3937899_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 05:41:24 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 17:41:25 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31420654" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3937900_title "><title id="ltclid3937900_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI lrIvV group"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-seoul " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 유튜브 채널</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3937901_title "><title id="ltclid3937901_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 05:41:28 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 17:41:29 GMT</pubDate>
             <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3135246_title "><title id="ltclid3135246_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI bsxWGs group"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-music " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3135247_title "><title id="ltclid3135247_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 05:41:28 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 17:41:29 GMT</pubDate>
             <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-iUuytg jAmcnV esdhrP"></div><div class="sc-gWHgXt ikxKmn"><div style="opacity:0;transform:scale(0)" class="sc-jcVebW hrCIoP"><button tabindex="-1" class="sc-citwmv kajamm"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3135248_title "><title id="ltclid3135248_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div><div class="sc-cBNfnY cHGPOa" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-bBXqnf glfyiI bsxWGs group"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fKFyDc ldGKnQ kvoroJ group" aria-describedby="profile-nodeul-music " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-hHftDr fEQWLI bhdLno kyXRaj"></div><p class="sc-hKgILt sc-jNMdTA cxwgnw kFCyzt">라디오 노들(RADIO NODEUL) YOUTUBE</p></a><button data-testid="ShareLink" class="sc-bZSQDF ivVyki share-link-icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class=" " role="img" aria-hidden="false" aria-labelledby="ltclid3135249_title "><title id="ltclid3135249_title">Share</title><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85353L11 4.20708L11.7071 3.49998L11.3536 3.14642L8.35355 0.146423H7.64645L4.64645 3.14642L4.29289 3.49998L5 4.20708L5.35355 3.85353L7.5 1.70708V9.49998V9.99998H8.5V9.49998V1.70708L10.6464 3.85353ZM1 5.5L1.5 5H4V6H2V15H14V6H12V5H14.5L15 5.5V15.5L14.5 16H1.5L1 15.5V5.5Z" fill="currentColor"></path></svg></button></div></div></div>]]></content:encoded>
         </item>
     </channel>
