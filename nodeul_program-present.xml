@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 17:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 20 Jun 2023 17:40:54 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.21 (수) 10:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/15233925/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%8B%A0%EC%B2%AD-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클랜타몽 콘서트 [Dilemma]]]></title>
-            <link>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</link>
-            <guid>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</guid>
-            <pubDate>Thu, 22 Jun 2023 17:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.23 (금) 20:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/13230332/%EB%94%9C%EB%A0%88%EB%A7%88_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0600_900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 노들 예술체험 프로그램 <다채로운 노들공방>]]></title>
@@ -54,14 +46,6 @@
             <pubDate>Tue, 28 Feb 2023 17:41:44 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.01 (수) 11:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/16005114/%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클랜타몽 콘서트 [Dilemma]]]></title>
-            <link>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</link>
-            <guid>https://nodeul.org/program/%ed%81%b4%eb%9e%9c%ed%83%80%eb%aa%bd-%ec%bd%98%ec%84%9c%ed%8a%b8-dilemma/</guid>
-            <pubDate>Thu, 22 Jun 2023 17:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.23 (금) 20:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/13230332/%EB%94%9C%EB%A0%88%EB%A7%88_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0600_900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
