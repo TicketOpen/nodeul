@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 05:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 17:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL)]]></title>
-            <link>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</link>
-            <guid>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</guid>
-            <pubDate>Sat, 24 Jun 2023 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2023 노들 예술체험 프로그램 <다채로운 노들공방>]]></title>
             <link>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4-%ec%98%88%ec%88%a0%ec%b2%b4%ed%97%98-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-3/</link>
@@ -32,14 +24,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/29234432/KakaoTalk_20230411_133034898-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 노들버스킹]]></title>
-            <link>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4/</link>
-            <guid>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4/</guid>
-            <pubDate>Tue, 28 Feb 2023 17:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.01 (수) 14:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/25024524/%EB%8C%80%EC%A7%80-11-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[에그박사팀의 연구실 in 노들섬]]></title>
             <link>https://nodeul.org/program/15219-2/</link>
             <guid>https://nodeul.org/program/15219-2/</guid>
@@ -48,28 +32,12 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/16005114/%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[럭키테이프스 내한공연 (LUCKY TAPES LIVE IN SEOUL)]]></title>
-            <link>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</link>
-            <guid>https://nodeul.org/program/%eb%9f%ad%ed%82%a4%ed%85%8c%ec%9d%b4%ed%94%84%ec%8a%a4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0-lucky-tapes-live-in-seoul/</guid>
-            <pubDate>Sat, 24 Jun 2023 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.25 (일) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/11234008/LUCKYTAPES%EA%B3%B5%EC%97%B0-%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px--227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9-2/</link>
             <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9-2/</guid>
             <pubDate>Sat, 29 Apr 2023 17:40:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/29234432/KakaoTalk_20230411_133034898-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 노들버스킹]]></title>
-            <link>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4/</link>
-            <guid>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4%eb%b2%84%ec%8a%a4%ec%bb%a4/</guid>
-            <pubDate>Tue, 28 Feb 2023 17:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.01 (수) 14:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/02/25024524/%EB%8C%80%EC%A7%80-11-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에그박사팀의 연구실 in 노들섬]]></title>
