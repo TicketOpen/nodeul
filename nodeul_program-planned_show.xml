@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 17:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 05:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Lacuna (라쿠나) 단독 콘서트 ‘Summer Noise’]]></title>
-            <link>https://nodeul.org/program/lacuna-%eb%9d%bc%ec%bf%a0%eb%82%98-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-summer-noise/</link>
-            <guid>https://nodeul.org/program/lacuna-%eb%9d%bc%ec%bf%a0%eb%82%98-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-summer-noise/</guid>
-            <pubDate>Tue, 27 Jun 2023 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.29 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/28043500/LCN_summernoise_%ED%8F%AC%EC%8A%A4%ED%84%B0_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%88%98%EC%A0%95-1-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[NELL CLUB CONCERT 2023 ‘Burn’]]></title>
             <link>https://nodeul.org/program/nell-club-concert-2023-burn/</link>
@@ -22,6 +14,14 @@
             <pubDate>Fri, 07 Jul 2023 17:41:16 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.18 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/08082023/%EB%84%AC%ED%81%B4%EC%BD%982023_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%95%88%EB%82%B4%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lacuna (라쿠나) 단독 콘서트 ‘Summer Noise’]]></title>
+            <link>https://nodeul.org/program/lacuna-%eb%9d%bc%ec%bf%a0%eb%82%98-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-summer-noise/</link>
+            <guid>https://nodeul.org/program/lacuna-%eb%9d%bc%ec%bf%a0%eb%82%98-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-summer-noise/</guid>
+            <pubDate>Tue, 27 Jun 2023 17:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.29 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/28043500/LCN_summernoise_%ED%8F%AC%EC%8A%A4%ED%84%B0_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%88%98%EC%A0%95-1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙 미디 내한공연 2023 (black midi live in seoul 2023)]]></title>
