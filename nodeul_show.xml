@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 05:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 17:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 07 Jul 2023 17:40:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.28 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/08061052/%EB%B8%94%EB%9E%99-%EB%AF%B8%EB%94%94-%EB%82%B4%ED%95%9C%EA%B3%B5%EC%97%B02023_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
+            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
+            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
+            <pubDate>Tue, 11 Jul 2023 17:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 12 Jun 2023 05:39:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.18 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/12194127/2.-%EC%B2%9C%EC%A7%80%EC%95%88%EC%9C%84-%ED%8C%AC%EB%AF%B8%ED%8C%85_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-1-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에그박사팀 팬미팅]]></title>
-            <link>https://nodeul.org/program/16937-2/</link>
-            <guid>https://nodeul.org/program/16937-2/</guid>
-            <pubDate>Wed, 24 May 2023 17:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.11 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/05/25020305/6%EC%9B%94-%EB%B0%94%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0-100-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

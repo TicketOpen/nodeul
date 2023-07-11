@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 05:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 17:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 30 Jun 2023 17:39:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.19 (수) 14:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/05035805/%EB%8F%84%EC%8A%A8%ED%8A%B8-%EA%B8%B0%EC%B4%88-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%95%84%EC%9B%83%EB%9D%BC%EC%9D%B82-227x282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
+            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
+            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
+            <pubDate>Tue, 11 Jul 2023 17:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023 민주시민교육 활동가 역량 강화 과정 1] “돌봄과 놀이를 통한 민주주의 소통 워크숍”]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Jun 2023 17:39:30 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.01 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/28014159/KakaoTalk_20230607_133642463-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 서울 국제 블루스페스티벌]]></title>
-            <link>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8-%ea%b5%ad%ec%a0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
-            <guid>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8-%ea%b5%ad%ec%a0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
-            <pubDate>Fri, 02 Jun 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.30 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/28190622/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A52-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
