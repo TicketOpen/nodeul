@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 17:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/05035805/%EB%8F%84%EC%8A%A8%ED%8A%B8-%EA%B8%B0%EC%B4%88-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%95%84%EC%9B%83%EB%9D%BC%EC%9D%B82-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
-            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
-            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
-            <pubDate>Tue, 11 Jul 2023 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NELL CLUB CONCERT 2023 ‘Burn’]]></title>
             <link>https://nodeul.org/program/nell-club-concert-2023-burn/</link>
             <guid>https://nodeul.org/program/nell-club-concert-2023-burn/</guid>
@@ -86,14 +78,6 @@
             <pubDate>Fri, 07 Jul 2023 17:41:09 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.28 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/08061052/%EB%B8%94%EB%9E%99-%EB%AF%B8%EB%94%94-%EB%82%B4%ED%95%9C%EA%B3%B5%EC%97%B02023_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
-            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
-            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
-            <pubDate>Tue, 11 Jul 2023 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

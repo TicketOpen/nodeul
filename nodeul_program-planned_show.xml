@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 17:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 07 Jul 2023 17:41:16 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.28 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/08061052/%EB%B8%94%EB%9E%99-%EB%AF%B8%EB%94%94-%EB%82%B4%ED%95%9C%EA%B3%B5%EC%97%B02023_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
-            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
-            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
-            <pubDate>Tue, 11 Jul 2023 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

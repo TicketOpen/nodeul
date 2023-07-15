@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 17:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
+            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
+            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
+            <pubDate>Sat, 15 Jul 2023 17:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2023 민주시민교육 활동가 역량 강화 과정 1] “돌봄과 놀이를 통한 민주주의 소통 워크숍”]]></title>
             <link>https://nodeul.org/program/2023-%eb%af%bc%ec%a3%bc%ec%8b%9c%eb%af%bc%ea%b5%90%ec%9c%a1-%ed%99%9c%eb%8f%99%ea%b0%80-%ec%97%ad%eb%9f%89-%ea%b0%95%ed%99%94-%ea%b3%bc%ec%a0%95-1-%eb%8f%8c%eb%b4%84%ea%b3%bc-%eb%86%80/</link>
@@ -46,6 +54,14 @@
             <pubDate>Sat, 29 Apr 2023 17:40:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/29234432/KakaoTalk_20230411_133034898-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
+            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
+            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
+            <pubDate>Sat, 15 Jul 2023 17:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE]]></title>

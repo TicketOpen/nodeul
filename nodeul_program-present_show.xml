@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 17:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
+            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
+            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
+            <pubDate>Sat, 15 Jul 2023 17:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE]]></title>
             <link>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</link>
