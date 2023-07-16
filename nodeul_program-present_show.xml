@@ -4,25 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 17:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
-            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
-            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
-            <pubDate>Sat, 15 Jul 2023 17:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE]]></title>
-            <link>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</link>
-            <guid>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</guid>
-            <pubDate>Fri, 14 Jul 2023 17:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.15 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/17021353/%ED%8B%B4%ED%83%91%EB%85%B8%EB%93%A4-%ED%99%88%ED%94%BC%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2023서울거리공연 – 구석구석 라이브]]></title>
             <link>https://nodeul.org/program/2023%ec%84%9c%ec%9a%b8%ea%b1%b0%eb%a6%ac%ea%b3%b5%ec%97%b0-%ea%b5%ac%ec%84%9d%ea%b5%ac%ec%84%9d-%eb%9d%bc%ec%9d%b4%eb%b8%8c/</link>
