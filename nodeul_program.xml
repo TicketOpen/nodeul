@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 05:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 17:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 07 Jul 2023 17:40:16 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.18 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/08082023/%EB%84%AC%ED%81%B4%EC%BD%982023_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%95%88%EB%82%B4%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BREEZE ART FAIR 2023]]></title>
+            <link>https://nodeul.org/program/breeze-art-fair-2023/</link>
+            <guid>https://nodeul.org/program/breeze-art-fair-2023/</guid>
+            <pubDate>Wed, 26 Jul 2023 17:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.17 (목) 11:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/27010510/2023-%E1%84%87%E1%85%B3%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3-%E1%84%8B%E1%85%A1%E1%84%90%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%A5%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3-%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A54_230421-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울시와 함께하는 2023 인터내셔널 키스포츠페스티벌]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 10 Jul 2023 05:40:30 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.15 (토) 10:30]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/10192559/2.-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0_%EB%AF%BC%EC%A3%BC%ED%99%94%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%85%90%EC%82%AC%EC%97%85%ED%9A%8C-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 TEEN TOP we gonna rock it drop it top it hey don’t stop it pop it LIVE]]></title>
-            <link>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</link>
-            <guid>https://nodeul.org/program/2023-teen-top-we-gonna-rock-it-drop-it-top-it-hey-dont-stop-it-pop-it-live/</guid>
-            <pubDate>Fri, 16 Jun 2023 17:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.15 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/17021353/%ED%8B%B4%ED%83%91%EB%85%B8%EB%93%A4-%ED%99%88%ED%94%BC%ED%8F%AC%EC%8A%A4%ED%84%B0-600x900px-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
