@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nodeul.org/program-present/#festival</id>
-    <title>노들섬 ─ 프로그램 ─ 현재 ─ 페스티벌</title>
-    <updated>2023-08-11T05:41:49.282Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>노들섬 ─ 프로그램 ─ 현재 ─ 페스티벌</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 11 Aug 2023 17:42:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울시와 함께하는 2023 인터내셔널 키스포츠페스티벌]]></title>
+            <link>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%ec%8b%9c%ec%99%80-%ed%95%a8%ea%bb%98%ed%95%98%eb%8a%94-2023-%ec%9d%b8%ed%84%b0%eb%82%b4%ec%85%94%eb%84%90-%ed%82%a4%ec%8a%a4%ed%8f%ac%ec%b8%a0%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%ec%8b%9c%ec%99%80-%ed%95%a8%ea%bb%98%ed%95%98%eb%8a%94-2023-%ec%9d%b8%ed%84%b0%eb%82%b4%ec%85%94%eb%84%90-%ed%82%a4%ec%8a%a4%ed%8f%ac%ec%b8%a0%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Fri, 11 Aug 2023 17:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.12 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/24204047/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
