@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 05:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 17:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 11 Aug 2023 17:39:35 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01 (토) 	   - 2023.11.30 (목)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/29234432/KakaoTalk_20230411_133034898-749x1024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 청춘의 밤 : 안예은 단독 콘서트]]></title>
+            <link>https://nodeul.org/program/%eb%a8%bc%eb%8d%b0%ec%9d%b4%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%8b%9c%ec%a6%8c6-%ec%b2%ad%ec%b6%98%ec%9d%98-%eb%b0%a4-%ec%95%88%ec%98%88%ec%9d%80-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/%eb%a8%bc%eb%8d%b0%ec%9d%b4%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%8b%9c%ec%a6%8c6-%ec%b2%ad%ec%b6%98%ec%9d%98-%eb%b0%a4-%ec%95%88%ec%98%88%ec%9d%80-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
+            <pubDate>Thu, 17 Aug 2023 17:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.12 (화) 20:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/08/18002147/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프롬 10주년 기념 단독 콘서트]]></title>
@@ -46,6 +54,14 @@
             <pubDate>Tue, 01 Aug 2023 05:50:55 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.30 (수) 	   - 2023.09.22 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/08/01193008/%EB%8F%84%EC%8A%A8%ED%8A%B8-%EC%8B%AC%ED%99%94-%ED%8F%AC%EC%8A%A4%ED%84%B0-715x1024.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 서울거리공연 구석구석라이브 [버스커페스티벌]]]></title>
+            <link>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8%ea%b1%b0%eb%a6%ac%ea%b3%b5%ec%97%b0-%ea%b5%ac%ec%84%9d%ea%b5%ac%ec%84%9d%eb%9d%bc%ec%9d%b4%eb%b8%8c-%eb%b2%84%ec%8a%a4%ec%bb%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</link>
+            <guid>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8%ea%b1%b0%eb%a6%ac%ea%b3%b5%ec%97%b0-%ea%b5%ac%ec%84%9d%ea%b5%ac%ec%84%9d%eb%9d%bc%ec%9d%b4%eb%b8%8c-%eb%b2%84%ec%8a%a4%ec%bb%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c/</guid>
+            <pubDate>Thu, 17 Aug 2023 17:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.25 (금) 	   - 2023.08.27 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/08/17231344/2023-%EB%B2%84%EC%8A%A4%EC%BB%A4%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-727x1024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NELL CLUB CONCERT 2023 ‘Burn’]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 22 Jun 2023 17:39:34 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.22 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/23030916/Cosm_1st_Concert_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_600x900-683x1024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노들컬처아카데미] 전시 도슨트 아카데미 – 기초]]></title>
-            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ea%b8%b0%ec%b4%88/</link>
-            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4%ec%bb%ac%ec%b2%98%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ec%a0%84%ec%8b%9c-%eb%8f%84%ec%8a%a8%ed%8a%b8-%ec%95%84%ec%b9%b4%eb%8d%b0%eb%af%b8-%ea%b8%b0%ec%b4%88/</guid>
-            <pubDate>Fri, 30 Jun 2023 17:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.19 (수) 14:00	   - 2023.08.09 (수)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/05035805/%EB%8F%84%EC%8A%A8%ED%8A%B8-%EA%B8%B0%EC%B4%88-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%95%84%EC%9B%83%EB%9D%BC%EC%9D%B82-715x1024.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퐁당! 시퀀스 (PongDang! sequence)]]></title>
-            <link>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</link>
-            <guid>https://nodeul.org/program/%ed%90%81%eb%8b%b9-%ec%8b%9c%ed%80%80%ec%8a%a4-pongdang-sequence/</guid>
-            <pubDate>Tue, 11 Jul 2023 17:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.16 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/12014859/%ED%8F%AC%EC%8A%A4%ED%84%B02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
