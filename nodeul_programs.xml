@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 17:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 05:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,28 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/08/29230452/%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0600x900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 SEOUL MUSIC FESTIVAL]]></title>
+            <link>https://nodeul.org/program/2023-seoul-music-festival/</link>
+            <guid>https://nodeul.org/program/2023-seoul-music-festival/</guid>
+            <pubDate>Tue, 05 Sep 2023 05:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.22 (금) 	   - 2023.09.24 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/05190153/KakaoTalk_20230905_095507260_01-724x1024.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2023 서울스트리트댄스페스티벌(SSDF)]]></title>
             <link>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8%eb%8c%84%ec%8a%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8cssdf/</link>
             <guid>https://nodeul.org/program/2023-%ec%84%9c%ec%9a%b8%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8%eb%8c%84%ec%8a%a4%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8cssdf/</guid>
             <pubDate>Mon, 04 Sep 2023 05:43:05 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.17 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/04200417/2.-%EB%85%B8%EB%93%A4%EC%84%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노들 예술섬 Let’s Nodeul 오픈콘서트]]></title>
+            <link>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%ec%98%88%ec%88%a0%ec%84%ac-lets-nodeul-%ec%98%a4%ed%94%88%ec%bd%98%ec%84%9c%ed%8a%b8/</link>
+            <guid>https://nodeul.org/program/%eb%85%b8%eb%93%a4-%ec%98%88%ec%88%a0%ec%84%ac-lets-nodeul-%ec%98%a4%ed%94%88%ec%bd%98%ec%84%9c%ed%8a%b8/</guid>
+            <pubDate>Tue, 05 Sep 2023 05:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.15 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/05210558/%EB%85%B8%EB%93%A4%EC%84%AC-%EB%B0%B0%EB%84%88_%EB%B2%A0%EB%A6%AC%EC%97%90%EC%9D%B4%EC%85%98_600-900.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1+7 민주주의 토크콘서트]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 17 Aug 2023 17:39:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.25 (금) 	   - 2023.08.27 (일)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/08/17231344/2023-%EB%B2%84%EC%8A%A4%EC%BB%A4%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-727x1024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NELL CLUB CONCERT 2023 ‘Burn’]]></title>
-            <link>https://nodeul.org/program/nell-club-concert-2023-burn/</link>
-            <guid>https://nodeul.org/program/nell-club-concert-2023-burn/</guid>
-            <pubDate>Fri, 07 Jul 2023 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.18 (금) 	   - 2023.08.27 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/08082023/%EB%84%AC%ED%81%B4%EC%BD%982023_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%95%88%EB%82%B4%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BREEZE ART FAIR 2023]]></title>
-            <link>https://nodeul.org/program/breeze-art-fair-2023/</link>
-            <guid>https://nodeul.org/program/breeze-art-fair-2023/</guid>
-            <pubDate>Wed, 26 Jul 2023 17:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.17 (목) 11:00	   - 2023.08.20 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/07/27010510/2023-%E1%84%87%E1%85%B3%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3-%E1%84%8B%E1%85%A1%E1%84%90%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%A5%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3-%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A54_230421-724x1024.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
