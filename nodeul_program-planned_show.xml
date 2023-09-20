@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 05:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 17:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Against The Current Live In Seoul 2023 :: 어게인스트 더 커런트 라이브 인 서울 2023]]></title>
+            <link>https://nodeul.org/program/against-the-current-live-in-seoul-2023-%ec%96%b4%ea%b2%8c%ec%9d%b8%ec%8a%a4%ed%8a%b8-%eb%8d%94-%ec%bb%a4%eb%9f%b0%ed%8a%b8-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9d%b8-%ec%84%9c%ec%9a%b8-2023/</link>
+            <guid>https://nodeul.org/program/against-the-current-live-in-seoul-2023-%ec%96%b4%ea%b2%8c%ec%9d%b8%ec%8a%a4%ed%8a%b8-%eb%8d%94-%ec%bb%a4%eb%9f%b0%ed%8a%b8-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%9d%b8-%ec%84%9c%ec%9a%b8-2023/</guid>
+            <pubDate>Wed, 20 Sep 2023 17:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.06 (금) 20:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/21020751/KakaoTalk_20230920_154943545_01-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[［2023 한강노들섬클래식］ 한강노들섬오페라 〈세비야의 이발사〉]]></title>
             <link>https://nodeul.org/program/%ef%bc%bb2023-%ed%95%9c%ea%b0%95%eb%85%b8%eb%93%a4%ec%84%ac%ed%81%b4%eb%9e%98%ec%8b%9d%ef%bc%bd-%ed%95%9c%ea%b0%95%eb%85%b8%eb%93%a4%ec%84%ac%ec%98%a4%ed%8e%98%eb%9d%bc-%e3%80%88%ec%84%b8%eb%b9%84/</link>
