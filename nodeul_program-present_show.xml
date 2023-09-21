@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 17:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 29 Apr 2023 17:40:42 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/29234432/KakaoTalk_20230411_133034898-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 SEOUL MUSIC FESTIVAL]]></title>
+            <link>https://nodeul.org/program/2023-seoul-music-festival/</link>
+            <guid>https://nodeul.org/program/2023-seoul-music-festival/</guid>
+            <pubDate>Thu, 21 Sep 2023 17:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.22 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/05190153/KakaoTalk_20230905_095507260_01-227x282.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
