@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 현재 ─ 페스티벌</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 05:42:18 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 SEOUL MUSIC FESTIVAL]]></title>
-            <link>https://nodeul.org/program/2023-seoul-music-festival/</link>
-            <guid>https://nodeul.org/program/2023-seoul-music-festival/</guid>
-            <pubDate>Thu, 21 Sep 2023 17:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/05190153/KakaoTalk_20230905_095507260_01-227x282.gif" length="0" type="image/gif"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-present/#festival</id>
+    <title>노들섬 ─ 프로그램 ─ 현재 ─ 페스티벌</title>
+    <updated>2023-09-24T17:41:59.644Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>
