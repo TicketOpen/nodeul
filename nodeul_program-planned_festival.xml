@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 예정 ─ 페스티벌</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 17:41:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한강아트페스타]]></title>
-            <link>https://nodeul.org/program/%ed%95%9c%ea%b0%95%ec%95%84%ed%8a%b8%ed%8e%98%ec%8a%a4%ed%83%80/</link>
-            <guid>https://nodeul.org/program/%ed%95%9c%ea%b0%95%ec%95%84%ed%8a%b8%ed%8e%98%ec%8a%a4%ed%83%80/</guid>
-            <pubDate>Tue, 26 Sep 2023 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.05 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/27011332/1695711488194-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한화와 함께하는 서울세계불꽃축제 2023]]></title>
-            <link>https://nodeul.org/program/%ed%95%9c%ed%99%94%ec%99%80-%ed%95%a8%ea%bb%98%ed%95%98%eb%8a%94-%ec%84%9c%ec%9a%b8%ec%84%b8%ea%b3%84-%eb%b6%88%ea%bd%83%ec%b6%95%ec%a0%9c-2023/</link>
-            <guid>https://nodeul.org/program/%ed%95%9c%ed%99%94%ec%99%80-%ed%95%a8%ea%bb%98%ed%95%98%eb%8a%94-%ec%84%9c%ec%9a%b8%ec%84%b8%ea%b3%84-%eb%b6%88%ea%bd%83%ec%b6%95%ec%a0%9c-2023/</guid>
-            <pubDate>Thu, 21 Sep 2023 05:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.07 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/21190644/%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-planned/#festival</id>
+    <title>노들섬 ─ 프로그램 ─ 예정 ─ 페스티벌</title>
+    <updated>2023-09-30T05:41:44.219Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://nodeul.org/program-planned/favicon.ico</icon>
+</feed>
