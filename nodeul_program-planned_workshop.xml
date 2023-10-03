@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 예정 ─ 위크숍</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 05:41:39 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[GLMC23 (기어라운지 마스터클래스 2023)]]></title>
-            <link>https://nodeul.org/program/glmc23-%ea%b8%b0%ec%96%b4%eb%9d%bc%ec%9a%b4%ec%a7%80-%eb%a7%88%ec%8a%a4%ed%84%b0%ed%81%b4%eb%9e%98%ec%8a%a4-2023/</link>
-            <guid>https://nodeul.org/program/glmc23-%ea%b8%b0%ec%96%b4%eb%9d%bc%ec%9a%b4%ec%a7%80-%eb%a7%88%ec%8a%a4%ed%84%b0%ed%81%b4%eb%9e%98%ec%8a%a4-2023/</guid>
-            <pubDate>Thu, 21 Sep 2023 05:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.04 (수)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/21202935/KakaoTalk_20230921_110932203-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-planned/#workshop</id>
+    <title>노들섬 ─ 프로그램 ─ 예정 ─ 위크숍</title>
+    <updated>2023-10-03T17:41:52.201Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>
