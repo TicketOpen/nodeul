@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 17:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 05:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열려라 국악사전 민속편]]></title>
+            <link>https://nodeul.org/program/%ec%97%b4%eb%a0%a4%eb%9d%bc-%ea%b5%ad%ec%95%85%ec%82%ac%ec%a0%84-%eb%af%bc%ec%86%8d%ed%8e%b8/</link>
+            <guid>https://nodeul.org/program/%ec%97%b4%eb%a0%a4%eb%9d%bc-%ea%b5%ad%ec%95%85%ec%82%ac%ec%a0%84-%eb%af%bc%ec%86%8d%ed%8e%b8/</guid>
+            <pubDate>Fri, 06 Oct 2023 05:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.18 (수) 10:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/06225342/03_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_v3.1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 행복한 공예장터]]></title>
             <link>https://nodeul.org/program/2023-%ed%96%89%eb%b3%b5%ed%95%9c-%ea%b3%b5%ec%98%88%ec%9e%a5%ed%84%b0/</link>
@@ -22,6 +30,14 @@
             <pubDate>Tue, 26 Sep 2023 17:39:31 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.05 (목)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/27011332/1695711488194-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023서울무형문화축제]]></title>
+            <link>https://nodeul.org/program/2023%ec%84%9c%ec%9a%b8%eb%ac%b4%ed%98%95%eb%ac%b8%ed%99%94%ec%b6%95%ec%a0%9c/</link>
+            <guid>https://nodeul.org/program/2023%ec%84%9c%ec%9a%b8%eb%ac%b4%ed%98%95%eb%ac%b8%ed%99%94%ec%b6%95%ec%a0%9c/</guid>
+            <pubDate>Fri, 06 Oct 2023 05:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.08 (일) 16:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/06212038/web-banner_600x900px_0926-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GLMC23 (기어라운지 마스터클래스 2023)]]></title>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 04 Sep 2023 17:39:53 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.05 (목) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/05023516/%EB%85%B8%EB%93%A4%EC%BB%AC%EC%B2%98%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 공공외교 랩소디 – Melodies without Borders]]></title>
-            <link>https://nodeul.org/program/2023-%ea%b3%b5%ea%b3%b5%ec%99%b8%ea%b5%90-%eb%9e%a9%ec%86%8c%eb%94%94-melodies-without-borders/</link>
-            <guid>https://nodeul.org/program/2023-%ea%b3%b5%ea%b3%b5%ec%99%b8%ea%b5%90-%eb%9e%a9%ec%86%8c%eb%94%94-melodies-without-borders/</guid>
-            <pubDate>Tue, 29 Aug 2023 05:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.26 (화) 19:30]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/08/29230452/%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0600x900-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 SEOUL MUSIC FESTIVAL]]></title>
-            <link>https://nodeul.org/program/2023-seoul-music-festival/</link>
-            <guid>https://nodeul.org/program/2023-seoul-music-festival/</guid>
-            <pubDate>Tue, 05 Sep 2023 05:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/05190153/KakaoTalk_20230905_095507260_01-227x282.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
