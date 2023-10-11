@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 현재 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 05:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 17:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023서울거리공연 – 구석구석 라이브]]></title>
-            <link>https://nodeul.org/program/2023%ec%84%9c%ec%9a%b8%ea%b1%b0%eb%a6%ac%ea%b3%b5%ec%97%b0-%ea%b5%ac%ec%84%9d%ea%b5%ac%ec%84%9d-%eb%9d%bc%ec%9d%b4%eb%b8%8c/</link>
-            <guid>https://nodeul.org/program/2023%ec%84%9c%ec%9a%b8%ea%b1%b0%eb%a6%ac%ea%b3%b5%ec%97%b0-%ea%b5%ac%ec%84%9d%ea%b5%ac%ec%84%9d-%eb%9d%bc%ec%9d%b4%eb%b8%8c/</guid>
-            <pubDate>Fri, 30 Jun 2023 17:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.01 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/28014159/KakaoTalk_20230607_133642463-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[문화가 흐르는 예술마당]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9-2/</link>
@@ -22,6 +14,14 @@
             <pubDate>Sat, 29 Apr 2023 17:40:42 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/04/29234432/KakaoTalk_20230411_133034898-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023서울거리공연 – 구석구석 라이브]]></title>
+            <link>https://nodeul.org/program/2023%ec%84%9c%ec%9a%b8%ea%b1%b0%eb%a6%ac%ea%b3%b5%ec%97%b0-%ea%b5%ac%ec%84%9d%ea%b5%ac%ec%84%9d-%eb%9d%bc%ec%9d%b4%eb%b8%8c/</link>
+            <guid>https://nodeul.org/program/2023%ec%84%9c%ec%9a%b8%ea%b1%b0%eb%a6%ac%ea%b3%b5%ec%97%b0-%ea%b5%ac%ec%84%9d%ea%b5%ac%ec%84%9d-%eb%9d%bc%ec%9d%b4%eb%b8%8c/</guid>
+            <pubDate>Fri, 30 Jun 2023 17:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.01 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/28014159/KakaoTalk_20230607_133642463-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
