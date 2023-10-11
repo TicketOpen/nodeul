@@ -4,17 +4,9 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 17:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 05:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 행복한 공예장터]]></title>
-            <link>https://nodeul.org/program/2023-%ed%96%89%eb%b3%b5%ed%95%9c-%ea%b3%b5%ec%98%88%ec%9e%a5%ed%84%b0/</link>
-            <guid>https://nodeul.org/program/2023-%ed%96%89%eb%b3%b5%ed%95%9c-%ea%b3%b5%ec%98%88%ec%9e%a5%ed%84%b0/</guid>
-            <pubDate>Wed, 04 Oct 2023 05:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.13 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/04225348/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[열려라 국악사전 민속편]]></title>
             <link>https://nodeul.org/program/%ec%97%b4%eb%a0%a4%eb%9d%bc-%ea%b5%ad%ec%95%85%ec%82%ac%ec%a0%84-%eb%af%bc%ec%86%8d%ed%8e%b8/</link>
@@ -22,6 +14,14 @@
             <pubDate>Fri, 06 Oct 2023 05:40:18 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.18 (수) 10:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/06225342/03_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_v3.1-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 행복한 공예장터]]></title>
+            <link>https://nodeul.org/program/2023-%ed%96%89%eb%b3%b5%ed%95%9c-%ea%b3%b5%ec%98%88%ec%9e%a5%ed%84%b0/</link>
+            <guid>https://nodeul.org/program/2023-%ed%96%89%eb%b3%b5%ed%95%9c-%ea%b3%b5%ec%98%88%ec%9e%a5%ed%84%b0/</guid>
+            <pubDate>Wed, 04 Oct 2023 05:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.13 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/04225348/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［2023 한강노들섬클래식］ 한강노들섬오페라 〈세비야의 이발사〉]]></title>
