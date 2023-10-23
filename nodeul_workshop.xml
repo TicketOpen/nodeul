@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체 ─ 위크숍</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 17:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 05:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마인드풀 페스티벌 2023]]></title>
+            <link>https://nodeul.org/program/%eb%a7%88%ec%9d%b8%eb%93%9c%ed%92%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-2023/</link>
+            <guid>https://nodeul.org/program/%eb%a7%88%ec%9d%b8%eb%93%9c%ed%92%80-%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c-2023/</guid>
+            <pubDate>Mon, 23 Oct 2023 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.03 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/23194439/2.-%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%85%B8%EB%93%A4%EC%84%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GLMC23 (기어라운지 마스터클래스 2023)]]></title>
             <link>https://nodeul.org/program/glmc23-%ea%b8%b0%ec%96%b4%eb%9d%bc%ec%9a%b4%ec%a7%80-%eb%a7%88%ec%8a%a4%ed%84%b0%ed%81%b4%eb%9e%98%ec%8a%a4-2023/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 23 Feb 2023 05:40:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.11 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/06/18024544/%ED%95%B4%EB%B3%B4%EB%8A%94%EA%B0%80%EB%93%9C%EB%8B%9D_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌다가드닝]]></title>
-            <link>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d-3/</link>
-            <guid>https://nodeul.org/program/%ec%96%b4%ec%a9%8c%eb%8b%a4%ea%b0%80%eb%93%9c%eb%8b%9d-3/</guid>
-            <pubDate>Thu, 23 Feb 2023 05:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.11 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2022/06/18024329/%EC%96%B4%EC%A9%8C%EB%8B%A4%EA%B0%80%EB%93%9C%EB%8B%9D_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EC%83%81%EB%8B%A8-227x282.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
