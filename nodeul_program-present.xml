@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 현재</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 17:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 30 Jun 2023 17:40:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.01 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/28014159/KakaoTalk_20230607_133642463-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열려라 국악사전 민속편]]></title>
-            <link>https://nodeul.org/program/%ec%97%b4%eb%a0%a4%eb%9d%bc-%ea%b5%ad%ec%95%85%ec%82%ac%ec%a0%84-%eb%af%bc%ec%86%8d%ed%8e%b8/</link>
-            <guid>https://nodeul.org/program/%ec%97%b4%eb%a0%a4%eb%9d%bc-%ea%b5%ad%ec%95%85%ec%82%ac%ec%a0%84-%eb%af%bc%ec%86%8d%ed%8e%b8/</guid>
-            <pubDate>Tue, 17 Oct 2023 17:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.18 (수) 10:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/06225342/03_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_v3.1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[노들컬처아카데미] 음악비평 및 글쓰기]]></title>
@@ -54,14 +46,6 @@
             <pubDate>Fri, 30 Jun 2023 17:40:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.01 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/06/28014159/KakaoTalk_20230607_133642463-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열려라 국악사전 민속편]]></title>
-            <link>https://nodeul.org/program/%ec%97%b4%eb%a0%a4%eb%9d%bc-%ea%b5%ad%ec%95%85%ec%82%ac%ec%a0%84-%eb%af%bc%ec%86%8d%ed%8e%b8/</link>
-            <guid>https://nodeul.org/program/%ec%97%b4%eb%a0%a4%eb%9d%bc-%ea%b5%ad%ec%95%85%ec%82%ac%ec%a0%84-%eb%af%bc%ec%86%8d%ed%8e%b8/</guid>
-            <pubDate>Tue, 17 Oct 2023 17:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.18 (수) 10:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/06225342/03_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0_v3.1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
