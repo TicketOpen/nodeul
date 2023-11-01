@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 위크숍</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 17:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 23 Oct 2023 05:40:29 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.03 (금)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/23194439/2.-%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%85%B8%EB%93%A4%EC%84%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3인칭 지구]]></title>
-            <link>https://nodeul.org/program/3%ec%9d%b8%ec%b9%ad-%ec%a7%80%ea%b5%ac/</link>
-            <guid>https://nodeul.org/program/3%ec%9d%b8%ec%b9%ad-%ec%a7%80%ea%b5%ac/</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.02 (목)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/26193015/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5_%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A2_%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
