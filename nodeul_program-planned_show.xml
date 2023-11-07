@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 17:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 05:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 01 Nov 2023 05:40:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.15 (수)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/01191153/KPSFF-2023-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-600_900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울디자인고등학교 사운드뮤직디자인과 제5회 정기공연 ‘서사를 그리다’]]></title>
+            <link>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%eb%94%94%ec%9e%90%ec%9d%b8%ea%b3%a0%eb%93%b1%ed%95%99%ea%b5%90-%ec%82%ac%ec%9a%b4%eb%93%9c%eb%ae%a4%ec%a7%81%eb%94%94%ec%9e%90%ec%9d%b8%ea%b3%bc-%ec%a0%9c5%ed%9a%8c-%ec%a0%95/</link>
+            <guid>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%eb%94%94%ec%9e%90%ec%9d%b8%ea%b3%a0%eb%93%b1%ed%95%99%ea%b5%90-%ec%82%ac%ec%9a%b4%eb%93%9c%eb%ae%a4%ec%a7%81%eb%94%94%ec%9e%90%ec%9d%b8%ea%b3%bc-%ec%a0%9c5%ed%9a%8c-%ec%a0%95/</guid>
+            <pubDate>Tue, 07 Nov 2023 05:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.10 (금) 18:00]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/07191315/%EC%B5%9C%EC%A2%85%EC%82%AC%EB%AE%A4%EA%B3%BC-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%A0%95%EA%B8%B0600-900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세계비즈앤스포츠월드 창간 기념 다문화 가정돕기 희망 Big 콘서트]]></title>
