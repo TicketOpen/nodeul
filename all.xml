@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 17:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 10 Nov 2023 05:39:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.30 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/10203650/1230_%ED%97%88%ED%9A%8C%EA%B2%BD%EC%97%B0%EB%A7%90%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0600900.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023<2024] 나상현씨밴드 어워즈 (노들섬 ─ 프로그램)]]></title>
+            <link>https://nodeul.org/program/2023-2/</link>
+            <guid>https://nodeul.org/program/2023-2/</guid>
+            <pubDate>Mon, 13 Nov 2023 05:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.16 (토) 	   - 2023.12.17 (일)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/13201050/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C_20232024_%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유다빈밴드 단독 콘서트 ‘우리의 밤 – 언제나 그랬듯이 함께 있을 거야’ (노들섬 ─ 프로그램)]]></title>
@@ -128,14 +136,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/23194439/2.-%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%85%B8%EB%93%A4%EC%84%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0-683x1024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sense of Planet, Episode2 (노들섬 ─ 프로그램)]]></title>
-            <link>https://nodeul.org/program/sense-of-planet-episode2/</link>
-            <guid>https://nodeul.org/program/sense-of-planet-episode2/</guid>
-            <pubDate>Thu, 26 Oct 2023 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.03 (금) 11:00	   - 2023.11.12 (일)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/27015124/%E1%84%89%E1%85%A6%E1%86%AB%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B3%E1%86%AF_%E1%84%92%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9_%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-683x1024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[문화가 흐르는 예술마당 (노들섬 ─ 프로그램 ─ 전체)]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9-2/</link>
             <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9-2/</guid>
@@ -166,6 +166,14 @@
             <pubDate>Fri, 10 Nov 2023 05:39:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.30 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/10203650/1230_%ED%97%88%ED%9A%8C%EA%B2%BD%EC%97%B0%EB%A7%90%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0600900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023<2024] 나상현씨밴드 어워즈 (노들섬 ─ 프로그램 ─ 전체)]]></title>
+            <link>https://nodeul.org/program/2023-2/</link>
+            <guid>https://nodeul.org/program/2023-2/</guid>
+            <pubDate>Mon, 13 Nov 2023 05:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/13201050/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C_20232024_%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유다빈밴드 단독 콘서트 ‘우리의 밤 – 언제나 그랬듯이 함께 있을 거야’ (노들섬 ─ 프로그램 ─ 전체)]]></title>
@@ -224,14 +232,6 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/08223907/%EC%A1%B8%EC%97%85%EC%A0%84%EC%8B%9C-%ED%8F%AC%EC%8A%A4%ED%84%B0_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-227x282.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2023 제6회 대한민국패럴스마트폰영화제 (노들섬 ─ 프로그램 ─ 전체)]]></title>
-            <link>https://nodeul.org/program/2023-%ec%a0%9c6%ed%9a%8c-%eb%8c%80%ed%95%9c%eb%af%bc%ea%b5%ad%ed%8c%a8%eb%9f%b4%ec%8a%a4%eb%a7%88%ed%8a%b8%ed%8f%b0%ec%98%81%ed%99%94%ec%a0%9c/</link>
-            <guid>https://nodeul.org/program/2023-%ec%a0%9c6%ed%9a%8c-%eb%8c%80%ed%95%9c%eb%af%bc%ea%b5%ad%ed%8c%a8%eb%9f%b4%ec%8a%a4%eb%a7%88%ed%8a%b8%ed%8f%b0%ec%98%81%ed%99%94%ec%a0%9c/</guid>
-            <pubDate>Wed, 01 Nov 2023 05:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.15 (수)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/01191153/KPSFF-2023-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%8F%AC%EC%8A%A4%ED%84%B0-600_900-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[문화가 흐르는 예술마당 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
             <link>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9-2/</link>
             <guid>https://nodeul.org/program/%eb%ac%b8%ed%99%94%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%98%88%ec%88%a0%eb%a7%88%eb%8b%b9-2/</guid>
@@ -262,6 +262,14 @@
             <pubDate>Fri, 10 Nov 2023 05:39:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.30 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/10203650/1230_%ED%97%88%ED%9A%8C%EA%B2%BD%EC%97%B0%EB%A7%90%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0600900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023<2024] 나상현씨밴드 어워즈 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2023-2/</link>
+            <guid>https://nodeul.org/program/2023-2/</guid>
+            <pubDate>Mon, 13 Nov 2023 05:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/13201050/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C_20232024_%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유다빈밴드 단독 콘서트 ‘우리의 밤 – 언제나 그랬듯이 함께 있을 거야’ (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 27 Oct 2023 17:39:20 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.09 (목)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/10/28034448/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［2023 한강노들섬클래식］ 한강노들섬오페라 〈세비야의 이발사〉 (노들섬 ─ 프로그램 ─ 전체 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/%ef%bc%bb2023-%ed%95%9c%ea%b0%95%eb%85%b8%eb%93%a4%ec%84%ac%ed%81%b4%eb%9e%98%ec%8b%9d%ef%bc%bd-%ed%95%9c%ea%b0%95%eb%85%b8%eb%93%a4%ec%84%ac%ec%98%a4%ed%8e%98%eb%9d%bc-%e3%80%88%ec%84%b8%eb%b9%84/</link>
-            <guid>https://nodeul.org/program/%ef%bc%bb2023-%ed%95%9c%ea%b0%95%eb%85%b8%eb%93%a4%ec%84%ac%ed%81%b4%eb%9e%98%ec%8b%9d%ef%bc%bd-%ed%95%9c%ea%b0%95%eb%85%b8%eb%93%a4%ec%84%ac%ec%98%a4%ed%8e%98%eb%9d%bc-%e3%80%88%ec%84%b8%eb%b9%84/</guid>
-            <pubDate>Wed, 06 Sep 2023 05:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.21 (토) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/09/06200007/%ED%95%9C%EA%B0%95%EB%85%B8%EB%93%A4%EC%84%AC%EC%98%A4%ED%8E%98%EB%9D%BC_600x900px-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 제6회 대한민국패럴스마트폰영화제 (노들섬 ─ 프로그램 ─ 전체 ─ 페스티벌)]]></title>
@@ -728,6 +728,14 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/10203650/1230_%ED%97%88%ED%9A%8C%EA%B2%BD%EC%97%B0%EB%A7%90%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0600900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2023<2024] 나상현씨밴드 어워즈 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/2023-2/</link>
+            <guid>https://nodeul.org/program/2023-2/</guid>
+            <pubDate>Mon, 13 Nov 2023 05:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/13201050/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C_20232024_%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유다빈밴드 단독 콘서트 ‘우리의 밤 – 언제나 그랬듯이 함께 있을 거야’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/%ec%9c%a0%eb%8b%a4%eb%b9%88%eb%b0%b4%eb%93%9c-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b0%a4-%ec%96%b8%ec%a0%9c%eb%82%98-%ea%b7%b8%eb%9e%ac/</link>
             <guid>https://nodeul.org/program/%ec%9c%a0%eb%8b%a4%eb%b9%88%eb%b0%b4%eb%93%9c-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b0%a4-%ec%96%b8%ec%a0%9c%eb%82%98-%ea%b7%b8%eb%9e%ac/</guid>
@@ -808,6 +816,14 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/10203650/1230_%ED%97%88%ED%9A%8C%EA%B2%BD%EC%97%B0%EB%A7%90%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0600900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2023<2024] 나상현씨밴드 어워즈 (노들섬 ─ 프로그램 ─ 예정)]]></title>
+            <link>https://nodeul.org/program/2023-2/</link>
+            <guid>https://nodeul.org/program/2023-2/</guid>
+            <pubDate>Mon, 13 Nov 2023 05:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/13201050/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C_20232024_%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유다빈밴드 단독 콘서트 ‘우리의 밤 – 언제나 그랬듯이 함께 있을 거야’ (노들섬 ─ 프로그램 ─ 예정)]]></title>
             <link>https://nodeul.org/program/%ec%9c%a0%eb%8b%a4%eb%b9%88%eb%b0%b4%eb%93%9c-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b0%a4-%ec%96%b8%ec%a0%9c%eb%82%98-%ea%b7%b8%eb%9e%ac/</link>
             <guid>https://nodeul.org/program/%ec%9c%a0%eb%8b%a4%eb%b9%88%eb%b0%b4%eb%93%9c-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b0%a4-%ec%96%b8%ec%a0%9c%eb%82%98-%ea%b7%b8%eb%9e%ac/</guid>
@@ -886,6 +902,14 @@
             <pubDate>Fri, 10 Nov 2023 05:39:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.30 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/10203650/1230_%ED%97%88%ED%9A%8C%EA%B2%BD%EC%97%B0%EB%A7%90%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0600900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023<2024] 나상현씨밴드 어워즈 (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
+            <link>https://nodeul.org/program/2023-2/</link>
+            <guid>https://nodeul.org/program/2023-2/</guid>
+            <pubDate>Mon, 13 Nov 2023 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/13201050/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C_20232024_%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유다빈밴드 단독 콘서트 ‘우리의 밤 – 언제나 그랬듯이 함께 있을 거야’ (노들섬 ─ 프로그램 ─ 예정 ─ 공연)]]></title>
@@ -1003,35 +1027,35 @@
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 12 Nov 2023 17:41:02 GMT</pubDate>
+            <pubDate>Mon, 13 Nov 2023 05:41:07 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31264730" class="sc-bdfBwQ sc-dtwoBo jAmcnV inCwUZ"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-fFubgz glfyiI fnZJVC group" type="CLASSIC"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fodVxV ldGKnQ jsyAGl group" aria-describedby="profile-nodeul-seoul " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-TmcTc fEQWLI bhdLno jTNXHS"></div><p class="sc-hKgILt sc-eLgOdN cxwgnw cEudwS">노들섬 공식 홈페이지</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 12 Nov 2023 17:41:02 GMT</pubDate>
+            <pubDate>Mon, 13 Nov 2023 05:41:07 GMT</pubDate>
             <content:encoded><![CDATA[<div id="56391212" class="sc-bdfBwQ sc-dtwoBo jAmcnV inCwUZ"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-fFubgz glfyiI fnZJVC group" type="CLASSIC"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fodVxV ldGKnQ jsyAGl group" aria-describedby="profile-nodeul-seoul " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-TmcTc fEQWLI bhdLno jTNXHS"></div><p class="sc-hKgILt sc-eLgOdN cxwgnw cEudwS">노들섬 페이스북</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 12 Nov 2023 17:41:02 GMT</pubDate>
+            <pubDate>Mon, 13 Nov 2023 05:41:07 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31420654" class="sc-bdfBwQ sc-dtwoBo jAmcnV inCwUZ"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-fFubgz glfyiI fnZJVC group" type="CLASSIC"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fodVxV ldGKnQ jsyAGl group" aria-describedby="profile-nodeul-seoul " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-TmcTc fEQWLI bhdLno jTNXHS"></div><p class="sc-hKgILt sc-eLgOdN cxwgnw cEudwS">노들섬 유튜브 채널</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 12 Nov 2023 17:41:05 GMT</pubDate>
+            <pubDate>Mon, 13 Nov 2023 05:41:11 GMT</pubDate>
             <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-dtwoBo jAmcnV inCwUZ"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-fFubgz glfyiI eNaIEH group" type="CLASSIC"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fodVxV ldGKnQ jsyAGl group" aria-describedby="profile-nodeul-music " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-TmcTc fEQWLI bhdLno jTNXHS"></div><p class="sc-hKgILt sc-eLgOdN cxwgnw cEudwS">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sun, 12 Nov 2023 17:41:05 GMT</pubDate>
+            <pubDate>Mon, 13 Nov 2023 05:41:11 GMT</pubDate>
             <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-dtwoBo jAmcnV inCwUZ"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-fFubgz glfyiI eNaIEH group" type="CLASSIC"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-fodVxV ldGKnQ jsyAGl group" aria-describedby="profile-nodeul-music " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-TmcTc fEQWLI bhdLno jTNXHS"></div><p class="sc-hKgILt sc-eLgOdN cxwgnw cEudwS">라디오 노들(RADIO NODEUL) YOUTUBE</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
     </channel>
