@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 05:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 17:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Fri, 24 Nov 2023 05:39:50 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.26 (일) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/24204643/123660_110875_138-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로큰 발렌타인 단독 콘서트－FIVE]]></title>
-            <link>https://nodeul.org/program/%eb%b8%8c%eb%a1%9c%ed%81%b0-%eb%b0%9c%eb%a0%8c%ed%83%80%ec%9d%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8%ef%bc%8dfive/</link>
-            <guid>https://nodeul.org/program/%eb%b8%8c%eb%a1%9c%ed%81%b0-%eb%b0%9c%eb%a0%8c%ed%83%80%ec%9d%b8-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8%ef%bc%8dfive/</guid>
-            <pubDate>Tue, 21 Nov 2023 05:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.25 (토) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/21185306/%EB%B3%B8%EA%B3%B5%EC%97%B0_%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%9D%BC%EB%B0%98%ED%98%95_%EC%88%98%EC%A0%95-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무대기술 스태프 아카데미 – 무대음향]]></title>
