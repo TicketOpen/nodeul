@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 17:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 05:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 10 Nov 2023 05:39:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.30 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/10203650/1230_%ED%97%88%ED%9A%8C%EA%B2%BD%EC%97%B0%EB%A7%90%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0600900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제12회 상록수 단체전 ‘꿈꾸고 그리고 나누고’ 전시회]]></title>
+            <link>https://nodeul.org/program/%ec%a0%9c12%ed%9a%8c-%ec%83%81%eb%a1%9d%ec%88%98-%eb%8b%a8%ec%b2%b4%ec%a0%84-%ea%bf%88%ea%be%b8%ea%b3%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%82%98%eb%88%84%ea%b3%a0-%ec%a0%84%ec%8b%9c/</link>
+            <guid>https://nodeul.org/program/%ec%a0%9c12%ed%9a%8c-%ec%83%81%eb%a1%9d%ec%88%98-%eb%8b%a8%ec%b2%b4%ec%a0%84-%ea%bf%88%ea%be%b8%ea%b3%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%82%98%eb%88%84%ea%b3%a0-%ec%a0%84%ec%8b%9c/</guid>
+            <pubDate>Fri, 01 Dec 2023 05:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/12/01204901/%EC%83%81%EB%A1%9D%EC%88%98_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0600x900px_150dpi-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023<2024] 나상현씨밴드 어워즈]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 29 Nov 2023 17:39:11 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.02 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/30230521/%ED%95%9C%EC%98%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0_%ED%95%9C%EC%98%AC%EB%8B%A8%EA%B3%B5-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 노들 예술체험 프로그램 <다채로운 노들공방>]]></title>
-            <link>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4-%ec%98%88%ec%88%a0%ec%b2%b4%ed%97%98-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-7/</link>
-            <guid>https://nodeul.org/program/2023-%eb%85%b8%eb%93%a4-%ec%98%88%ec%88%a0%ec%b2%b4%ed%97%98-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-7/</guid>
-            <pubDate>Tue, 07 Nov 2023 05:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.02 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/07191542/%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EB%85%B8%EB%93%A4%EA%B3%B5%EB%B0%A9_12%EC%9B%94_%ED%8F%AC%EC%8A%A4%ED%84%B0_1-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
