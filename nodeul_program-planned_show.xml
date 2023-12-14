@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 17:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 05:41:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 13 Nov 2023 05:40:06 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/13201050/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C_20232024_%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ‘불구경’]]></title>
+            <link>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd-3/</link>
+            <guid>https://nodeul.org/program/%ec%8f%9c%ec%95%a0%ed%94%8c-%ec%bd%98%ec%84%9c%ed%8a%b8-%eb%b6%88%ea%b5%ac%ea%b2%bd-3/</guid>
+            <pubDate>Thu, 14 Dec 2023 05:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.15 (금)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/12/14205115/article_13154000982466-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
