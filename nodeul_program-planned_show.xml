@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 05:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 17:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 10 Nov 2023 05:40:30 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.30 (토) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/10203650/1230_%ED%97%88%ED%9A%8C%EA%B2%BD%EC%97%B0%EB%A7%90%EC%BD%98%EC%84%9C%ED%8A%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0600900-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김뜻돌 단독공연 〈우리만의 잔치：돌잔치〉]]></title>
-            <link>https://nodeul.org/program/%ea%b9%80%eb%9c%bb%eb%8f%8c-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%e3%80%88%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%ec%9e%94%ec%b9%98%ef%bc%9a%eb%8f%8c%ec%9e%94%ec%b9%98%e3%80%89/</link>
-            <guid>https://nodeul.org/program/%ea%b9%80%eb%9c%bb%eb%8f%8c-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%e3%80%88%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%ec%9e%94%ec%b9%98%ef%bc%9a%eb%8f%8c%ec%9e%94%ec%b9%98%e3%80%89/</guid>
-            <pubDate>Tue, 28 Nov 2023 17:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.23 (토) 18:00]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/29003807/%E3%85%8B%E3%85%8B-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
