@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>노들섬 ─ 프로그램 ─ 현재 ─ 전시</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 05:41:06 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 아트서울특별전 <조각의 시간 : 흐름>]]></title>
-            <link>https://nodeul.org/program/2023-%ec%95%84%ed%8a%b8%ec%84%9c%ec%9a%b8%ed%8a%b9%eb%b3%84%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/2023-%ec%95%84%ed%8a%b8%ec%84%9c%ec%9a%b8%ed%8a%b9%eb%b3%84%ec%a0%84/</guid>
-            <pubDate>Thu, 14 Dec 2023 17:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.15 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/12/14205659/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%95%88%EB%82%B4-%ED%8F%AC%EC%8A%A4%ED%84%B0_600x900-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nodeul.org/program-present/#exhibit</id>
+    <title>노들섬 ─ 프로그램 ─ 현재 ─ 전시</title>
+    <updated>2024-02-29T17:41:11.953Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
+</feed>
