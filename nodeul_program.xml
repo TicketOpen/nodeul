@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 05:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 17:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 29 Feb 2024 05:39:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.09 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/02/29191444/%EB%A9%94%EC%9D%B8%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[REBUILD AND REVEAL THE SCENE 인공지능의 섬, 노들]]></title>
+            <link>https://nodeul.org/program/19548-2/</link>
+            <guid>https://nodeul.org/program/19548-2/</guid>
+            <pubDate>Wed, 06 Mar 2024 17:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.09 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/07012251/RSS_POSTER_IMAGE_WEB-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 쿠기콘서트 ‘BEFORE UPSET’]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 13 Nov 2023 05:39:13 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/13201050/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C_20232024_%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 아트서울특별전 <조각의 시간 : 흐름>]]></title>
-            <link>https://nodeul.org/program/2023-%ec%95%84%ed%8a%b8%ec%84%9c%ec%9a%b8%ed%8a%b9%eb%b3%84%ec%a0%84/</link>
-            <guid>https://nodeul.org/program/2023-%ec%95%84%ed%8a%b8%ec%84%9c%ec%9a%b8%ed%8a%b9%eb%b3%84%ec%a0%84/</guid>
-            <pubDate>Thu, 14 Dec 2023 05:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.15 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/12/14205659/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%95%88%EB%82%B4-%ED%8F%AC%EC%8A%A4%ED%84%B0_600x900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

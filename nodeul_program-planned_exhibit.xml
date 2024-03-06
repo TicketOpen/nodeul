@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nodeul.org/program-planned/#exhibit</id>
-    <title>노들섬 ─ 프로그램 ─ 예정 ─ 전시</title>
-    <updated>2024-03-06T05:41:13.631Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://s3-ap-northeast-2.amazonaws.com/nodeul-denomix/wp-content/themes/nodeul/img/favicons/favicon-32x32.png?v=190814</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>노들섬 ─ 프로그램 ─ 예정 ─ 전시</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 06 Mar 2024 17:41:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[REBUILD AND REVEAL THE SCENE 인공지능의 섬, 노들]]></title>
+            <link>https://nodeul.org/program/19548-2/</link>
+            <guid>https://nodeul.org/program/19548-2/</guid>
+            <pubDate>Wed, 06 Mar 2024 17:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.09 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/07012251/RSS_POSTER_IMAGE_WEB-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
