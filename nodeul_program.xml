@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 05:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 17:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스텔라장 단독 콘서트 ‘Interstellar Festival 2024’]]></title>
+            <link>https://nodeul.org/program/%ec%8a%a4%ed%85%94%eb%9d%bc%ec%9e%a5-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-interstellar-festival-2024/</link>
+            <guid>https://nodeul.org/program/%ec%8a%a4%ed%85%94%eb%9d%bc%ec%9e%a5-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-interstellar-festival-2024/</guid>
+            <pubDate>Mon, 11 Mar 2024 17:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.13 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/12022347/%ED%8F%AC%EC%8A%A4%ED%84%B0INTERSTELLAR-FESTIVAL_600x900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로맨틱펀치 ‘103번째 로맨틱 파티’]]></title>
             <link>https://nodeul.org/program/%eb%a1%9c%eb%a7%a8%ed%8b%b1%ed%8e%80%ec%b9%98-103%eb%b2%88%ec%a7%b8-%eb%a1%9c%eb%a7%a8%ed%8b%b1-%ed%8c%8c%ed%8b%b0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Dec 2023 05:39:05 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/12/01204901/%EC%83%81%EB%A1%9D%EC%88%98_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0600x900px_150dpi-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023<2024] 나상현씨밴드 어워즈]]></title>
-            <link>https://nodeul.org/program/2023-2/</link>
-            <guid>https://nodeul.org/program/2023-2/</guid>
-            <pubDate>Mon, 13 Nov 2023 05:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/11/13201050/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C_20232024_%EB%85%B8%EB%93%A4%EC%84%AC%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
