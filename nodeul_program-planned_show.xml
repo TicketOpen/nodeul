@@ -4,9 +4,17 @@
         <title>노들섬 ─ 프로그램 ─ 예정 ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 05:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 17:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 옥상달빛 단독공연 〈40〉]]></title>
+            <link>https://nodeul.org/program/2024-%ec%98%a5%ec%83%81%eb%8b%ac%eb%b9%9b-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%e3%80%8840%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2024-%ec%98%a5%ec%83%81%eb%8b%ac%eb%b9%9b-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%e3%80%8840%e3%80%89/</guid>
+            <pubDate>Tue, 19 Mar 2024 17:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/20043742/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스텔라장 단독 콘서트 ‘Interstellar Festival 2024’]]></title>
             <link>https://nodeul.org/program/%ec%8a%a4%ed%85%94%eb%9d%bc%ec%9e%a5-%eb%8b%a8%eb%8f%85-%ec%bd%98%ec%84%9c%ed%8a%b8-interstellar-festival-2024/</link>

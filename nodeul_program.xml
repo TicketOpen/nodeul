@@ -4,7 +4,7 @@
         <title>노들섬 ─ 프로그램 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 05:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 17:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 11 Mar 2024 17:39:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.13 (토)]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/12022347/%ED%8F%AC%EC%8A%A4%ED%84%B0INTERSTELLAR-FESTIVAL_600x900-227x282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 옥상달빛 단독공연 〈40〉]]></title>
+            <link>https://nodeul.org/program/2024-%ec%98%a5%ec%83%81%eb%8b%ac%eb%b9%9b-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%e3%80%8840%e3%80%89/</link>
+            <guid>https://nodeul.org/program/2024-%ec%98%a5%ec%83%81%eb%8b%ac%eb%b9%9b-%eb%8b%a8%eb%8f%85%ea%b3%b5%ec%97%b0-%e3%80%8840%e3%80%89/</guid>
+            <pubDate>Tue, 19 Mar 2024 17:39:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06 (토)]]></content:encoded>
+            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/20043742/%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로맨틱펀치 ‘103번째 로맨틱 파티’]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 21 Dec 2023 05:39:20 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.21 (목) 18:00]]></content:encoded>
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/12/21190613/4%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%8F%AC%EC%8A%A4%ED%84%B0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제12회 상록수 단체전 ‘꿈꾸고 그리고 나누고’ 전시회]]></title>
-            <link>https://nodeul.org/program/%ec%a0%9c12%ed%9a%8c-%ec%83%81%eb%a1%9d%ec%88%98-%eb%8b%a8%ec%b2%b4%ec%a0%84-%ea%bf%88%ea%be%b8%ea%b3%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%82%98%eb%88%84%ea%b3%a0-%ec%a0%84%ec%8b%9c/</link>
-            <guid>https://nodeul.org/program/%ec%a0%9c12%ed%9a%8c-%ec%83%81%eb%a1%9d%ec%88%98-%eb%8b%a8%ec%b2%b4%ec%a0%84-%ea%bf%88%ea%be%b8%ea%b3%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%82%98%eb%88%84%ea%b3%a0-%ec%a0%84%ec%8b%9c/</guid>
-            <pubDate>Fri, 01 Dec 2023 05:39:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.16 (토)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2023/12/01204901/%EC%83%81%EB%A1%9D%EC%88%98_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%ED%8F%AC%EC%8A%A4%ED%84%B0600x900px_150dpi-227x282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
