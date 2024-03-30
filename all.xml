@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 05:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 17:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -664,62 +664,38 @@
             <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/12022347/%ED%8F%AC%EC%8A%A4%ED%84%B0INTERSTELLAR-FESTIVAL_600x900-227x282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울문화재단 창립 20주년 기념 ‘서울스테이지 2024’ (노들섬 ─ 프로그램 ─ 현재)]]></title>
-            <link>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80-2024-3%ec%9b%94-%ea%b3%b5%ec%97%b0/</link>
-            <guid>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80-2024-3%ec%9b%94-%ea%b3%b5%ec%97%b0/</guid>
-            <pubDate>Fri, 22 Mar 2024 17:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/23020109/0322_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%95%88%EB%82%B4_%EC%88%98%EC%A0%95%EB%A1%9C%EA%B3%A0_0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울문화재단 창립 20주년 기념 ‘서울스테이지 2024’ (노들섬 ─ 프로그램 ─ 현재)]]></title>
-            <link>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80-2024-3%ec%9b%94-%ea%b3%b5%ec%97%b0/</link>
-            <guid>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80-2024-3%ec%9b%94-%ea%b3%b5%ec%97%b0/</guid>
-            <pubDate>Fri, 22 Mar 2024 17:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/23020109/0322_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%95%88%EB%82%B4_%EC%88%98%EC%A0%95%EB%A1%9C%EA%B3%A0_0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울문화재단 창립 20주년 기념 ‘서울스테이지 2024’ (노들섬 ─ 프로그램 ─ 현재 ─ 공연)]]></title>
-            <link>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80-2024-3%ec%9b%94-%ea%b3%b5%ec%97%b0/</link>
-            <guid>https://nodeul.org/program/%ec%84%9c%ec%9a%b8%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%a7%80-2024-3%ec%9b%94-%ea%b3%b5%ec%97%b0/</guid>
-            <pubDate>Fri, 22 Mar 2024 17:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29 (금)]]></content:encoded>
-            <enclosure url="https://d27rhg3fr98tz.cloudfront.net/wp-content/uploads/2024/03/23020109/0322_%EB%85%B8%EB%93%A4%EC%84%AC_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%95%88%EB%82%B4_%EC%88%98%EC%A0%95%EB%A1%9C%EA%B3%A0_0-227x282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sat, 30 Mar 2024 05:41:17 GMT</pubDate>
+            <pubDate>Sat, 30 Mar 2024 17:40:58 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31264730" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI dWMVrc group" type="CLASSIC"><a href="http://nodeul.org/" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-nodeul-seoul " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">노들섬 공식 홈페이지</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sat, 30 Mar 2024 05:41:17 GMT</pubDate>
+            <pubDate>Sat, 30 Mar 2024 17:40:58 GMT</pubDate>
             <content:encoded><![CDATA[<div id="56391212" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI dWMVrc group" type="CLASSIC"><a href="https://www.facebook.com/nodeul.seoul" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-nodeul-seoul " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">노들섬 페이스북</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sat, 30 Mar 2024 05:41:17 GMT</pubDate>
+            <pubDate>Sat, 30 Mar 2024 17:40:58 GMT</pubDate>
             <content:encoded><![CDATA[<div id="31420654" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI dWMVrc group" type="CLASSIC"><a href="https://www.youtube.com/channel/UCZoKVOV7BFps3-HkyWxM8ig" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-nodeul-seoul " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">노들섬 유튜브 채널</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sat, 30 Mar 2024 05:41:20 GMT</pubDate>
+            <pubDate>Sat, 30 Mar 2024 17:41:01 GMT</pubDate>
             <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI wkqLJ group" type="CLASSIC"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-nodeul-music " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 음악노들 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/nodeul/all.xml</link>
             <guid>https://TicketOpen.github.io/nodeul/all.xml</guid>
-            <pubDate>Sat, 30 Mar 2024 05:41:20 GMT</pubDate>
+            <pubDate>Sat, 30 Mar 2024 17:41:01 GMT</pubDate>
             <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI wkqLJ group" type="CLASSIC"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-nodeul-music " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">라디오 노들(RADIO NODEUL) YOUTUBE</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
     </channel>
